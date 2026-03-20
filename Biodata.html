@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIODATA | DTF 1 Legacy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&family=Dancing+Script:wght@700&family=Playfair+Display:italic,wght@700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #020617; color: #f8fafc; overflow-x: hidden; }
+        
+        .glass { 
+            background: rgba(255, 255, 255, 0.02); 
+            backdrop-filter: blur(15px); 
+            border: 1px solid rgba(255, 255, 255, 0.05); 
+        }
+
+        /* Kartu Khusus Restu (Gold Legacy) */
+        .gold-legacy {
+            background: linear-gradient(145deg, rgba(251, 191, 36, 0.05), rgba(0, 0, 0, 0.2));
+            border: 1px solid rgba(251, 191, 36, 0.3) !important;
+            box-shadow: 0 0 20px rgba(251, 191, 36, 0.1);
+        }
+        
+        @media (min-width: 1024px) {
+            .glass-hover:hover {
+                background: rgba(255, 255, 255, 0.05);
+                border: 1px solid rgba(59, 130, 246, 0.3);
+                transform: translateY(-8px);
+            }
+            .gold-legacy:hover {
+                border: 1px solid rgba(251, 191, 36, 0.6) !important;
+                box-shadow: 0 0 30px rgba(251, 191, 36, 0.2);
+            }
+        }
+
+        /* --- ANIMASI DRAMATIS --- */
+        .students-wrapper {
+            display: inline-flex;
+            align-items: center;
+            position: relative;
+            max-width: 180px;
+            transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+            vertical-align: middle;
+        }
+
+        @media (min-width: 768px) { .students-wrapper { max-width: 500px; } }
+
+        .strike-line {
+            position: absolute;
+            left: 0;
+            top: 55%;
+            width: 0;
+            height: 3px;
+            background: #3b82f6;
+            border-radius: 10px;
+            transition: width 0.4s ease-out;
+            z-index: 10;
+        }
+
+        @media (min-width: 768px) { .strike-line { height: 6px; } }
+        .line-active { width: 100% !important; }
+
+        @keyframes fallAndFade {
+            0% { transform: translateY(0) rotate(0deg); opacity: 1; }
+            100% { transform: translateY(50px) rotate(10deg); opacity: 0; filter: blur(10px); }
+        }
+        .falling { animation: fallAndFade 0.8s forwards ease-in; }
+
+        .shrink-container { max-width: 0 !important; opacity: 0; overflow: hidden; }
+
+        @keyframes wiggle {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(2deg); }
+            75% { transform: rotate(-2deg); }
+        }
+        .wiggle-effect { animation: wiggle 0.1s infinite; }
+
+        .animate-modal { animation: modalShow 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+        @keyframes modalShow { from { opacity: 0; transform: scale(0.95); } to { opacity: 1; transform: scale(1); } }
+    </style>
+</head>
+<body class="antialiased">
+
+    <nav class="sticky top-0 z-40 bg-[#020617]/90 backdrop-blur-xl border-b border-white/5 px-4 py-4 md:px-8">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="index.html" class="group flex items-center gap-3 no-underline">
+                <div class="relative w-6 h-5 flex flex-col justify-between">
+                    <span class="h-[2px] w-full bg-white rounded-full transition-all group-hover:rotate-45 group-hover:translate-y-[9px]"></span>
+                    <span class="h-[2px] w-full bg-white rounded-full transition-all group-hover:scale-x-0 group-hover:opacity-0"></span>
+                    <span class="h-[2px] w-full bg-white rounded-full transition-all group-hover:-rotate-45 group-hover:-translate-y-[9px]"></span>
+                </div>
+                <span class="text-[10px] md:text-xs font-black tracking-widest text-white uppercase group-hover:text-blue-400 transition-colors">Back to Album</span>
+            </a>
+            <h1 class="text-lg md:text-xl font-black italic">DTF<span class="text-blue-500">1</span></h1>
+        </div>
+    </nav>
+
+    <header class="container mx-auto px-6 pt-12 md:pt-24 pb-12 text-center">
+        <span class="text-blue-500 text-[8px] md:text-[10px] font-bold tracking-[0.5em] uppercase mb-4 block animate-pulse">Selamat datang </span>
+        <h2 class="text-3xl sm:text-5xl md:text-8xl font-black tracking-tighter mb-6 uppercase flex flex-wrap justify-center items-center gap-2 md:gap-4 leading-none">
+            <span>BIODATA</span>
+            <div id="wrapper" class="students-wrapper">
+                <span id="strikeText" class="font-serif italic font-light text-slate-500 whitespace-nowrap">STUDENTS</span>
+                <span id="strikeLine" class="strike-line"></span>
+            </div>
+        </h2>
+        <p class="text-slate-500 max-w-xl mx-auto text-xs md:text-sm leading-relaxed px-4">
+            Mengenal lebih dekat talenta <span class="text-white font-semibold">DTF 1</span> Angkatan 2026 SMKN 2 Adiwerna.
+        </p>
+    </header>
+
+    <main class="container mx-auto px-4 md:px-8 pb-32">
+        <div id="studentContainer" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 md:gap-8">
+            </div>
+    </main>
+
+    <div id="bioModal" class="fixed inset-0 bg-[#020617]/98 hidden z-[100] items-center justify-center p-4 backdrop-blur-2xl overflow-y-auto">
+        <div class="bg-slate-900 w-full max-w-4xl rounded-[2rem] overflow-hidden shadow-2xl border border-white/5 animate-modal flex flex-col md:flex-row my-auto">
+            <div class="md:w-1/2 h-72 md:h-[600px] relative">
+                <img id="mFoto" src="" class="w-full h-full object-cover" alt="Detail">
+                <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
+                <button onclick="closeBio()" class="absolute top-4 right-4 md:top-6 md:left-6 w-10 h-10 rounded-full bg-black/40 backdrop-blur-lg flex items-center justify-center text-white text-2xl hover:bg-red-500 transition-all">&times;</button>
+            </div>
+            <div class="md:w-1/2 p-6 md:p-12 flex flex-col justify-center">
+                <span id="mKelas" class="text-blue-500 font-bold tracking-[0.3em] uppercase text-[9px] mb-2 block"></span>
+                <h2 id="mNama" class="text-2xl md:text-4xl font-black tracking-tighter mb-6 uppercase leading-tight"></h2>
+                
+                <div class="space-y-6">
+                    <div class="flex items-start gap-4">
+                        <div class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center text-xl shrink-0">🎨</div>
+                        <div>
+                            <h4 class="text-[9px] font-bold uppercase tracking-widest text-slate-500 mb-1">Hobi & Passion</h4>
+                            <p id="mHobi" class="text-slate-200 text-sm font-medium"></p>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-4">
+                        <div class="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center text-xl shrink-0">💬</div>
+                        <div>
+                            <h4 class="text-[9px] font-bold uppercase tracking-widest text-slate-500 mb-1">My Words</h4>
+                            <p id="mQuotes" class="text-slate-300 text-sm italic font-serif leading-relaxed"></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-10">
+                    <a id="mIG" href="#" target="_blank" class="flex items-center justify-center gap-3 w-full bg-white text-black py-4 rounded-2xl font-bold hover:bg-blue-600 hover:text-white transition-all shadow-xl text-sm uppercase tracking-widest">
+                        Follow Instagram
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Database Siswa + Tambahan Restu Dwi
+        const students = [
+            { nama: "Akhmad Dwi Afandi", foto: "foto1.jpeg", kelas: "XII DTF 1", hobi: "Membaca komik, bikin novel", quotes: "kalo ada yang bilang uang tidak memberi kebahagiaan, itu berarti uangmu kurang blok", ig: "dwiafandi_092771" },
+            { nama: "Anisatuzzuhriyah", foto: "foto2.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "xyzuhryahhh18" },
+            { nama: "Anisa Hanum Salsabila", foto: "foto3.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "ig_siswa_3" },
+            { nama: "Arnesya Ramadani", foto: "foto4.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "enesyaaa_19" },
+            { nama: "Bimo Zakaria", foto: "foto5.jpeg", kelas: "XII DTF 1", hobi: "Futsal, basket, sepak bola", quotes: "respect, sehat selalu berbakti kepada orang tua", ig: "bimoozr" },
+            { nama: "Bunga Asfaraini Alfarah", foto: "foto6.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "asfrainialfa_" },
+            { nama: "De Nadyn Risky Aullya", foto: "foto7.jpeg", kelas: "XII DTF 1", hobi: "Balap liar", quotes: "cintai aku karena Allah", ig: "i.wannalove.u" },
+            { nama: "Dicky Dwi Kurniawan", foto: "foto8.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "tetap semangat walaupun pusing", ig: "ig_siswa_8" },
+            { nama: "Fardhina Syahdan", foto: "foto9.jpeg", kelas: "XII DTF 1", hobi: "Main game", quotes: "Quotes Siswa", ig: "frdhnasyhdan21__" },
+            { nama: "Imtisalul Hanifah", foto: "foto10.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "ig_siswa_10" },
+            { nama: "Intan Suci Rahmadhani", foto: "foto11.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "ntaaaaa_ajaaa" },
+            { nama: "Luqman Maulana Ibrahim", foto: "foto12.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "lqmnn_aselii" },
+            { nama: "M. Rizki Abi Nauval", foto: "foto13.jpeg", kelas: "XII DTF 1", hobi: "Desain grafis, kicau mania", quotes: "jos", ig: "nnnopal0" },
+            { nama: "M. Alif Syaefudin", foto: "foto14.jpeg", kelas: "XII DTF 1", hobi: "Olahraga", quotes: "tetap menjadi orang baik", ig: "alippp.syaee" },
+            { nama: "M. Arif Pandu Pratama", foto: "foto15.jpeg", kelas: "XII DTF 1", hobi: "Pingpong, mancing", quotes: "tetap bersyukur", ig: "usroo___" },
+            { nama: "M. Ikhsan Syabani", foto: "foto16.jpeg", kelas: "XII DTF 1", hobi: "Sepakbola", quotes: "You'll Never Walk Alone", ig: "ikhsnsouza" },
+            { nama: "M. Ilham Rifa i", foto: "foto17.jpeg", kelas: "XII DTF 1", hobi: "Nonton film", quotes: "Jadilah pemenang di setiap tantangan", ig: "rreppai" },
+            { nama: "M. Raihan Putra", foto: "foto18.jpeg", kelas: "XII DTF 1", hobi: "Golet batu giok", quotes: "jangan menyerah sebelum perang", ig: "rei_suka_wajik" },
+            { nama: "Nadhif Arva Saputra", foto: "foto19.jpeg", kelas: "XII DTF 1", hobi: "Bal balan", quotes: "bismillah sukses", ig: "ig_siswa_19" },
+            { nama: "Nadhif Maulana Alfajri", foto: "foto20.jpeg", kelas: "XII DTF 1", hobi: "Nonton Chelsea", quotes: "KJD nich", ig: "nadhiff_maulanaa" },
+            { nama: "Naila Arthalita", foto: "foto21.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "nyllartha_" },
+            { nama: "Nazwa Aryanti Kusdiana", foto: "foto22.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "nzwaryantii" },
+            { nama: "Nia Octaviani", foto: "foto23.jpeg", kelas: "XII DTF 1", hobi: "Nyanyi", quotes: "astaghfirullah", ig: "twinklenyaa" },
+            { nama: "Nur Abdul Mufit", foto: "foto24.jpeg", kelas: "XII DTF 1", hobi: "Fitness gym", quotes: "HOORAASSS!!!!", ig: "fitzzsasns" },
+            { nama: "Nurin Nasywa Auliya", foto: "foto25.jpeg", kelas: "XII DTF 1", hobi: "Berenang", quotes: "gpp", ig: "nasywaaulya_" },
+            { nama: "Putri Revalina", foto: "foto26.jpeg", kelas: "XII DTF 1", hobi: "Liat TikTok", quotes: "ngga papa", ig: "rev.7400" },
+            { nama: "Rahma Azzahra", foto: "foto27.jpeg", kelas: "XII DTF 1", hobi: "Badminton", quotes: "alahh", ig: "rrahma.az" },
+            { nama: "Rizki Ashari", foto: "foto28.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "alwasyriz" },
+            { nama: "Siti Rahma Sakinah", foto: "foto29.jpeg", kelas: "XII DTF 1", hobi: "Maen gem", quotes: "sayang ibu dan bapak", ig: "amaararaa_" },
+            { nama: "Sugino Santoso", foto: "foto30.jpeg", kelas: "XII DTF 1", hobi: "Mancing", quotes: "perbaiki sholat mu", ig: "suugionsnts" },
+            { nama: "Varent Ramadhani Ratu Hanis", foto: "foto31.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "vvrntt.r" },
+            { nama: "Wanda Putri Jayani", foto: "foto32.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "ig_siswa_32" },
+            { nama: "Willy Adi Saputra", foto: "foto33.jpeg", kelas: "XII DTF 1", hobi: "Motoran", quotes: "hidup harus punya prinsip", ig: "willysputra__" },
+            { nama: "Wulan Ayu Noviani", foto: "foto34.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "ig_siswa_34" },
+            { nama: "Zaskia Tri Murtiya Ningrum", foto: "foto35.jpeg", kelas: "XII DTF 1", hobi: "Hobi Siswa", quotes: "Quotes Siswa", ig: "kiamrtya" },
+            // SISWA KHUSUS
+            { nama: "Restu Dwi", foto: "restu.jpeg", kelas: "X DTF 1 (Alumni)", hobi: "Membangun Kenangan", quotes: "Waktu kita singkat, tapi rasa persaudaraan ini selamanya.", ig: "restudwi", status: "legacy" }
+        ];
+
+        // RENDER CARDS
+        const container = document.getElementById('studentContainer');
+        students.forEach(student => {
+            const isLegacy = student.status === "legacy";
+            const card = `
+                <div onclick="openBio('${student.nama}', '${student.foto}', '${student.kelas}', '${student.hobi}', '${student.quotes}', '${student.ig}')" 
+                     class="glass rounded-[2rem] overflow-hidden cursor-pointer transition-all duration-500 glass-hover group ${isLegacy ? 'gold-legacy' : ''}">
+                    <div class="h-48 md:h-72 overflow-hidden relative">
+                        <img src="${student.foto}" class="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition duration-700" alt="${student.nama}">
+                        <div class="absolute inset-0 bg-gradient-to-t from-[#020617] to-transparent opacity-60"></div>
+                        ${isLegacy ? '<span class="absolute top-4 left-4 bg-amber-500 text-black text-[8px] font-black px-3 py-1 rounded-full shadow-lg">LEGACY</span>' : ''}
+                    </div>
+                    <div class="p-4 text-center">
+                        <h3 class="text-sm md:text-lg font-bold tracking-tight leading-tight ${isLegacy ? 'text-amber-400' : ''}">${student.nama}</h3>
+                        <p class="text-[8px] md:text-[10px] ${isLegacy ? 'text-amber-500' : 'text-blue-500'} font-bold tracking-widest uppercase mt-2">Detail &rarr;</p>
+                    </div>
+                </div>
+            `;
+            container.innerHTML += card;
+        });
+
+        // MODAL LOGIC
+        function openBio(nama, foto, kelas, hobi, quotes, ig) {
+            document.getElementById('mNama').innerText = nama;
+            document.getElementById('mFoto').src = foto;
+            document.getElementById('mKelas').innerText = kelas;
+            document.getElementById('mHobi').innerText = hobi;
+            document.getElementById('mQuotes').innerText = `"${quotes}"`;
+            document.getElementById('mIG').href = `https://instagram.com/${ig}`;
+
+            const modal = document.getElementById('bioModal');
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeBio() {
+            const modal = document.getElementById('bioModal');
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+            document.body.style.overflow = 'auto';
+        }
+
+        // HEADER ANIMATION
+        function runPremiumAnimation() {
+            const strikeText = document.getElementById('strikeText');
+            const strikeLine = document.getElementById('strikeLine');
+            const wrapper = document.getElementById('wrapper');
+
+            setTimeout(() => { if(strikeLine) strikeLine.classList.add('line-active'); }, 1000);
+            setTimeout(() => { 
+                if(strikeText) strikeText.classList.add('wiggle-effect'); 
+                if(strikeLine) strikeLine.classList.add('wiggle-effect'); 
+            }, 1400);
+            setTimeout(() => { 
+                if(strikeText) { strikeText.classList.remove('wiggle-effect'); strikeText.classList.add('falling'); }
+                if(strikeLine) { strikeLine.classList.remove('wiggle-effect'); strikeLine.classList.add('falling'); }
+            }, 2000);
+            setTimeout(() => { if(wrapper) wrapper.classList.add('shrink-container'); }, 2200);
+            setTimeout(() => { 
+                if(wrapper) wrapper.classList.remove('shrink-container');
+                if(strikeText) strikeText.classList.remove('falling');
+                if(strikeLine) { strikeLine.classList.remove('falling'); strikeLine.classList.remove('line-active'); }
+                setTimeout(runPremiumAnimation, 1000); 
+            }, 5500);
+        }
+
+        window.onload = runPremiumAnimation;
+        window.onclick = e => { if(e.target == document.getElementById('bioModal')) closeBio(); }
+    </script>
+</body>
+</html>
