@@ -1,327 +1,279 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DTF 1 Angkatan 2026 | SMKN 2 ADIWERNA</title>
     
-    <title>DTF 1 Angkatan 2026|SMKN 2 AIWERNA</title>
-    
-    <meta name="description" content="Selamat datang di Jurusan DTF 1 Angkatan 2026. Jelajahi galeri foto, momen tak terlupakan, dan pesan kesan album kenangan digital kami di sini.">
-    
-    <meta name="keywords" content="DTF 1, DTF1 2026, Album Kenangan 2026, Angkatan 2026, dtf1, dtf-1, dtf 1, smkn 2 adiwerna, smik, smk 2 adiwerna, dtf1-2026, dtf asik asik, dtf gaul, DTF HEBAT, dtf hebat, AKHMAD DWI AFANDI, ANISATUZZUHRIYAH, ANNISA HANUM SALSABILA, ARNESYA RAMADANI, BIMO ZAKARIA, BUNGA ASFARAINI ALFARAH, DE NADYN RISKY AULLYA, DICKY DWI KURNIAWAN, FARDHINA SYAHDAN, IMTISALUL HANIFAH, INTAN SUCI RAHMADHANI, LUQMAN MAULANA IBRAHIM, MUHAMAD RIZKI ABI NAUVAL, MUHAMMAD ALIF SYAEFUDIN, MUHAMMAD ARIF PANDU PRATAMA, MUHAMMAD IKHSAN SYA'BANI, MUHAMMAD ILHAM RIFA'I, MUHAMMAD RAIHAN PUTRA, NADHIF ARVA SAPUTRA, NADHIF MAULANA AL-FAJRI, NAILA ARTHALITA, NAZWA ARYANTI KUSDIANA, NIA OCTAVIANI RAHAYU, NUR ABDUL MUFIT, NURIN NASYWA AULIYA, PUTRI REVALINA, RAHMA AZZAHRA, RIZKI ASHARI, SITI RAHMA SAKINAH, SUGIONO SANTOSO, VARENT RAMADHANI RATU HANIS, WANDA PUTRI JAYANI, WILLY ADI SAPUTRA, WULAN AYU NOVIANI, ZASKIA TRI MURTIYA NINGRUM, dtf1 AKHMAD DWI AFANDI, dtf1 ANISATUZZUHRIYAH, dtf1 ANNISA HANUM SALSABILA, dtf1 ARNESYA RAMADANI, dtf1 BIMO ZAKARIA, dtf1 BUNGA ASFARAINI ALFARAH, dtf1 DE NADYN RISKY AULLYA, dtf1 DICKY DWI KURNIAWAN, dtf1 FARDHINA SYAHDAN, dtf1 IMTISALUL HANIFAH, dtf1 INTAN SUCI RAHMADHANI, dtf1 LUQMAN MAULANA IBRAHIM, dtf1 MUHAMAD RIZKI ABI NAUVAL, dtf1 MUHAMMAD ALIF SYAEFUDIN, dtf1 MUHAMMAD ARIF PANDU PRATAMA, dtf1 MUHAMMAD IKHSAN SYA'BANI, dtf1 MUHAMMAD ILHAM RIFA'I, dtf1 MUHAMMAD RAIHAN PUTRA, dtf1 NADHIF ARVA SAPUTRA, dtf1 NADHIF MAULANA AL-FAJRI, dtf1 NAILA ARTHALITA, dtf1 NAZWA ARYANTI KUSDIANA, dtf1 NIA OCTAVIANI RAHAYU, dtf1 NUR ABDUL MUFIT, dtf1 NURIN NASYWA AULIYA, dtf1 PUTRI REVALINA, dtf1 RAHMA AZZAHRA, dtf1 RIZKI ASHARI, dtf1 SITI RAHMA SAKINAH, dtf1 SUGIONO SANTOSO, dtf1 VARENT RAMADHANI RATU HANIS, dtf1 WANDA PUTRI JAYANI, dtf1 WILLY ADI SAPUTRA, dtf1 WULAN AYU NOVIANI, dtf1 ZASKIA TRI MURTIYA NINGRUM, dtf1-2026.vercel.app">
-
-    <meta name="google-site-verification" content="wE9pVkTL9WLEBdnxjX0BF3QMVLe1GSpUj-spwAGJgoE" />
-
-    <meta property="og:title" content="SMKN 2 ADIWERNA - DTF 1 ANGKATAN 2026">
-    <meta property="og:description" content="Mengabadikan setiap cerita dan tawa. Lihat album kenangan kami di dtf1-2026.vercel.app">
-    <meta property="og:image" content="https://i.ytimg.com/vi/jkb7qYD2NFM/maxresdefault.jpg"> 
-    <meta property="og:url" content="https://dtf1-2026.vercel.app">
-
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="https://images.seeklogo.com/logo-png/51/1/smik-smk-negeri-2-adiwerna-logo-png_seeklogo-518681.png" type="image/png">
+    
     <style>
-        body { font-family: 'Poppins', sans-serif; }
-        .hero-bg { 
-            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('kelas3 (30).jpg'); 
-            background-size: cover; 
-            background-position: center; 
+        body { font-family: 'Poppins', sans-serif; overflow-x: hidden; margin: 0; }
+        html { scroll-behavior: smooth; }
+
+        /* --- NAVBAR STYLING --- */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 5%;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 9999;
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(8px);
+            transition: all 0.3s ease;
         }
+
+        .logo-area { display: flex; align-items: center; gap: 12px; }
+        .logo-saya { width: 45px; height: 45px; border-radius: 50%; object-fit: cover; border: 2px solid #00ffff00; }
+        .tulisan-logo { color: white; font-size: 11px; font-weight: 700; text-transform: uppercase; line-height: 1.2; }
+
+        /* Menu Link Mobile (Default) */
+        .menu-link {
+            display: none; /* Sembunyi di HP */
+            flex-direction: column;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            padding: 20px 0;
+            text-align: center;
+            border-bottom: 3px solid #f0f8f8;
+        }
+
+        /* Saat Menu Terbuka di HP */
+        .menu-open { display: flex !important; }
+
+        /* Menu Link Desktop (Tablet ke Atas) */
+        @media (min-width: 768px) {
+            .tulisan-logo { font-size: 14px; }
+            .logo-saya { width: 55px; height: 55px; }
+            
+            .menu-link {
+                display: flex !important; /* Selalu muncul di Laptop */
+                position: static;
+                flex-direction: row;
+                background: transparent;
+                width: auto;
+                padding: 0;
+                gap: 25px; /* Jarak antar menu di laptop */
+                border: none;
+            }
+
+            #menu-btn { display: none; } /* Sembunyi tombol garis 3 */
+        }
+
+        .menu-link a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 10px 0;
+            transition: 0.3s;
+        }
+        .menu-link a:hover { color: #00ffff; }
+
+        /* --- HERO SECTION --- */
+        #home {
+            height: 100vh;
+            width: 100%;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .background-slider {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            z-index: 1;
+            background-size: cover;
+            background-position: center;
+            animation: gantigambar 15s infinite;
+        }
+
+        @keyframes gantigambar {
+            0%, 30% { background-image: url(https://images.alphacoders.com/134/1344005.jpeg); }
+            33%, 63% { background-image: url(https://images3.alphacoders.com/134/1341396.jpeg); }
+            66%, 100% { background-image: url(https://images8.alphacoders.com/134/1344249.png); }
+        }
+
+        .overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 2; }
+
+        .hero-text { position: relative; z-index: 3; color: white; padding: 0 20px; }
+        .hero-text h1 { font-size: 32px; font-weight: 800; animation: bounce 1.7s infinite; }
+        .hero-text p { font-size: 16px; color: #00ffff; margin-top: 10px; }
+
+        @media (min-width: 768px) {
+            .hero-text h1 { font-size: 60px; }
+            .hero-text p { font-size: 24px; }
+        }
+
+        /* --- TYPING SECTION (QIL) --- */
+        .qil-section {
+            position: absolute;
+            bottom: 40px;
+            width: 100%;
+            z-index: 5;
+            padding: 0 20px;
+        }
+
+        .qil-content { max-width: 500px; margin: 0 auto; text-align: center; }
+
+        @media (min-width: 768px) {
+            .qil-content { margin: 0 0 0 5%; text-align: left; }
+            .qil-section { bottom: 80px; }
+        }
+
+        .qil-content h1 {
+            font-size: 24px;
+            color: white;
+            font-family: monospace;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            margin: 0 auto;
+            animation: typing 4s steps(15) infinite;
+        }
+
+        @media (min-width: 768px) { 
+            .qil-content h1 { font-size: 40px; margin: 0; }
+        }
+
+        @keyframes typing { from { width: 0; } to { width: 100%; } }
+
+        .qil-content p {
+            font-size: 13px;
+            color: #ccc;
+            margin-top: 10px;
+            animation: munculTerus 4s infinite;
+        }
+
+        @keyframes munculTerus {
+            0% { opacity: 0; transform: translateY(10px); }
+            20%, 80% { opacity: 1; transform: translateY(0); }
+            100% { opacity: 0; transform: translateY(-10px); }
+        }
+
+        @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-20px); } }
     </style>
 </head>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&family=Alex+Brush&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Great+Vibes&display=swap" rel="stylesheet">
-<body class="bg-gray-50 text-gray-800">
 
-<style>
-     html {scroll-behavior: smooth;
-            }
+<body>
 
-            body {
-                font-family: Arial, Helvetica, sans-serif; margin: 0;
-            }
-
-            nav {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                background-color: rgba(192, 20, 20, 0);
-                margin: 20px;
-                color: white;
-                position: fixed;
-                width: 100%;
-                padding-right: 80px;
-                top: 0;
-                z-index: 9999;
-            }
-
-            .logo-area {
-                display: flex;
-                align-items: center;
-               
-            }
-            .logo-saya {
-                width: 60px;
-                margin: 10px 10px 10px 100px;
-                height: 60px;
-                border-radius: 100%;
-                
-            }
-            .tulisan-logo {
-                font-size: 20px;
-                align-items: center;
-                color: white;
-            }
-            .menu-link {
-                display: flex;
-                gap: 20px;
-                text-align: right;
-            }
-
-            .menu-link a {
-                color: white;
-                text-decoration: none;
-                font-size: 20px;
-                padding-bottom: 5px;
-                border-bottom: 2px solid transparent;
-                transition: 0.3s;
-            }
-            .menu-link a:hover {
-                color: aqua;
-                border-bottom: 2px solid aqua;
-
-            }
-            
-
-            p {
-                color: aqua;
-                font-size: 18px;
-            }
-            
-            nav a { color: white; text-decoration: none; margin-left: 20px; }
-            
-            section {
-                height: 100vh;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                border-bottom: 2px solid #ddd;
-            }
-
-            #home {
-                height: 100vh;
-                width: 100%;
-                display: flex;
-                align-items: center;
-                justify-content: flex-start;
-                position: relative;
-                overflow: hidden;
-                font-family: Arial, Helvetica, sans-serif;
-                z-index: -1;
-            }
-
-            .background-slider {
-                position: absolute;
-                top: 0; left: 0;
-                width: 100%; height: 100%;
-                z-index: 1;
-                background-size: cover;
-                animation: gantigambar 15s infinite;
-            }
-
-            @keyframes gantigambar {
-                0%, 30% { background-image: url(https://images.alphacoders.com/134/1344005.jpeg);}
-                33%, 63% { background-image: url(https://images3.alphacoders.com/134/1341396.jpeg);}
-                66%, 100% { background-image: url(https://images8.alphacoders.com/134/1344249.png);}
-
-            }
-
-            .overlay {
-                position: absolute;
-                top: 0; left: 0;
-                width: 100%; height: 100%;
-                background: rgba(0, 0, 0, 0.4);
-                z-index: 2;
-            }
-
-            .hero-text {
-                position: relative;
-                background-color: rgba(137, 43, 226, 0);
-                z-index: 3;
-                color: white;
-
-            }
-
-            .hero-text h1 {
-                display: inline-block;
-                animation: bounce 1.7s infinite;
-                 font-size: 50px;
-                 margin-top: 50%;
-                 font-weight: bold;
-                }
-
-            .hero-text p { 
-                font-size: 24px;
-                text-align: center;
-                animation: fadeIn 3s infinite;
-                color: #1b53ebc7;
-                font-family: 'Poppins', sans-serif;
-            }
-        @keyframes fadeIn {
-                0%, 100% { opacity: 0; }
-                50% { opacity: 1; }
-            }
-        @keyframes bounce {
-                0%, 20%, 50%, 80%, 100% {transform: translateY(0); /* Posisi normal */}
-                40% { transform: translateY(-30px); /* Melompat ke atas */}
-                60% { transform: translateY(-15px); /* Melompat kecil */ }
-            }
-            #guru { background-color: rgb(36, 48, 59);}
-
-             /* Animasi Wiggle untuk Kartu */
-        @keyframes wiggle {
-            0%, 100% { transform: rotate(-1deg); }
-            50% { transform: rotate(1deg); }
-        }
-        .hover-wiggle:hover { animation: wiggle 0.3s ease-in-out infinite; }
-
-        /* Transisi Halus untuk Teks Flipper */
-        #text-flip-cita, #text-flip-harapan {
-            transition: opacity 0.3s ease-in-out;
-            display: inline-block;
-        }
-
-        /* Custom Scrollbar Modal */
-        .modal-scroll::-webkit-scrollbar { width: 6px; }
-        .modal-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-    
-</style>
-
-<style>    /* DTF1 */
-    .qil-section {
-    width: 100%;
-    height: 100vh; /* Tinggi layar penuh */
-    background-color: #00696400; /* Warna hijau kamu */
-    display: flex;
-    
-    /* 1. Taruh konten di kiri bawah */
-    align-items: flex-end; 
-    justify-content: flex-start;
-    
-    /* 2. Kasih jarak dari pinggir bawah & kiri (biar agak ke atas sedikit) */
-    padding: 80px 50px; 
-    box-sizing: border-box;
-    z-index: 9;
-}
-
-.qil-content {
-    /* 3. BATASI LEBARNYA (Kunci agar teks pindah ke bawah) */
-    max-width: 500px; /* Jika teks sudah sepanjang 500px, dia otomatis turun */
-    text-align: left;
-    color: rgb(255, 250, 250);
-    margin-right: 60%;
-}
-
-.qil-content h1 {
-    font-size: 40px;
-    background-color: #0805c500;
-    font-weight: bold;
-    margin-bottom: 10px;
-    font-family: monospace;     
-    white-space: nowrap;        
-    overflow: hidden;
-    width: 0;
-     animation: typing 4s steps(13) infinite;
-}
-/* Animasi Inti: Menambah lebar kotak dari 0 ke 100% */
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-/* Animasi Kursor: Membuat garis di kanan muncul-hilang (kedap-kedip) */
-@keyframes blink {
-    from, to { border-color: transparent; }
-    50% { border-color: rgb(13, 228, 77); }
-}
-
-.qil-content p {
-    font-size: 18px;
-    line-height: 1.6;
-    color: rgb(253, 253, 253);
-    text-align: left;
-    
-    /* Jalankan animasi secara terus-menerus */
-    /* durasi 4 detik (bisa kamu atur kecepatannya) */
-    animation: munculTerus 4s ease-in-out infinite;
-}
-@keyframes munculTerus {
-    0% {
-        opacity: 0;
-        transform: translateX(-50px); /* Mulai dari kiri luar */
-    }
-    20%, 80% {
-        opacity: 1;
-        transform: translateX(0);    /* Berhenti di tengah (posisi asli) */
-    }
-    100% {
-        opacity: 0;
-        transform: translateX(50px);  /* Hilang ke kanan (atau ganti -50px kalau mau balik ke kiri) */
-    }
-}
-</style>
-<nav>
+    <nav>
         <div class="logo-area">
-            <img src="https://tse4.mm.bing.net/th/id/OIP._W7dFWA2ZPJIIzI2VfjzrgHaHa?pid=Api&h=220&P=0" alt="logo saya" class="logo-saya">
-          <span class="tulisan-logo">SMKN 2 ADIWERNA <br> KELAS DITF 1 </span>   
+            <img src="https://tse4.mm.bing.net/th/id/OIP._W7dFWA2ZPJIIzI2VfjzrgHaHa?pid=Api&h=220&P=0" alt="logo" class="logo-saya">
+            <span class="tulisan-logo">SMKN 2 ADIWERNA <br> KELAS DTF 1 </span>   
         </div>
 
-        <div class="menu-link">
-             <a href="#home">home</a>
-             <a href="#guru">wali kelas</a>
-             <a href="#keinginan">keinginan</a>
-             <a href="#galerry">album</a>
-             <a href="#guru-1">guru</a>
+        <button id="menu-btn" class="text-white focus:outline-none">
+            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
+
+        <div id="menu-link" class="menu-link">
+             <a href="#home">Home</a>
+             <a href="#guru">Wali Kelas</a>
+             <a href="#keinginan">Keinginan</a>
+             <a href="#album">Album</a>
+             <a href="#guru-1">Guru</a>
         </div>
-</nav>
+    </nav>
 
-<section id="home">
-    <div class="background-slider"></div>
-    <div class="overlay"></div>
+    <section id="home">
+        <div class="background-slider"></div>
+        <div class="overlay"></div>
 
-    <div class="hero-text">
-        <h1>DESAIN TEKNIK FURNITUR</h1>
-        <p> ANGKATAN 2026 </p>
-    </div>
-    <section class="qil-section">
-    <div class="qil-content">
-        <h1> DTF 1</h1>
-        <p>"Mungkin besok kita sudah sibuk dengan urusan masing-masing, tapi jangan lupa kalau kita pernah berjuang bareng di sini. Tetap jaga komunikasi dan jangan sombong kalau sudah sukses nanti!"
-         </p>
-    </div>
-</section>
-  
-</section>
-        
-<section id="guru" class="section-guru min-h-screen flex items-center overflow-hidden py-20 ">
-    <div class="container mx-auto flex flex-col md:flex-row items-center">
-        <div class="wrapper-foto-guru w-full md:w-1/2 h-[500px] opacity-0 transform translate-y-32 transition-all duration-1000">
-        <div class="w-full h-full bg-gray-200" style="clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);">
-            <img src="kelas3 (27).jpg" class="w-full h-full object-cover grayscale">
+        <div class="hero-text">
+            <h1>DESAIN TEKNIK FURNITUR</h1>
+            <p>ANGKATAN 2026</p>
+        </div>
+
+        <div class="qil-section">
+            <div class="qil-content">
+                <h1>DTF 1</h1>
+                <p>"Mungkin besok kita sudah sibuk dengan urusan masing-masing, tapi jangan lupa kalau kita pernah berjuang bareng di sini."</p>
             </div>
         </div>
-        <div class="teks-guru w-full md:w-1/2 p-10 opacity-0 transform translate-x-20 transition-all duration-1000">
-            <h2 class="text-5xl font-bold mb-4 text-[#b8860b]" style="font-family: 'Dancing Script', cursive;">
-                        Ika Lutfiana, S.T.T
+    </section>
+
+    <script>
+        const menuBtn = document.getElementById('menu-btn');
+        const menuLink = document.getElementById('menu-link');
+        const menuIcon = document.getElementById('menu-icon');
+
+        menuBtn.addEventListener('click', () => {
+            menuLink.classList.toggle('menu-open');
+            
+            // Animasi Ikon: Garis 3 jadi Silang
+            if (menuLink.classList.contains('menu-open')) {
+                menuIcon.setAttribute('d', 'M6 18L18 6M6 6l12 12');
+            } else {
+                menuIcon.setAttribute('d', 'M4 6h16M4 12h16m-7 6h7');
+            }
+        });
+
+        // Tutup menu otomatis saat link diklik (khusus mobile)
+        document.querySelectorAll('.menu-link a').forEach(item => {
+            item.addEventListener('click', () => {
+                menuLink.classList.remove('menu-open');
+                menuIcon.setAttribute('d', 'M4 6h16M4 12h16m-7 6h7');
+            });
+        });
+    </script>
+
+<section id="guru" class="section-guru min-h-screen flex items-center overflow-hidden py-10 md:py-20 bg-white">
+    <div class="container mx-auto flex flex-col md:flex-row items-center px-4 md:px-10">
+        
+        <div class="wrapper-foto-guru w-full md:w-1/2 h-[350px] md:h-[550px] opacity-0 transform translate-y-20 md:translate-y-32 transition-all duration-1000 ease-out">
+            <div class="w-full h-full bg-gray-200 overflow-hidden shadow-xl md:clip-path-custom">
+                <img src="kelas3 (27).jpg" class="w-full h-full object-cover grayscale hover:grayscale-0 transition duration-700">
+            </div>
+        </div>
+
+        <div class="teks-guru w-full md:w-1/2 p-6 md:p-16 opacity-0 transform translate-y-10 md:translate-x-20 transition-all duration-1000">
+            <h4 class="text-xs uppercase tracking-[0.3em] text-gray-400 mb-2 font-bold">Wali Kelas Kami</h4>
+            <h2 class="text-4xl md:text-6xl font-bold mb-6 text-[#b8860b]" style="font-family: 'Dancing Script', cursive;">
+                Ika Lutfiana, S.T.T
             </h2>
-            <p class="mb-6 italic text-gray-600">"Selamat atas kelulusan kalian! Selama kebersamaan kita di kelas, Ibu/Bapak belajar banyak dari kalian—tentang semangat, tawa, dan cara kalian memandang dunia dengan unik. Ibu/Bapak ingin berpesan: jangan pernah merasa harus menjadi orang lain untuk bisa sukses."</p>
+            
+            <div class="relative">
+                <span class="absolute -top-6 -left-4 text-7xl text-gray-100 font-serif z-0">"</span>
+                <p class="relative z-10 mb-6 italic text-gray-600 text-base md:text-lg leading-relaxed">
+                    "Selamat atas kelulusan kalian! Selama kebersamaan kita di kelas, Ibu belajar banyak dari kalian—tentang semangat, tawa, dan cara kalian memandang dunia dengan unik. Jangan pernah merasa harus menjadi orang lain untuk bisa sukses."
+                </p>
+            </div>
+            
+            <div class="w-20 h-1 bg-[#b8860b]/30"></div>
         </div>
     </div>
 </section>
+
+<style>
+    /* CSS Khusus untuk Clip Path agar hanya aktif di layar lebar (Laptop/Tab) */
+    @media (min-width: 768px) {
+        .md:clip-path-custom {
+            clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
+        }
+    }
+    
+    /* Tambahkan sedikit tekstur background agar tidak flat */
+    .section-guru {
+        background-image: radial-gradient(#e5e7eb 0.5px, transparent 0.5px);
+        background-size: 30px 30px;
+    }
+</style>
 
 <script>       //guru
     const observerGuru = new IntersectionObserver((entries) => {
@@ -354,72 +306,78 @@
     });
 </script>
 
-<section id="keinginan" class="py-16 bg-[#006964] min-h-screen relative overflow-hidden">
-    <div class="container mx-auto px-4 relative z-10">
-        
-            <h1 class="font-['Great_Vibes'] text-6xl md:text-7xl text-white mb-12 text-center capitalize">
-                Keinginan Kita di Masa Depan
-            </h1>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div class="bg-blue-50 p-6 rounded-2xl border-l-8 border-blue-400 shadow-lg hover-wiggle">
-                <h3 class="text-sm font-bold text-blue-600 uppercase tracking-widest">🏫 Sekolah</h3>
-                <p class="text-gray-800 mt-2 text-xl font-bold">SMK Negeri 2 Adiwerna</p>
-                <p class="text-gray-600 text-sm">Jurusan Desain Teknik Furniture</p>
+<section id="keinginan" class="py-16 md:py-20 bg-[#006964] min-h-screen relative overflow-hidden">
+    <div class="absolute top-0 left-0 w-64 h-64 bg-white/5 rounded-full -translate-x-1/2 -translate-y-1/2 blur-3xl"></div>
+
+    <div class="container mx-auto px-5 relative z-10">
+        <h1 class="font-['Great_Vibes'] text-5xl md:text-7xl text-white mb-10 text-center">
+            Keinginan Masa Depan
+        </h1>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-5 mb-16">
+            <div class="bg-blue-50 p-6 rounded-3xl border-l-8 border-blue-400 shadow-xl">
+                <h3 class="text-[10px] font-black text-blue-600 uppercase tracking-[0.2em] mb-2">🏫 Sekolah </h3>
+                <p class="text-gray-900 text-xl font-bold leading-tight">SMK Negeri 2 Adiwerna</p>
+                <p class="text-gray-500 text-sm mt-1">Desain Teknik Furniture</p>
             </div>
 
-            <div onclick="openCitaCita()" class="bg-purple-50 p-6 rounded-2xl border-l-8 border-purple-400 cursor-pointer shadow-lg hover-wiggle group">
-                <h3 class="text-sm font-bold text-purple-600 uppercase flex justify-between items-center">
-                    🚀 Cita-Cita 
-                    <span class="text-[10px] bg-purple-200 px-2 py-1 rounded text-purple-700 group-hover:bg-purple-600 group-hover:text-white transition">Lihat Semua</span>
-                </h3>
-                <p class="text-gray-700 mt-2 text-xl italic font-medium min-h-[4rem]">
-                    <span id="text-flip-cita">...</span>
-                </p>
+            <div onclick="openCitaCita()" class="bg-purple-50 p-6 rounded-3xl border-l-8 border-purple-400 cursor-pointer shadow-xl transition active:scale-95 group">
+                <div class="flex justify-between items-start mb-2">
+                    <h3 class="text-[10px] font-black text-purple-600 uppercase tracking-[0.2em]">🚀 Impian</h3>
+                    <span class="text-[9px] bg-purple-200 text-purple-700 px-2 py-1 rounded-full font-bold">KLIK</span>
+                </div>
+                <div class="min-h-[60px] flex items-center">
+                    <p id="text-flip-cita" class="text-gray-800 text-lg italic font-semibold leading-tight transition-opacity duration-300">...</p>
+                </div>
             </div>
 
-            <div onclick="openHarapan()" class="bg-orange-50 p-6 rounded-2xl border-l-8 border-orange-400 cursor-pointer shadow-lg hover-wiggle group">
-                <h3 class="text-sm font-bold text-orange-600 uppercase flex justify-between items-center">
-                    ✨ Harapan 
-                    <span class="text-[10px] bg-orange-200 px-2 py-1 rounded text-orange-700 group-hover:bg-orange-600 group-hover:text-white transition font-bold">Buka Pesan</span>
-                </h3>
-                <p class="text-gray-700 mt-2 text-lg italic font-medium min-h-[4rem]">
-                    <span id="text-flip-harapan">...</span>
-                </p>
+            <div onclick="openHarapan()" class="bg-orange-50 p-6 rounded-3xl border-l-8 border-orange-400 cursor-pointer shadow-xl transition active:scale-95 group">
+                <div class="flex justify-between items-start mb-2">
+                    <h3 class="text-[10px] font-black text-orange-600 uppercase tracking-[0.2em]">✨ Harapan</h3>
+                    <span class="text-[9px] bg-orange-200 text-orange-700 px-2 py-1 rounded-full font-bold">BACA</span>
+                </div>
+                <div class="min-h-[60px] flex items-center">
+                    <p id="text-flip-harapan" class="text-gray-800 text-sm italic font-medium leading-relaxed transition-opacity duration-300">...</p>
+                </div>
             </div>
         </div>
 
-        <div class=" py-4 text-center">
-    <h2 class="font-['Playfair_Display'] italic text-3xl md:text-5xl text-white leading-loose px-6">
-        Bukan perpisahan yang <span class="text-rose-300 not-italic font-['Alex_Brush'] text-5xl md:text-7xl block md:inline my-2">menyakitkan</span> <br>
-        tapi kenangan yang <span class="text-amber-200 not-italic font-['Alex_Brush'] text-5xl md:text-7xl block md:inline my-2">tak terlupakan</span>
-    </h2>
-</div>
+        <div class="text-center max-w-4xl mx-auto">
+            <h2 class="font-['Playfair_Display'] italic text-2xl md:text-5xl text-white leading-relaxed">
+                Bukan perpisahan yang 
+                <span class="text-rose-300 not-italic font-['Alex_Brush'] text-5xl md:text-7xl block md:inline-block my-2 md:my-0 mx-2">menyakitkan</span> 
+                tapi kenangan yang 
+                <span class="text-amber-200 not-italic font-['Alex_Brush'] text-5xl md:text-7xl block md:inline-block my-2 md:my-0 mx-2">tak terlupakan</span>
+            </h2>
+        </div>
     </div>
 </section>
 
-<div id="modalCitaCita" class="fixed inset-0 bg-black/80 hidden z-[100] items-center justify-center p-4 backdrop-blur-md">
-    <div class="bg-white w-full max-w-4xl rounded-3xl overflow-hidden shadow-2xl relative">
+<div id="modalCitaCita" class="fixed inset-0 bg-black/90 hidden z-[9999] items-center justify-center p-4 backdrop-blur-md">
+    <div class="bg-white w-full max-w-4xl rounded-[2rem] overflow-hidden shadow-2xl flex flex-col max-h-[90vh]">
         <div class="bg-gradient-to-r from-purple-600 to-blue-500 p-6 text-white flex justify-between items-center">
-            <h2 class="text-2xl font-bold italic">Daftar Cita-Cita</h2>
-            <button onclick="closeCitaCita()" class="text-3xl">&times;</button>
+            <h2 class="text-xl font-bold">Impian DTF 1</h2>
+            <button onclick="closeCitaCita()" class="text-3xl leading-none">&times;</button>
         </div>
-        <div id="daftarCitaCita" class="p-6 max-h-[60vh] modal-scroll overflow-y-auto grid grid-cols-2 md:grid-cols-3 gap-4 bg-gray-50"></div>
+        <div id="daftarCitaCita" class="p-4 md:p-8 overflow-y-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 bg-gray-50">
+            </div>
         <div class="p-4 bg-white border-t text-center">
-            <button onclick="closeCitaCita()" class="bg-purple-600 text-white px-8 py-2 rounded-full font-bold">Tutup</button>
+            <button onclick="closeCitaCita()" class="w-full md:w-auto bg-purple-600 text-white px-10 py-3 rounded-full font-bold shadow-lg">Tutup</button>
         </div>
     </div>
 </div>
 
-<div id="modalHarapan" class="fixed inset-0 bg-black/80 hidden z-[100] items-center justify-center p-4 backdrop-blur-md">
-    <div class="bg-white w-full max-w-4xl rounded-3xl overflow-hidden shadow-2xl relative">
+<div id="modalHarapan" class="fixed inset-0 bg-black/90 hidden z-[9999] items-center justify-center p-4 backdrop-blur-md">
+    <div class="bg-white w-full max-w-2xl rounded-[2rem] overflow-hidden shadow-2xl flex flex-col max-h-[90vh]">
         <div class="bg-gradient-to-r from-orange-500 to-yellow-500 p-6 text-white flex justify-between items-center">
-            <h2 class="text-2xl font-bold italic">✨ Harapan Kami</h2>
-            <button onclick="closeHarapan()" class="text-3xl">&times;</button>
+            <h2 class="text-xl font-bold">Harapan & Pesan</h2>
+            <button onclick="closeHarapan()" class="text-3xl leading-none">&times;</button>
         </div>
-        <div id="daftarHarapan" class="p-6 max-h-[60vh] modal-scroll overflow-y-auto space-y-4 bg-gray-50"></div>
+        <div id="daftarHarapan" class="p-4 md:p-8 overflow-y-auto space-y-4 bg-gray-50">
+            </div>
         <div class="p-4 bg-white border-t text-center">
-            <button onclick="closeHarapan()" class="bg-orange-500 text-white px-8 py-2 rounded-full font-bold">Tutup</button>
+            <button onclick="closeHarapan()" class="w-full md:w-auto bg-orange-500 text-white px-10 py-3 rounded-full font-bold shadow-lg">Selesai Membaca</button>
         </div>
     </div>
 </div>
@@ -537,29 +495,33 @@ function renderModals() {
     const contCita = document.getElementById('daftarCitaCita');
     const contHarapan = document.getElementById('daftarHarapan');
 
-    // Render Cita
-    contCita.innerHTML = dataCitaCita.map(item => `
-        <div class="bg-white p-5 rounded-2xl border shadow-sm text-center">
-            <div class="w-12 h-12 bg-purple-100 text-purple-600 rounded-full flex items-center justify-center mx-auto mb-3 font-bold text-lg">${item.nama.charAt(0)}</div>
-            <h4 class="font-bold text-gray-800 text-base">${item.nama}</h4>
-            <p class="text-sm text-purple-600 italic mt-1">${item.impian}</p>
-        </div>
-    `).join('');
+    if(contCita) {
+        contCita.innerHTML = dataCitaCita.map(item => `
+            <div class="bg-white p-4 rounded-2xl border border-gray-100 shadow-sm flex items-center gap-4 md:flex-col md:text-center md:gap-2">
+                <div class="w-10 h-10 md:w-12 md:h-12 bg-purple-100 text-purple-600 rounded-full flex items-center justify-center flex-shrink-0 font-bold text-lg">${item.nama.charAt(0)}</div>
+                <div>
+                    <h4 class="font-bold text-gray-800 text-sm md:text-base">${item.nama}</h4>
+                    <p class="text-xs text-purple-600 italic font-medium">${item.impian}</p>
+                </div>
+            </div>
+        `).join('');
+    }
 
-    // Render Harapan
-    contHarapan.innerHTML = dataHarapan.map(item => `
-        <div class="bg-white p-6 rounded-2xl border-l-4 border-orange-400 shadow-sm">
-            <p class="text-gray-700 text-lg italic leading-relaxed">"${item.pesan}"</p>
-            <p class="mt-3 text-sm font-bold text-gray-500 uppercase tracking-widest">— ${item.pengirim}</p>
-        </div>
-    `).join('');
+    if(contHarapan) {
+        contHarapan.innerHTML = dataHarapan.map(item => `
+            <div class="bg-white p-5 rounded-2xl border-l-4 border-orange-400 shadow-sm">
+                <p class="text-gray-700 text-sm md:text-base italic leading-relaxed">"${item.pesan}"</p>
+                <p class="mt-3 text-[10px] font-black text-gray-400 uppercase tracking-widest">— ${item.nama}</p>
+            </div>
+        `).join('');
+    }
 }
 
 // --- MODAL CONTROL ---
-function openCitaCita() { document.getElementById('modalCitaCita').classList.replace('hidden', 'flex'); }
-function closeCitaCita() { document.getElementById('modalCitaCita').classList.replace('flex', 'hidden'); }
-function openHarapan() { document.getElementById('modalHarapan').classList.replace('hidden', 'flex'); }
-function closeHarapan() { document.getElementById('modalHarapan').classList.replace('flex', 'hidden'); }
+function openCitaCita() { document.getElementById('modalCitaCita').classList.replace('hidden', 'flex'); document.body.style.overflow = 'hidden'; }
+function closeCitaCita() { document.getElementById('modalCitaCita').classList.replace('flex', 'hidden'); document.body.style.overflow = 'auto'; }
+function openHarapan() { document.getElementById('modalHarapan').classList.replace('hidden', 'flex'); document.body.style.overflow = 'hidden'; }
+function closeHarapan() { document.getElementById('modalHarapan').classList.replace('flex', 'hidden'); document.body.style.overflow = 'auto'; }
 
 // Jalankan saat load
 document.addEventListener('DOMContentLoaded', () => {
@@ -568,406 +530,314 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 </script>
 
-<section id="galerry"  class="py-20 bg-blue-200 min-h-screen flex items-center">
-    <div class="container mx-auto px-6">
-        <div class="flex flex-col md:flex-row items-center gap-12">
-            
-            <div class="w-full md:w-[60%] grid grid-cols-1 sm:grid-cols-2 gap-6">
-                
-                <a href="v8.html" 
-                    onmouseenter="previewPhone('foto 1.jpeg', 'Year 2023')" 
-                    onmouseleave="turnOffPhone()"
-                class="group block bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl border border-slate-100">
-    
-            <div class="relative h-48 overflow-hidden border-b border-slate-100">
-                <img src="foto 1.jpeg" alt="Memory 2023" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-            <div class="absolute inset-0 bg-blue-600/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
+<section id="album"  class="py-12 md:py-20 bg-blue-100 min-h-screen flex items-center overflow-hidden">
+    <div class="container mx-auto px-4 md:px-10">
+        
+        <div class="mb-10 text-center md:text-left">
+            <h2 class="text-4xl md:text-6xl font-['Dancing_Script'] font-bold text-slate-800">Gallery </h2>
+            <p class="text-slate-500 mt-2">Sentuh kartu untuk melihat detail memori</p>
         </div>
 
-                <div class="p-4 bg-slate-50 group-hover:bg-white transition duration-300">
-                    <h3 class="text-lg font-bold text-slate-800 tracking-tight">2023-2024</h3>
-                    <p class="text-xs text-slate-500 mt-1">Memory Archive</p>
-                </div>
+        <div class="flex flex-col md:flex-row items-start gap-8 md:gap-12">
+            
+            <div class="w-full md:w-[60%] grid grid-cols-2 lg:grid-cols-2 gap-4 md:gap-6">
+                
+                <a href="v8.html" 
+                   onmouseenter="previewPhone('foto 1.jpeg', 'Year 2023')" 
+                   class="group block bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-white">
+                    <div class="relative h-32 md:h-48 overflow-hidden">
+                        <img src="foto 1.jpeg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                        <div class="absolute inset-0 bg-blue-600/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
+                    </div>
+                    <div class="p-3 md:p-4 bg-slate-50 group-hover:bg-white">
+                        <h3 class="text-sm md:text-lg font-bold text-slate-800 tracking-tight">2023-2024</h3>
+                        <p class="text-[10px] md:text-xs text-slate-500">Archive 01</p>
+                    </div>
                 </a>
 
                 <a href="v7.html" 
-                    onmouseenter="previewPhone('foto 2.jpeg', 'Year 2024')" 
-                    onmouseleave="turnOffPhone()"
-                class="group block bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl border border-slate-100">
-    
-            <div class="relative h-48 overflow-hidden border-b border-slate-100">
-                <img src="foto 2.jpeg" alt="Memory 2023" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-            <div class="absolute inset-0 bg-blue-600/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
-        </div>
-
-                <div class="p-4 bg-slate-50 group-hover:bg-white transition duration-300">
-                    <h3 class="text-lg font-bold text-slate-800 tracking-tight">2024-2025</h3>
-                    <p class="text-xs text-slate-500 mt-1">Memory Archive</p>
-                </div>
+                   onmouseenter="previewPhone('foto 2.jpeg', 'Year 2024')" 
+                   class="group block bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-white">
+                    <div class="relative h-32 md:h-48 overflow-hidden">
+                        <img src="foto 2.jpeg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                    </div>
+                    <div class="p-3 md:p-4 bg-slate-50 group-hover:bg-white">
+                        <h3 class="text-sm md:text-lg font-bold text-slate-800 tracking-tight">2024-2025</h3>
+                        <p class="text-[10px] md:text-xs text-slate-500">Archive 02</p>
+                    </div>
                 </a>
 
                 <a href="v10.html" 
-                    onmouseenter="previewPhone('foto 3.jpeg', 'Year 2023')" 
-                    onmouseleave="turnOffPhone()"
-                class="group block bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl border border-slate-100">
-    
-            <div class="relative h-48 overflow-hidden border-b border-slate-100">
-                <img src="foto 3.jpeg" alt="Memory 2023" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-            <div class="absolute inset-0 bg-blue-600/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
-        </div>
-
-                <div class="p-4 bg-slate-50 group-hover:bg-white transition duration-300">
-                    <h3 class="text-lg font-bold text-slate-800 tracking-tight">2025-2026</h3>
-                    <p class="text-xs text-slate-500 mt-1">Memory Archive</p>
-                </div>
+                   onmouseenter="previewPhone('foto 3.jpeg', 'Year 2025')" 
+                   class="group block bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-white">
+                    <div class="relative h-32 md:h-48 overflow-hidden">
+                        <img src="foto 3.jpeg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                    </div>
+                    <div class="p-3 md:p-4 bg-slate-50 group-hover:bg-white">
+                        <h3 class="text-sm md:text-lg font-bold text-slate-800 tracking-tight">2025-2026</h3>
+                        <p class="text-[10px] md:text-xs text-slate-500">Archive 03</p>
+                    </div>
                 </a>
 
                 <a href="v5.html" 
-                    onmouseenter="previewPhone('foto 4.jpeg', 'Year 2023')" 
-                    onmouseleave="turnOffPhone()"
-                class="group block bg-white rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl border border-slate-100">
-    
-            <div class="relative h-48 overflow-hidden border-b border-slate-100">
-                <img src="foto 4.jpeg" alt="Memory 2023" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-            <div class="absolute inset-0 bg-blue-600/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
-        </div>
-
-                <div class="p-4 bg-slate-50 group-hover:bg-white transition duration-300">
-                    <h3 class="text-lg font-bold text-slate-800 tracking-tight">BIODATA</h3>
-                    <p class="text-xs text-slate-500 mt-1">Memory Archive</p>
-                </div>
+                   onmouseenter="previewPhone('foto 4.jpeg', 'Biodata')" 
+                   class="group block bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 hover:-translate-y-2 hover:shadow-xl border border-white">
+                    <div class="relative h-32 md:h-48 overflow-hidden">
+                        <img src="foto 4.jpeg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                    </div>
+                    <div class="p-3 md:p-4 bg-slate-50 group-hover:bg-white">
+                        <h3 class="text-sm md:text-lg font-bold text-slate-800 tracking-tight">BIODATA</h3>
+                        <p class="text-[10px] md:text-xs text-slate-500">Student Profile</p>
+                    </div>
                 </a>
-
             </div>
 
-            <div class="w-full md:w-[40%] flex justify-center sticky top-20">
-                <div class="relative w-[280px] h-[580px] bg-white rounded-[2rem] border-[8px] border-gray-900 shadow-[0_40px_80px_-15px_rgba(0,0,0,0.5),0_15px_30px_-10px_rgba(0,0,0,0.3)] overflow-hidden">
-                    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-28 h-6 bg-black z-30 rounded-b-2xl"></div>
-                    <div id="phoneScreen" class="w-full h-full bg-black transition-all duration-700 relative overflow-hidden flex items-center justify-center">
+            <div class="hidden lg:flex w-full md:w-[40%] justify-center sticky top-24">
+                <div class="relative w-[280px] h-[580px] bg-white rounded-[2.5rem] border-[8px] border-slate-900 shadow-[0_40px_80px_-15px_rgba(0,0,0,0.3)] overflow-hidden">
+                    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-24 h-6 bg-black z-30 rounded-b-2xl"></div>
+                    
+                    <div id="phoneScreen" class="w-full h-full bg-slate-900 transition-all duration-700 relative overflow-hidden flex items-center justify-center">
+                        <div id="innerScreen" style="opacity: 0.4; transition: all 0.5s ease;" class="w-full h-full flex flex-col items-center relative">
+                            <div class="absolute top-0 w-full px-6 py-3 flex justify-between items-center z-50 text-white">
+                                <div class="text-[10px] font-bold" id="statusTime">12:00</div>
+                                <div class="flex items-center gap-1">
+                                    <div class="w-3 h-3 bg-white/20 rounded-full flex items-center justify-center text-[6px]">⚡</div>
+                                </div>
+                            </div>
 
-    
-        <div id="innerScreen" style="opacity: 0; transition: all 0.7s ease-in-out;" class="w-full h-full flex flex-col items-center relative">
-            
-            <div class="absolute top-0 w-full px-5 py-3 flex justify-between items-center z-50 text-white">
-                <div class="text-[11px] font-semibold" id="statusTime">12:00</div>
-                <div class="flex items-center gap-1.5">
-                    <div class="flex items-end gap-[1px] h-[9px]">
-                        <div class="w-[2px] h-[40%] bg-white"></div>
-                        <div class="w-[2px] h-[70%] bg-white"></div>
-                        <div class="w-[2px] h-[100%] bg-white"></div>
-                    </div>
-                    <div class="w-4 h-2.5 border border-white/50 rounded-[2px] relative">
-                        <div id="batteryLevel" class="h-full bg-white" style="width: 80%"></div>
-                    </div>
-                </div>
-            </div>
+                            <img id="phoneImg" src="foto 1.jpeg" class="absolute inset-0 w-full h-full object-cover z-0 blur-[2px] opacity-60">
 
-            <img id="phoneImg" src="" class="absolute inset-0 w-full h-full object-cover z-0">
-
-            <div class="relative z-10 w-full h-full bg-black/30 backdrop-blur-[2px] flex flex-col items-center pt-20">
-                
-                <div class="text-center">
-                    <div class="text-white text-5xl font-light" id="phoneClock">12:00</div>
-    
-                <div class="text-white/80 text-xs mt-2 mb-10 uppercase tracking-[0.2em] font-medium" id="phoneDate">Monday, 19 March 2026
-                    </div>
-                </div>
-
-                <div class="grid grid-cols-4 gap-4 px-4 w-full">
-                   <a href="https://www.instagram.com/12.dtfsatu/" target="_blank" class="flex flex-col items-center group/app">
-            <div class="w-12 h-12 bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg transition group-hover/app:scale-110">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" class="w-7 h-7">
-            </div>
-            <span class="text-white text-[8px] mt-1 font-medium tracking-tight">Instagram</span>
-                    </a>
-
-                    <a href="https://wa.me/6283851275296" target="_blank" class="flex flex-col items-center group/app">
-            <div class="w-12 h-12 bg-[#25D366] rounded-xl flex items-center justify-center shadow-lg transition group-hover/app:scale-110">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" class="w-7 h-7">
-            </div>
-            <span class="text-white text-[8px] mt-1 font-medium tracking-tight">WhatsApp</span>
-                    </a>
-
-                    <a href="https://r8qs.adj.st/appinvites/TeamMatch%2fFZkjrIvYEobK1VHk44Rfi51mMjqXSNcOKGdLBh5zg04TQBGjPfSxZzjTHMVNjDVH?adjust_t=q0le9d_ynoul8&adjust_deeplink=mobilelegends%3a%2f%2fappinvites%2fTeamMatch%2fFZkjrIvYEobK1VHk44Rfi51mMjqXSNcOKGdLBh5zg04TQBGjPfSxZzjTHMVNjDVH" class="flex flex-col items-center group/app">
-            <div class="w-12 h-12 bg-trasparan rounded-xl flex items-center justify-center shadow-lg transition group-hover/app:scale-110 overflow-hidden border border-yellow-500/50">
-                <img src="https://tse2.mm.bing.net/th/id/OIP.inPCTea3kysI-8E16XBeMAHaHa?pid=Api&P=0&h=220" class="w-full h-full object-cover">
-            </div>
-            <span class="text-white text-[8px] mt-1 font-medium tracking-tight">MLBB</span>
-                    </a>
-
-                    <a href="https://quran.nu.or.id/" class="flex flex-col items-center group/app">
-            <div class="w-12 h-12 bg-trasparan rounded-xl flex items-center justify-center shadow-lg transition group-hover/app:scale-110 overflow-hidden border border-white/20">
-                <img src="https://static.vecteezy.com/system/resources/previews/036/312/984/non_2x/holy-quran-islamic-logo-design-free-vector.jpg" class="w-full h-full object-cover p-1">
-            </div>
-            <span class="text-white text-[8px] mt-1 font-medium tracking-tight">Al-Qur'an </span>
-                    </a>
-
-                    <a href="https://maps.app.goo.gl/KK6naAg5cF2dhfRZ8" class="flex flex-col items-center group/app">
-            <div class="w-12 h-12 bg-trasparan rounded-xl flex items-center justify-center shadow-lg transition group-hover/app:scale-110 overflow-hidden border border-white/20">
-                <img src="https://logodownload.org/wp-content/uploads/2018/01/google-maps-logo.png" class="w-full h-full object-cover p-1">
-            </div>
-            <span class="text-white text-[8px] mt-1 font-medium tracking-tight">Google Maps </span>
-                    </a>
-
-                </div>
-
-            </div>
-
-                <div class="absolute bottom-12 bg-white/10 backdrop-blur-md py-2 px-4 rounded-full border border-white/10">
-                    <h4 id="phoneTitle" class="text-white text-[10px] font-bold uppercase tracking-widest"></h4>
-                </div>
-            </div>
+                            <div class="relative z-10 w-full h-full bg-black/40 backdrop-blur-[1px] flex flex-col items-center pt-20">
+                                <div class="text-center">
+                                    <div class="text-white text-5xl font-light tracking-tighter" id="phoneClock">12:00</div>
+                                    <div class="text-white/70 text-[10px] mt-1 uppercase tracking-widest font-medium" id="phoneDate">Monday, 19 March</div>
+                                </div>
+<div class="grid grid-cols-4 gap-x-3 gap-y-5 px-4 mt-8 w-full relative z-20">
+    <a href="https://www.instagram.com/12.dtfsatu/" target="_blank" class="flex flex-col items-center group/app transition active:scale-90">
+        <div class="w-11 h-11 bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg border border-white/20">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" class="w-6 h-6">
         </div>
+        <span class="text-white text-[7px] mt-1 font-medium tracking-tight">Instagram</span>
+    </a>
 
+    <a href="https://wa.me/6283851275296" target="_blank" class="flex flex-col items-center group/app transition active:scale-90">
+        <div class="w-11 h-11 bg-[#25D366] rounded-xl flex items-center justify-center shadow-lg border border-white/20">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" class="w-6 h-6">
+        </div>
+        <span class="text-white text-[7px] mt-1 font-medium tracking-tight">WhatsApp</span>
+    </a>
+
+    <a href="Join mabar yuk! Kita ramaikan Land of Dawn bareng-bareng! 
+https://r8qs.adj.st/appinvites/TeamMatch%2fFZkjrIvYEobK1VHk44Rfi51mMjqXSNcOKGdLBh5zg04TQBGjPfSxZzjTHMVNjDVH?adjust_t=q0le9d_ynoul8&adjust_deeplink=mobilelegends%3a%2f%2fappinvites%2fTeamMatch%2fFZkjrIvYEobK1VHk44Rfi51mMjqXSNcOKGdLBh5zg04TQBGjPfSxZzjTHMVNjDVH" class="flex flex-col items-center group/app transition active:scale-90">
+        <div class="w-11 h-11 bg-slate-800 rounded-xl flex items-center justify-center shadow-lg border border-yellow-500/30 overflow-hidden">
+            <img src="https://tse2.mm.bing.net/th/id/OIP.inPCTea3kysI-8E16XBeMAHaHa?pid=Api&P=0&h=220" class="w-full h-full object-cover">
+        </div>
+        <span class="text-white text-[7px] mt-1 font-medium tracking-tight">MLBB</span>
+    </a>
+
+    <a href="https://quran.nu.or.id/" target="_blank" class="flex flex-col items-center group/app transition active:scale-90">
+        <div class="w-11 h-11 bg-emerald-700 rounded-xl flex items-center justify-center shadow-lg border border-white/20 overflow-hidden">
+            <img src="https://static.vecteezy.com/system/resources/previews/036/312/984/non_2x/holy-quran-islamic-logo-design-free-vector.jpg" class="w-full h-full object-cover p-1">
+        </div>
+        <span class="text-white text-[7px] mt-1 font-medium tracking-tight">Al-Qur'an</span>
+    </a>
+
+    <a href="https://maps.app.goo.gl/rnkqHb7Jj5BShX697" target="_blank" class="flex flex-col items-center group/app transition active:scale-90">
+        <div class="w-11 h-11 bg-white rounded-xl flex items-center justify-center shadow-lg border border-white/20 overflow-hidden">
+            <img src="https://logodownload.org/wp-content/uploads/2018/01/google-maps-logo.png" class="w-full h-full object-contain p-1.5">
+        </div>
+        <span class="text-white text-[7px] mt-1 font-medium tracking-tight">Maps</span>
+    </a>
+</div>
+
+                                <div class="absolute bottom-16 bg-white/20 backdrop-blur-md py-2 px-6 rounded-full border border-white/20">
+                                    <h4 id="phoneTitle" class="text-white text-[10px] font-black uppercase tracking-[0.2em]">PREVIEW</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-   
-    <div id="phoneReflect" class="absolute inset-0 bg-gradient-to-tr from-white/10 to-transparent z-20 pointer-events-none"></div>
-</div>
+        </div>
+    </div>
 </section>
 
-<script>  // waktu realtime
-    function updatePhoneDisplay() {
-    const now = new Date();
-    
-    // 1. Ambil Jam dan Menit
-    const hours = String(now.getHours()).padStart(2, '0');
-    const minutes = String(now.getMinutes()).padStart(2, '0');
-    document.getElementById('phoneClock').innerText = `${hours}:${minutes}`;
-    document.getElementById('statusTime').innerText = `${hours}:${minutes}`;
-
-    // 2. Ambil Hari, Tanggal, Bulan, Tahun
-    // Kita pakai locale 'en-GB' atau 'id-ID' sesuai selera
-    const options = { 
-        weekday: 'long', 
-        day: 'numeric', 
-        month: 'long', 
-        year: 'numeric' 
-    };
-    const dateString = now.toLocaleDateString('en-GB', options);
-    
-    // Update elemen tanggal
-    document.getElementById('phoneDate').innerText = dateString;
-}
-
-// Jalankan fungsi setiap detik agar waktu terus update
-setInterval(updatePhoneDisplay, 1000);
-updatePhoneDisplay(); // Panggil sekali di awal agar tidak menunggu 1 detik
-</script>
-
 <script>
+    // Inisialisasi Elemen
     const innerScreen = document.getElementById('innerScreen');
     const phoneImg = document.getElementById('phoneImg');
-    
-    const statusTime = document.getElementById('statusTime');
+    const phoneTitle = document.getElementById('phoneTitle');
     const phoneClock = document.getElementById('phoneClock');
-    
-    let lockTimer;
+    const statusTime = document.getElementById('statusTime');
+    const phoneDate = document.getElementById('phoneDate');
 
+    // 1. Fungsi Jam & Tanggal Realtime
+    function updateDisplay() {
+        const now = new Date();
+        const hours = String(now.getHours()).padStart(2, '0');
+        const minutes = String(now.getMinutes()).padStart(2, '0');
+        const timeStr = `${hours}:${minutes}`;
+
+        if(phoneClock) phoneClock.innerText = timeStr;
+        if(statusTime) statusTime.innerText = timeStr;
+
+        const options = { weekday: 'long', day: 'numeric', month: 'long' };
+        if(phoneDate) phoneDate.innerText = now.toLocaleDateString('en-GB', options);
+    }
+
+    // 2. Fungsi Preview Gallery
     function previewPhone(imgSrc, title) {
-        console.log("Menyalakan layar untuk: " + title); // Cek di console browser
+        if(!innerScreen) return;
         
-        // Batalkan timer matikan layar
-        clearTimeout(lockTimer);
-
-        // Masukkan data
-        phoneImg.src = imgSrc;
-        phoneTitle.innerText = title;
-
-        // NYALAKAN LAYAR
-        innerScreen.style.opacity = "1";
+        // Ganti konten dengan animasi halus
+        innerScreen.style.opacity = "0";
+        setTimeout(() => {
+            phoneImg.src = imgSrc;
+            phoneImg.classList.remove('blur-[2px]', 'opacity-60');
+            phoneTitle.innerText = title;
+            innerScreen.style.opacity = "1";
+        }, 300);
     }
 
+    // 3. Matikan Layar (Opsional - Jika ingin kembali ke blur)
     function turnOffPhone() {
-        console.log("Timer 10 detik dimulai...");
-        
-        lockTimer = setTimeout(() => {
-            console.log("Layar dimatikan");
-            innerScreen.style.opacity = "0";
-        }, 10000); 
+        // Biarkan layar tetap menyala dengan gambar terakhir (lebih bagus untuk UX)
     }
 
-    // Fungsi Jam Realtime
-    function updateTime() {
-        const now = new Date();
-        const time = now.getHours().toString().padStart(2, '0') + ":" + now.getMinutes().toString().padStart(2, '0');
-        if(statusTime) statusTime.innerText = time;
-        if(phoneClock) phoneClock.innerText = time;
-    }
-    setInterval(updateTime, 1000);
-    updateTime();
-
-    // Efek 3D Miring
-    document.addEventListener('mousemove', (e) => {
-        const frame = document.getElementById('phoneFrame');
-        if(!frame) return;
-        
-        const x = (window.innerWidth / 2 - e.clientX) / 25;
-        const y = (window.innerHeight / 2 - e.clientY) / 25;
-        
-        frame.style.transform = `rotateY(${-x}deg) rotateX(${y}deg)`;
-    });
+    // Jalankan Interval
+    setInterval(updateDisplay, 1000);
+    updateDisplay();
 </script>
 
-<script>
-    // Jalankan jam real-time di HP Mockup
-    setInterval(() => {
-        const now = new Date();
-        document.getElementById('phoneClock').innerText = now.getHours().toString().padStart(2, '0') + ":" + now.getMinutes().toString().padStart(2, '0');
-    }, 1000);
-</script>
 
-<script>
-    function updateClock() {
-        const now = new Date();
-        const hours = now.getHours().toString().padStart(2, '0');
-        const minutes = now.getMinutes().toString().padStart(2, '0');
-        const timeString = `${hours}:${minutes}`;
-        
-        // Update jam kecil di status bar
-        if(document.getElementById('statusTime')) {
-            document.getElementById('statusTime').innerText = timeString;
-        }
-        
-        // Update jam besar di layar (jika kamu pakai ID phoneClock)
-        if(document.getElementById('phoneClock')) {
-            document.getElementById('phoneClock').innerText = timeString;
-        }
+<div class="min-h-screen flex flex-col bg-slate-50">
+    
+    <section id="guru-1" class="py-16 md:py-24 bg-green-100">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-5xl font-black text-slate-800 uppercase tracking-[0.2em]"> Teachers</h2>
+                <div class="w-20 h-1.5 bg-yellow-400 mx-auto mt-4 rounded-full"></div>
+                <p class="text-slate-500 mt-4 text-sm md:text-base">Pahlawan tanpa tanda jasa DTF 1</p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+                
+                <div class="group bg-white rounded-2xl shadow-sm overflow-hidden border border-slate-200 transition-all hover:shadow-xl hover:-translate-y-2">
+                    <div class="aspect-[3/4] overflow-hidden bg-slate-200">
+                        <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="Guru">
+                    </div>
+                    <div class="p-4 text-center">
+                        <h3 class="font-bold text-sm md:text-lg text-slate-800 leading-tight">Pak Nama Guru</h3>
+                        <p class="text-[10px] md:text-xs text-emerald-600 font-bold uppercase mt-1 tracking-wider">Wali Kelas</p>
+                    </div>
+                </div>
+
+                <div class="group bg-white rounded-2xl shadow-sm overflow-hidden border border-slate-200 transition-all hover:shadow-xl hover:-translate-y-2">
+                    <div class="aspect-[3/4] overflow-hidden bg-slate-200">
+                        <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="Guru">
+                    </div>
+                    <div class="p-4 text-center">
+                        <h3 class="font-bold text-sm md:text-lg text-slate-800 leading-tight">Pak Nama Guru</h3>
+                        <p class="text-[10px] md:text-xs text-emerald-600 font-bold uppercase mt-1 tracking-wider">Produktif DTF</p>
+                    </div>
+                </div>
+
+                <div class="group bg-white rounded-2xl shadow-sm overflow-hidden border border-slate-200 transition-all hover:shadow-xl hover:-translate-y-2">
+                    <div class="aspect-[3/4] overflow-hidden bg-slate-200">
+                        <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="Guru">
+                    </div>
+                    <div class="p-4 text-center">
+                        <h3 class="font-bold text-sm md:text-lg text-slate-800 leading-tight">Bu Nama Guru</h3>
+                        <p class="text-[10px] md:text-xs text-emerald-600 font-bold uppercase mt-1 tracking-wider">Guru Umum</p>
+                    </div>
+                </div>
+
+                <div class="group bg-white rounded-2xl shadow-sm overflow-hidden border border-slate-200 transition-all hover:shadow-xl hover:-translate-y-2">
+                    <div class="aspect-[3/4] overflow-hidden bg-slate-200">
+                        <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="Guru">
+                    </div>
+                    <div class="p-4 text-center">
+                        <h3 class="font-bold text-sm md:text-lg text-slate-800 leading-tight">Bu Nama Guru</h3>
+                        <p class="text-[10px] md:text-xs text-emerald-600 font-bold uppercase mt-1 tracking-wider">Guru Umum</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <style>  
+    /* Induk animasi */
+    @keyframes marquee {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
     }
 
-    // Jalankan setiap detik
-    setInterval(updateClock, 1000);
-    updateClock(); // Jalankan langsung saat page load
-</script>
-
-<style>
-    @keyframes wiggle {
-        0%, 100% { transform: rotate(-3deg); }
-        50% { transform: rotate(3deg); }
+    .animate-marquee {
+        display: flex;
+        width: max-content; /* Pastikan lebar otomatis mengikuti isi teks */
+        animation: marquee 20s linear infinite; /* 20 detik untuk satu putaran */
     }
-    .hover-wiggle:hover {
-        animation: wiggle 0.3s ease-in-out infinite;
+
+    /* Opsional: Berhenti saat kursor menyentuh tulisan (biar bisa dibaca) */
+    .group:hover .animate-marquee {
+        animation-play-state: paused;
     }
 </style>
 
-<style>
-        /* Animasi Marquee */
-        @keyframes marquee {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
-        }
-        .animate-marquee {
-            display: flex;
-            width: max-content;
-            animation: marquee 20s linear infinite;
-        }
-        
-        /* Memastikan body tidak bisa scroll jika konten pas */
-        body { overflow-x: hidden; }
-    </style>
-
-<div class="h-screen flex flex-col bg-green-300">
-<section id="guru-1">
-<div class="flex-grow flex flex-col justify-center px-6">
-            <div class="container mx-auto">
-                <div class="text-center mb-8">
-                    <h2 class="text-3xl font-black text-gray-800 uppercase tracking-widest">Teachers</h2>
-                    <div class="w-16 h-1 bg-yellow-400 mx-auto mt-2"></div>
-                </div>
-
-                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                    
-                    <div class="group bg-white rounded-2xl shadow-md overflow-hidden border border-gray-100 transition-transform hover:-translate-y-2">
-                        <div class="h-48 lg:h-56 overflow-hidden">
-                            <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                        </div>
-                        <div class="p-4 text-center">
-                            <h3 class="font-bold text-lg text-gray-800">pak </h3>
-                            <p class="text-xs text-yellow-600 font-medium">guru </p>
-                        </div>
-                    </div>
-
-                    <div class="group bg-white rounded-2xl shadow-md overflow-hidden border border-gray-100 transition-transform hover:-translate-y-2">
-                        <div class="h-48 lg:h-56 overflow-hidden">
-                            <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                        </div>
-                        <div class="p-4 text-center">
-                            <h3 class="font-bold text-lg text-gray-800">pak </h3>
-                            <p class="text-xs text-yellow-600 font-medium">guru </p>
-                        </div>
-                    </div>
-
-                    <div class="group bg-white rounded-2xl shadow-md overflow-hidden border border-gray-100 transition-transform hover:-translate-y-2">
-                        <div class="h-48 lg:h-56 overflow-hidden">
-                            <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                        </div>
-                        <div class="p-4 text-center">
-                            <h3 class="font-bold text-lg text-gray-800">bu</h3>
-                            <p class="text-xs text-yellow-600 font-medium">guru</p>
-                        </div>
-                    </div>
-
-                    <div class="group bg-white rounded-2xl shadow-md overflow-hidden border border-gray-100 transition-transform hover:-translate-y-2">
-                        <div class="h-48 lg:h-56 overflow-hidden">
-                            <img src="http://www.clipartbest.com/cliparts/4T9/Lgg/4T9LggqLc.jpg" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                        </div>
-                        <div class="p-4 text-center">
-                            <h3 class="font-bold text-lg text-gray-800">bu </h3>
-                            <p class="text-xs text-yellow-600 font-medium">guru</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-        <div class="mt-auto">
-    <div class="bg-yellow-400 py-3 overflow-hidden border-t-2 border-b-2 border-black">
-        <div class="animate-marquee">
-            <span class="text-black font-bold text-lg mx-4 uppercase">
-                ✨ Kenangan Abadi ✨ SMKN 2 Adiwerna Jaya ✨ Class of 2026 ✨ Tetap Solid ✨
-            </span>
-            <span class="text-black font-bold text-lg mx-4 uppercase">
-                ✨ Kenangan Abadi ✨ SMKN 2 Adiwerna Jaya ✨ Class of 2026 ✨ Tetap Solid ✨
-            </span>
-        </div>
+    <div class="mt-auto">
+        <div class="bg-yellow-400 py-4 overflow-hidden border-t-4 border-b-4 border-black group">
+    <div class="flex animate-marquee whitespace-nowrap">
+        <span class="text-black font-black text-xl mx-4 uppercase italic">
+            ✨ Kenangan Abadi • SMKN 2 Adiwerna • Angkatan 2026 • DTF SATU TETAP SOLID ✨
+        </span>
+        <span class="text-black font-black text-xl mx-4 uppercase italic">
+            ✨ Kenangan Abadi • SMKN 2 Adiwerna • Angkatan 2026 • DTF SATU TETAP SOLID ✨
+        </span>
     </div>
-
-    <footer class="bg-gray-900 text-white pt-8 pb-4">
-        <div class="container mx-auto px-6">
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-center border-b border-gray-800 pb-6">
-                
-                <div class="text-center md:text-left">
-                    <h2 class="text-xl font-black tracking-tighter">DIGITAL<span class="text-yellow-400">YEARBOOK</span></h2>
-                    <p class="text-[10px] text-gray-400 uppercase tracking-widest mt-1">SMKN 2 Adiwerna • 2026</p>
-                </div>
-
-                <div class="flex justify-center gap-4">
-                    <a href="https://www.instagram.com/12.dtfsatu?" target="_blank" class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 transition-all duration-300 group">
-                        <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849s-.011 3.585-.069 4.85c-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07s-3.584-.012-4.849-.07c-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849s.012-3.584.07-4.849c.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948s.014 3.667.072 4.947c.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072s3.667-.014 4.947-.072c4.358-.2 6.78-2.618 6.98-6.98.058-1.28.072-1.689.072-4.948s-.014-3.667-.072-4.947c-.2-4.358-2.618-6.78-6.98-6.98-1.28-.058-1.689-.072-4.948-.072zM12 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.162 6.162 6.162 6.162-2.759 6.162-6.162-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-                    </a>
-                    <a href="https://wa.me/no-wa" target="_blank" class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-green-500 transition-all duration-300">
-                        <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.588-5.946 0-6.556 5.332-11.891 11.887-11.891 3.181 0 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.481 8.414 0 6.556-5.332 11.89-11.888 11.89-2.015 0-3.991-.511-5.741-1.479l-6.251 1.687zm6.103-3.736l.33.197c1.489.887 3.202 1.355 4.942 1.355 5.433 0 9.854-4.421 9.854-9.853 0-2.631-1.025-5.105-2.887-6.968-1.861-1.863-4.337-2.888-6.967-2.888-5.433 0-9.854 4.421-9.854 9.853 0 2.125.681 4.197 1.968 5.923l.216.291-.994 3.633 3.722-.979zm9.957-6.864c-.287-.144-1.695-.838-1.957-.933-.262-.094-.452-.144-.641.144-.19.287-.733.933-.898 1.123-.165.19-.33.214-.617.07-.287-.144-1.21-.446-2.305-1.424-.853-.76-1.428-1.7-1.594-1.987-.165-.287-.018-.442.126-.584.13-.127.287-.334.43-.502.144-.167.19-.287.287-.478.095-.19.048-.359-.024-.503-.071-.144-.641-1.543-.878-2.113-.231-.553-.467-.478-.641-.486-.165-.008-.354-.01-.545-.01-.19 0-.501.071-.762.358-.262.287-1 0-.978-1.002.978s-.644 2.126-.788 2.317c-.144.19-.623.951-1.508 1.734-.73.648-1.348 1.47-1.348 2.146 0 .676.242 1.258.469 1.838.226.579 1.191 2.526 2.47 3.228 1.28.702 1.28.469 2.235.374.958-.094 1.695-.694 1.933-1.365.236-.67.236-1.244.165-1.365-.07-.12-.262-.19-.548-.334z"/></svg>
-                    </a>
-                    <a href="mailto:admin@sekolah.com" class="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-500 transition-all duration-300">
-                        <svg class="w-5 h-5 fill-none stroke-current stroke-2" viewBox="0 0 24 24"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
-                    </a>
-                </div>
-
-                <div class="text-center md:text-right">
-                    <p class="text-[10px] text-gray-500 font-bold uppercase tracking-widest">Location</p>
-                    <p class="text-xs text-gray-300 mt-1">Adiwerna, Tegal, Jawa Tengah</p>
-                </div>
-            </div>
-
-            <div class="pt-4 flex flex-col md:flex-row justify-between items-center text-[10px] text-gray-500 font-medium">
-                <p>&copy; 2026 DIGITAL YEARBOOK TEAM</p>
-                <p class="mt-2 md:mt-0 italic">Made with ❤️ for Class DTF 1 of 2026</p>
-            </div>
-        </div>
-    </footer>
 </div>
+
+        <footer class="bg-slate-950 text-white pt-16 pb-8">
+            <div class="container mx-auto px-6">
+                <div class="flex flex-col md:flex-row justify-between items-center gap-10 border-b border-slate-800 pb-12">
+                    
+                    <div class="text-center md:text-left">
+                        <h2 class="text-2xl md:text-3xl font-black tracking-tighter italic">DIGITAL<span class="text-yellow-400">YEARBOOK</span></h2>
+                        <p class="text-[10px] text-slate-500 uppercase tracking-[0.3em] mt-2">Desain Teknik Furniture Satu • 2026</p>
+                    </div>
+
+                    <div class="flex flex-col items-center gap-4">
+                        <p class="text-[10px] text-slate-500 font-bold uppercase tracking-widest">Connect with us</p>
+                        <div class="flex gap-4">
+                            <a href="https://www.instagram.com/12.dtfsatu?" target="_blank" class="w-12 h-12 rounded-2xl bg-slate-900 border border-slate-800 flex items-center justify-center hover:bg-gradient-to-tr from-yellow-400 via-red-500 to-purple-600 transition-all duration-500">
+                                <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849s-.011 3.585-.069 4.85c-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07s-3.584-.012-4.849-.07c-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849s.012-3.584.07-4.849c.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948s.014 3.667.072 4.947c.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072s3.667-.014 4.947-.072c4.358-.2 6.78-2.618 6.98-6.98.058-1.28.072-1.689.072-4.948s-.014-3.667-.072-4.947c-.2-4.358-2.618-6.78-6.98-6.98-1.28-.058-1.689-.072-4.948-.072zM12 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.162 6.162 6.162 6.162-2.759 6.162-6.162-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                            </a>
+                            <a href="https://wa.me/6283851275296" class="w-12 h-12 rounded-2xl bg-slate-900 border border-slate-800 flex items-center justify-center hover:bg-emerald-500 transition-all duration-300">
+                                <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.588-5.946 0-6.556 5.332-11.891 11.887-11.891 3.181 0 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.481 8.414 0 6.556-5.332 11.89-11.888 11.89-2.015 0-3.991-.511-5.741-1.479l-6.251 1.687zm6.103-3.736l.33.197c1.489.887 3.202 1.355 4.942 1.355 5.433 0 9.854-4.421 9.854-9.853 0-2.631-1.025-5.105-2.887-6.968-1.861-1.863-4.337-2.888-6.967-2.888-5.433 0-9.854 4.421-9.854 9.853 0 2.125.681 4.197 1.968 5.923l.216.291-.994 3.633 3.722-.979zm9.957-6.864c-.287-.144-1.695-.838-1.957-.933-.262-.094-.452-.144-.641.144-.19.287-.733.933-.898 1.123-.165.19-.33.214-.617.07-.287-.144-1.21-.446-2.305-1.424-.853-.76-1.428-1.7-1.594-1.987-.165-.287-.018-.442.126-.584.13-.127.287-.334.43-.502.144-.167.19-.287.287-.478.095-.19.048-.359-.024-.503-.071-.144-.641-1.543-.878-2.113-.231-.553-.467-.478-.641-.486-.165-.008-.354-.01-.545-.01-.19 0-.501.071-.762.358-.262.287-1 0-.978-1.002.978s-.644 2.126-.788 2.317c-.144.19-.623.951-1.508 1.734-.73.648-1.348 1.47-1.348 2.146 0 .676.242 1.258.469 1.838.226.579 1.191 2.526 2.47 3.228 1.28.702 1.28.469 2.235.374.958-.094 1.695-.694 1.933-1.365.236-.67.236-1.244.165-1.365-.07-.12-.262-.19-.548-.334z"/></svg>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="text-center md:text-right">
+                        <p class="text-[10px] text-slate-500 font-bold uppercase tracking-widest">School Location</p>
+                        <p class="text-sm text-slate-300 mt-2 leading-relaxed">Jl. Anggrek, Kwaden, Ujungrusi<br>Adiwerna, Tegal, Jawa Tengah</p>
+                    </div>
+                </div>
+
+                <div class="pt-8 flex flex-col md:flex-row justify-between items-center text-[10px] text-slate-500 font-bold uppercase tracking-widest gap-4">
+                    <p>&copy; 2026 Digital Yearbook Team • All Rights Reserved</p>
+                    <div class="flex items-center gap-2">
+                        <span>Made with</span>
+                        <span class="text-rose-500 animate-pulse text-sm">❤️</span>
+                        <span>for DTF 1 SMKN 2 Adiwerna</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
 
 <script>
     // Navigasi Scroll dengan tombol ENTER
