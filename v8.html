@@ -3,158 +3,150 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ethereal X | Angkatan 2024</title>
+    <title>Origin | Angkatan 2024</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&family=Syne:wght@700;800&display=swap" rel="stylesheet">
     <style>
         body { 
             font-family: 'Plus Jakarta Sans', sans-serif; 
-            background-color: #040d0a; /* Hijau sangat gelap hampir hitam */
+            background-color: #020806; 
             color: #ecfdf5;
+            overflow-x: hidden;
         }
 
-        /* Glassmorphism Dark Emerald */
-        .glass-dark {
-            background: rgba(6, 78, 59, 0.2);
-            backdrop-filter: blur(15px);
-            border: 1px solid rgba(16, 185, 129, 0.1);
-        }
-
-        /* Album Grid Styling */
+        /* Grid Responsif: Di HP 2 kolom, Tablet 3 kolom, Desktop 4+ kolom */
         .album-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 20px;
-            padding: 2rem;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            padding: 16px; /* Jarak aman dari pinggir layar HP */
+        }
+
+        @media (min-width: 640px) {
+            .album-grid { 
+                grid-template-columns: repeat(3, 1fr); 
+                gap: 20px; 
+                padding: 30px; 
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .album-grid { 
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+                gap: 24px; 
+                padding: 40px; 
+            }
         }
 
         .photo-card {
             position: relative;
             aspect-ratio: 1 / 1;
-            border-radius: 12px; /* Lebih kotak tegas tapi smooth */
+            border-radius: 12px;
             overflow: hidden;
-            background: #062019;
-            transition: all 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+            background: #061a14;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            cursor: pointer;
+            border: 1px solid rgba(16, 185, 129, 0.05);
         }
 
         .photo-card img {
             width: 100%;
             height: 100%;
             object-fit: cover;
-            opacity: 0.6;
-            filter: saturate(0.5) contrast(1.1);
-            transition: all 0.8s ease;
+            opacity: 0.85;
+            filter: saturate(0.8);
+            transition: all 0.7s ease;
         }
 
-        /* Border Cahaya saat Hover */
-        .photo-card:hover {
-            transform: scale(1.03);
-            box-shadow: 0 0 30px rgba(16, 185, 129, 0.2);
+        /* Hover Effect: Hanya aktif di Desktop agar tidak mengganggu scrolling di HP */
+        @media (min-width: 1024px) {
+            .photo-card:hover { 
+                transform: translateY(-5px); 
+                box-shadow: 0 15px 30px rgba(16, 185, 129, 0.15); 
+                border-color: rgba(16, 185, 129, 0.3);
+            }
+            .photo-card:hover img { 
+                opacity: 1; 
+                filter: saturate(1); 
+                transform: scale(1.05); 
+            }
         }
 
-        .photo-card:hover img {
-            opacity: 1;
-            filter: saturate(1) contrast(1);
-            transform: scale(1.1);
-        }
-
-        /* Overlay Keren */
-        .card-glow {
-            position: absolute;
-            inset: 0;
-            background: radial-gradient(circle at center, transparent 30%, rgba(4, 13, 10, 0.8) 100%);
-            pointer-events: none;
-        }
-
-        /* Lightbox Custom */
+        /* Lightbox Glassmorphism */
         #lightbox {
-            background-color: rgba(2, 6, 5, 0.98);
+            background-color: rgba(0, 0, 0, 0.98);
+            backdrop-filter: blur(15px);
         }
 
         .nav-btn {
             background: rgba(16, 185, 129, 0.1);
             color: #10b981;
-            width: 60px;
-            height: 60px;
+            width: 50px;
+            height: 50px;
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: all 0.3s ease;
             border: 1px solid rgba(16, 185, 129, 0.2);
+            transition: all 0.3s ease;
         }
 
-        .nav-btn:hover {
-            background: #10b981;
-            color: #040d0a;
-            box-shadow: 0 0 20px rgba(16, 185, 129, 0.4);
-        }
+        .nav-btn:active { scale: 0.9; }
 
-        .title-font {
-            font-family: 'Syne', sans-serif;
-            text-transform: uppercase;
-        }
+        .title-font { font-family: 'Syne', sans-serif; text-transform: uppercase; }
+        
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #10b981; border-radius: 10px; }
     </style>
 </head>
 <body class="antialiased">
 
-    <header class="pt-24 pb-12 px-6 relative overflow-hidden">
-        <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-emerald-900/20 blur-[120px] rounded-full"></div>
-        <div class="absolute bottom-[0%] right-[-5%] w-[30%] h-[30%] bg-emerald-800/10 blur-[100px] rounded-full"></div>
+    <header class="pt-16 pb-10 px-6 relative">
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-64 bg-emerald-500/10 blur-[100px] -z-10"></div>
 
-        <div class="container mx-auto text-center relative z-10">
-            <div class="flex justify-center mb-12">
-                <a href="index.html" class="group flex items-center gap-3 px-6 py-3 rounded-full border border-white/10 hover:border-emerald-500/50 transition-all duration-500">
-                    <div class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></div>
-                    <span class="text-[10px] font-bold text-white/50 group-hover:text-emerald-400 uppercase tracking-[0.4em]">Back to Hub</span>
+        <div class="container mx-auto text-center">
+            <div class="flex justify-center mb-6">
+                <a href="index.html" class="flex items-center gap-2 px-5 py-2 rounded-full border border-emerald-500/20 bg-emerald-500/5 hover:bg-emerald-500/10 transition-all group">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+                    </svg>
+                    <span class="text-[9px] font-bold text-emerald-400 uppercase tracking-[0.2em]">Kembali</span>
                 </a>
             </div>
 
-            <h1 class="text-6xl md:text-9xl title-font font-extrabold tracking-tighter mb-4 leading-none text-transparent bg-clip-text bg-gradient-to-b from-emerald-100 to-emerald-900/50">
-                ORIGIN <span class="italic text-emerald-500 opacity-80">2023</span>
+            <h1 class="text-5xl md:text-9xl title-font font-black tracking-tighter leading-none mb-2 bg-clip-text text-transparent bg-gradient-to-b from-white to-emerald-900/40">
+                ORIGIN
             </h1>
-            <p class="text-emerald-500/50 tracking-[1em] uppercase text-[9px] font-bold mt-4">Year One • The Beginning</p>
+            <p class="text-emerald-500 text-lg md:text-4xl title-font tracking-[0.2em] italic mb-4">YEAR ONE</p>
+            <div class="h-[1px] w-12 bg-emerald-500/30 mx-auto mt-4 mb-3"></div>
+            <p class="text-emerald-500/40 tracking-[0.4em] uppercase text-[8px] font-bold">The Beginning of Kenangan</p>
         </div>
     </header>
 
-    <main id="albumContainer" class="album-grid container mx-auto max-w-7xl pb-32"></main>
+    <main id="albumContainer" class="album-grid container mx-auto max-w-7xl pb-24"></main>
 
-    <div id="lightbox" class="fixed inset-0 hidden z-[100] flex-col items-center justify-center p-4 backdrop-blur-md">
-        <button onclick="closeLightbox()" class="absolute top-8 right-8 text-white/20 hover:text-emerald-500 transition-all text-5xl">&times;</button>
+    <div id="lightbox" class="fixed inset-0 hidden z-[100] flex-col items-center justify-center p-4">
+        <button onclick="closeLightbox()" class="absolute top-6 right-6 text-white/40 hover:text-emerald-400 text-4xl transition-colors">&times;</button>
         
-        <div class="flex items-center gap-4 md:gap-12 w-full max-w-6xl">
-            <button onclick="changePhoto(-1)" class="nav-btn hidden md:flex">❮</button>
+        <div class="flex items-center gap-4 md:gap-12 w-full max-w-5xl">
+            <button onclick="changePhoto(-1)" class="nav-btn hidden md:flex shrink-0">❮</button>
             
             <div class="flex-1 flex flex-col items-center">
-                <img id="bigImage" src="" class="max-h-[75vh] w-auto rounded-lg shadow-[0_0_60px_rgba(0,0,0,0.8)] border border-white/5 transition-all duration-500">
-                <div class="mt-10 text-center">
-                    <p id="caption" class="title-font text-2xl text-emerald-100 tracking-wider mb-2"></p>
-                    <p id="photoIndex" class="text-emerald-500 text-[10px] font-black tracking-[0.5em] uppercase"></p>
+                <img id="bigImage" src="" class="max-h-[60vh] md:max-h-[75vh] w-auto rounded-lg shadow-2xl border border-white/5 object-contain transition-all duration-300">
+                <div class="mt-6 text-center px-4">
+                    <p id="caption" class="title-font text-xl md:text-3xl text-emerald-400 tracking-wider mb-1 italic"></p>
+                    <p id="photoIndex" class="text-emerald-500/40 text-[9px] font-black tracking-[0.3em] uppercase"></p>
                 </div>
             </div>
 
-            <button onclick="changePhoto(1)" class="nav-btn hidden md:flex">❯</button>
+            <button onclick="changePhoto(1)" class="nav-btn hidden md:flex shrink-0">❯</button>
         </div>
         
-        <div class="flex gap-10 mt-12 md:hidden">
-            <button onclick="changePhoto(-1)" class="nav-btn text-xl">❮</button>
-            <button onclick="changePhoto(1)" class="nav-btn text-xl">❯</button>
+        <div class="flex gap-12 mt-8 md:hidden">
+            <button onclick="changePhoto(-1)" class="nav-btn scale-110">❮</button>
+            <button onclick="changePhoto(1)" class="nav-btn scale-110">❯</button>
         </div>
     </div>
-
-    <div class="fixed bottom-10 right-10 z-[999]">
-        <button onclick="handleMusic()" class="glass-dark p-2 pr-6 rounded-2xl flex items-center gap-4 border border-emerald-500/20 hover:bg-emerald-500/10 transition-all group">
-            <div class="w-10 h-10 rounded-xl bg-emerald-600 flex items-center justify-center shadow-lg shadow-emerald-900/50">
-                <span id="musicIcon" class="text-white text-xs">▶</span>
-            </div>
-            <div class="text-left">
-                <p class="text-[7px] font-black text-emerald-500 uppercase tracking-widest leading-none mb-1">Ambience</p>
-                <p id="musicStatus" class="text-[9px] font-bold text-white/70">Audio Off</p>
-            </div>
-        </button>
-    </div>
-
-    <audio id="bgMusic" loop><source src="laskar.mp3" type="audio/mpeg"></audio>
 
     <script>
         const albumContainer = document.getElementById('albumContainer');
@@ -162,22 +154,16 @@
         const images = [];
         const decs = [];
 
+        // Generate Cards
         for (let i = 1; i <= totalPhotos; i++) {
             const imagePath = `kelas3/kelas3 (${i}).jpg`;
             images.push(imagePath);
-            const description = `The Origin Frame #${i}`;
-            decs.push(description);
+            decs.push(`Memory #${i}`);
 
             const photoCard = document.createElement('div');
-            photoCard.className = 'photo-card shadow-2xl';
+            photoCard.className = 'photo-card shadow-lg';
             photoCard.onclick = () => openLightbox(i - 1);
-            photoCard.innerHTML = `
-                <img src="${imagePath}" alt="${description}" loading="lazy">
-                <div class="card-glow"></div>
-                <div class="absolute bottom-4 left-4">
-                    <p class="text-[8px] font-black text-emerald-400 uppercase tracking-[0.3em] opacity-0 group-hover:opacity-100 transition-opacity">Year X</p>
-                </div>
-            `;
+            photoCard.innerHTML = `<img src="${imagePath}" alt="Origin" loading="lazy">`;
             albumContainer.appendChild(photoCard);
         }
 
@@ -185,13 +171,17 @@
 
         function openLightbox(index) {
             currentIndex = index;
-            document.getElementById('lightbox').classList.replace('hidden', 'flex');
+            const lb = document.getElementById('lightbox');
+            lb.classList.remove('hidden');
+            lb.classList.add('flex');
             document.body.style.overflow = 'hidden';
             updateDisplay();
         }
 
         function closeLightbox() {
-            document.getElementById('lightbox').classList.replace('flex', 'hidden');
+            const lb = document.getElementById('lightbox');
+            lb.classList.add('hidden');
+            lb.classList.remove('flex');
             document.body.style.overflow = 'auto';
         }
 
@@ -208,26 +198,10 @@
                 img.style.opacity = '1';
                 document.getElementById('caption').innerText = decs[currentIndex];
                 document.getElementById('photoIndex').innerText = `Origin ${currentIndex + 1} / ${totalPhotos}`;
-            }, 200);
+            }, 150);
         }
 
-        const audio = document.getElementById('bgMusic');
-        audio.volume = 0.3;
-
-        function handleMusic() {
-            const icon = document.getElementById('musicIcon');
-            const status = document.getElementById('musicStatus');
-            if (audio.paused) {
-                audio.play();
-                icon.innerText = "||";
-                status.innerText = "Now Playing";
-            } else {
-                audio.pause();
-                icon.innerText = "▶";
-                status.innerText = "Audio Off";
-            }
-        }
-
+        // Support Keyboard
         document.addEventListener('keydown', (e) => {
             if (e.key === "ArrowRight") changePhoto(1);
             if (e.key === "ArrowLeft") changePhoto(-1);

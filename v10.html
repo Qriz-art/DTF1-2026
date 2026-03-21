@@ -14,7 +14,6 @@
             overflow-x: hidden;
         }
 
-        /* --- PARTIKEL HALUS --- */
         .particles {
             position: fixed;
             top: 0; left: 0; width: 100%; height: 100%;
@@ -22,71 +21,77 @@
             pointer-events: none; z-index: 1;
         }
 
-        /* --- NAVIGASI STATIC (DIUBAH DARI FIXED AGAR IKUT TER-SCROLL) --- */
         .nav-header {
-            position: absolute; /* Menjadi absolute agar menempel di header saja */
-            top: 0;
-            left: 0;
-            width: 100%;
+            position: absolute;
+            top: 0; left: 0; width: 100%;
             z-index: 100;
-            padding: 2.5rem 3rem;
+            padding: 1.5rem 1rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
+        @media (min-width: 768px) { .nav-header { padding: 2.5rem 3rem; } }
 
-        /* --- GRID 4 KOLOM --- */
+        /* --- GRID OPTIMIZATION (2 Kolom di HP) --- */
         .album-grid {
             display: grid;
-            grid-template-columns: repeat(1, minmax(0, 1fr));
-            gap: 50px;
-            padding: 4rem 2rem;
+            grid-template-columns: repeat(2, minmax(0, 1fr)); /* Default 2 kolom untuk HP */
+            gap: 12px; /* Jarak lebih rapat di mobile agar rapi */
+            padding: 2rem 1rem;
         }
-        @media (min-width: 768px) { .album-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-        @media (min-width: 1280px) { .album-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+        @media (min-width: 768px) { 
+            .album-grid { 
+                grid-template-columns: repeat(2, minmax(0, 1fr)); 
+                gap: 30px; 
+                padding: 4rem 2rem;
+            } 
+        }
+        @media (min-width: 1280px) { 
+            .album-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 50px; } 
+        }
 
-        /* --- FOTO CARD --- */
         .photo-card {
             position: relative;
             background: #000;
-            padding: 12px;
+            padding: 6px;
             border: 1px solid rgba(255, 255, 255, 0.03);
             transition: all 0.8s cubic-bezier(0.2, 1, 0.2, 1);
             cursor: pointer;
         }
+        @media (min-width: 768px) { .photo-card { padding: 12px; } }
 
         .photo-card img {
             width: 100%;
             aspect-ratio: 3/4;
             object-fit: cover;
-            filter: grayscale(1) brightness(0.4);
+            filter: grayscale(0.6) brightness(0.7);
             transition: all 1s ease;
         }
 
         .photo-number {
             position: absolute;
-            top: -20px; left: -20px;
+            top: -5px; left: -5px;
             font-family: 'Inter', sans-serif;
-            font-size: 5rem; font-weight: 900;
-            color: rgba(255, 255, 255, 0.02);
+            font-size: 2rem; font-weight: 900;
+            color: rgba(255, 255, 255, 0.03);
             z-index: 0; pointer-events: none;
         }
+        @media (min-width: 768px) { .photo-number { font-size: 5rem; top: -20px; left: -20px; } }
 
         .photo-card:hover {
             border-color: rgba(212, 175, 55, 0.3);
-            transform: translateY(-20px) rotate(1.5deg);
+            transform: translateY(-10px) rotate(1deg);
             z-index: 10;
         }
 
         .photo-card:hover img {
             filter: grayscale(0) brightness(1);
-            transform: scale(1.05);
+            transform: scale(1.03);
         }
 
-        /* --- JUDUL REVEAL --- */
         .text-reveal {
             font-family: 'Inter', sans-serif;
-            font-size: clamp(4rem, 15vw, 12rem);
+            font-size: clamp(3rem, 15vw, 12rem);
             line-height: 0.8; letter-spacing: -0.05em;
             color: transparent;
             -webkit-text-stroke: 1px rgba(255,255,255,0.1);
@@ -106,80 +111,61 @@
 
     <nav class="nav-header mix-blend-difference">
         <a href="index.html" class="group relative flex items-center no-underline">
-            <div class="relative w-20 h-20 flex items-center justify-center">
-                <div class="absolute inset-0 border border-white/10 rounded-full group-hover:scale-150 group-hover:border-amber-500/0 transition-all duration-1000"></div>
-                <div class="absolute inset-2 border-t border-r border-amber-500/40 rounded-full animate-spin [animation-duration:4s] opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                <div class="relative w-12 h-12 bg-white rounded-full flex items-center justify-center transition-all duration-500 group-hover:bg-amber-500 shadow-2xl">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-black transform group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <div class="relative w-12 h-12 md:w-20 md:h-20 flex items-center justify-center">
+                <div class="absolute inset-0 border border-white/10 rounded-full group-hover:scale-150 transition-all duration-1000"></div>
+                <div class="relative w-8 h-8 md:w-12 md:h-12 bg-white rounded-full flex items-center justify-center transition-all duration-500 group-hover:bg-amber-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 md:w-5 md:h-5 text-black" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7" />
                     </svg>
                 </div>
-                <div class="absolute left-24 whitespace-nowrap overflow-hidden">
-                    <div class="flex flex-col transform translate-x-[-20px] opacity-0 group-hover:translate-x-0 group-hover:opacity-100 transition-all duration-700">
-                        <span class="text-[10px] font-black tracking-[0.5em] text-amber-500 uppercase leading-none mb-1">Return to</span>
-                        <span class="text-xl font-black tracking-tighter text-white uppercase italic leading-none">GALLERY HUB</span>
-                    </div>
-                </div>
+            </div>
+            <div class="ml-4 flex flex-col hidden sm:flex">
+                <span class="text-[8px] font-black tracking-widest text-amber-500 uppercase">Return to</span>
+                <span class="text-sm font-black text-white uppercase italic">GALLERY</span>
             </div>
         </a>
 
-        <div class="hidden md:flex items-center gap-6 opacity-40 hover:opacity-100 transition-opacity">
+        <div class="flex items-center gap-4 md:gap-6 opacity-60">
             <div class="text-right">
-                <p class="text-[8px] font-black tracking-[0.4em] text-white/50 uppercase">Archive Mode</p>
-                <p class="text-[10px] font-bold text-amber-500 tracking-widest uppercase leading-none">XII DTF 1</p>
+                <p class="text-[7px] md:text-[8px] font-black tracking-widest text-white/50 uppercase">Archive Mode</p>
+                <p class="text-[9px] md:text-[10px] font-bold text-amber-500 tracking-widest uppercase">XII DTF 1</p>
             </div>
-            <div class="w-[1px] h-10 bg-white/20"></div>
-            <span class="text-xl font-black italic">26</span>
+            <div class="w-[1px] h-8 md:h-10 bg-white/20"></div>
+            <span class="text-lg md:text-xl font-black italic">26</span>
         </div>
     </nav>
 
-    <header class="relative min-h-screen flex flex-col items-center justify-center text-center px-6 pt-20">
+    <header class="relative min-h-[60vh] md:min-h-screen flex flex-col items-center justify-center text-center px-6 pt-20">
         <div class="z-10">
-            <p class="text-xs font-bold tracking-[0.8em] uppercase text-amber-500 mb-8 animate-pulse">The Journey Ends Here</p>
+            <p class="text-[10px] md:text-xs font-bold tracking-[0.5em] md:tracking-[0.8em] uppercase text-amber-500 mb-4 md:mb-8 animate-pulse">The Journey Ends Here</p>
             <h1 class="text-reveal uppercase">LEGACY</h1>
-            <h2 class="font-serif italic text-4xl md:text-6xl text-white mt-[-10px] md:mt-[-30px] z-20 relative">Two Thousand <span class="text-amber-500">Twenty Six</span></h2>
-        </div>
-        <div class="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4 opacity-30">
-            <span class="text-[10px] tracking-[0.5em] uppercase">Scroll to Relive</span>
-            <div class="w-[1px] h-20 bg-gradient-to-b from-white to-transparent"></div>
+            <h2 class="font-serif italic text-2xl md:text-6xl text-white mt-2 md:mt-[-30px] z-20 relative">Two Thousand <span class="text-amber-500">Twenty Six</span></h2>
         </div>
     </header>
 
     <main id="albumContainer" class="album-grid container mx-auto max-w-[1600px]"></main>
 
-    <div id="lightbox" class="fixed inset-0 hidden z-[200] flex-col items-center justify-center p-6 transition-all duration-700 opacity-0">
-        <button onclick="closeLightbox()" class="absolute top-10 right-10 text-white/30 hover:text-white transition-all text-5xl font-thin">&times;</button>
+    <div id="lightbox" class="fixed inset-0 hidden z-[200] flex-col items-center justify-center p-4 transition-all duration-700 opacity-0">
+        <button onclick="closeLightbox()" class="absolute top-6 right-6 text-white/50 hover:text-white text-4xl font-thin">&times;</button>
         <div class="flex items-center justify-between w-full max-w-7xl">
-            <button onclick="changePhoto(-1)" class="text-white/10 hover:text-white transition-all text-6xl p-4">&lsaquo;</button>
-            <div class="flex flex-col items-center">
-                <img id="bigImage" src="" class="max-h-[75vh] w-auto shadow-[0_0_100px_rgba(0,0,0,1)] border border-white/5 transition-all duration-700">
-                <div class="mt-12 text-center">
-                    <p id="caption" class="font-serif italic text-4xl text-white mb-2 tracking-tight"></p>
-                    <p id="photoIndex" class="text-amber-500/50 text-[10px] font-bold tracking-[0.6em] uppercase"></p>
+            <button onclick="changePhoto(-1)" class="text-white/10 hover:text-white transition-all text-4xl md:text-6xl p-4">&lsaquo;</button>
+            <div class="flex flex-col items-center max-w-[85%]">
+                <img id="bigImage" src="" class="max-h-[70vh] w-auto shadow-2xl border border-white/5 transition-all duration-700">
+                <div class="mt-8 text-center">
+                    <p id="caption" class="font-serif italic text-2xl md:text-4xl text-white mb-2"></p>
+                    <p id="photoIndex" class="text-amber-500/50 text-[9px] font-bold tracking-[0.5em] uppercase"></p>
                 </div>
             </div>
-            <button onclick="changePhoto(1)" class="text-white/10 hover:text-white transition-all text-6xl p-4">&rsaquo;</button>
+            <button onclick="changePhoto(1)" class="text-white/10 hover:text-white transition-all text-4xl md:text-6xl p-4">&rsaquo;</button>
         </div>
     </div>
-
-    <div class="fixed bottom-10 right-10 z-[100]">
-        <button onclick="handleMusic()" class="glass-lux p-4 rounded-full flex items-center gap-4 hover:bg-white/10 transition-all duration-500 group">
-            <div id="musicBars" class="flex gap-1 items-end h-3 w-5">
-                <div class="v-bar w-[2px] bg-amber-500 h-1"></div>
-                <div class="v-bar w-[2px] bg-amber-500 h-3"></div>
-                <div class="v-bar w-[2px] bg-amber-500 h-2"></div>
-            </div>
-            <span id="musicText" class="text-[9px] font-bold tracking-[0.3em] uppercase text-white/60 group-hover:text-amber-500">Play Ambience</span>
-        </button>
-    </div>
-
-    <audio id="bgMusic" loop><source src="laskar.mp3" type="audio/mpeg"></audio>
 
     <script>
         const albumContainer = document.getElementById('albumContainer');
         const totalPhotos = 119;
         const images = [];
 
+        // Menghasilkan Grid Foto
         for (let i = 1; i <= totalPhotos; i++) {
             const imagePath = `kelas3 (${i}).jpg`;
             images.push(imagePath);
@@ -190,13 +176,12 @@
             div.innerHTML = `
                 <div class="photo-number">${formattedNum}</div>
                 <div class="overflow-hidden relative z-10">
-                    <img src="${imagePath}" loading="lazy">
-                    <div class="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-80 transition-opacity group-hover:opacity-40"></div>
+                    <img src="${imagePath}" loading="lazy" alt="Gallery ${i}">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-80"></div>
                 </div>
-                <div class="absolute bottom-8 left-8 z-20 opacity-0 group-hover:opacity-100 transform translate-y-4 group-hover:translate-y-0 transition-all duration-700">
-                    <p class="text-amber-500 text-[9px] font-black tracking-[0.5em] uppercase mb-1">Archive 26</p>
-                    <h3 class="text-white text-xl font-bold tracking-tighter leading-none uppercase">Frame No. ${formattedNum}</h3>
-                    <div class="mt-3 h-[1px] w-0 group-hover:w-full bg-amber-500 transition-all duration-700"></div>
+                <div class="absolute bottom-3 left-3 md:bottom-8 md:left-8 z-20 opacity-100 md:opacity-0 md:group-hover:opacity-100 transform transition-all duration-700">
+                    <p class="text-amber-500 text-[7px] md:text-[9px] font-black tracking-widest uppercase mb-1">Archive 26</p>
+                    <h3 class="text-white text-[10px] md:text-xl font-bold tracking-tighter leading-none uppercase">Frame ${formattedNum}</h3>
                 </div>
             `;
             albumContainer.appendChild(div);
@@ -226,7 +211,7 @@
 
         function updateDisplay() {
             const img = document.getElementById('bigImage');
-            img.style.filter = 'brightness(0) blur(20px)';
+            img.style.filter = 'brightness(0) blur(10px)';
             setTimeout(() => {
                 img.src = images[currentIndex];
                 img.style.filter = 'brightness(1) blur(0)';
@@ -235,25 +220,7 @@
             }, 300);
         }
 
-        const audio = document.getElementById('bgMusic');
-        audio.volume = 0.25;
-
-        function handleMusic() {
-            const mText = document.getElementById('musicText');
-            const bars = document.querySelectorAll('.v-bar');
-            if (audio.paused) {
-                audio.play(); mText.innerText = "Playing";
-                bars.forEach((b, i) => b.style.animation = `barDance 0.6s infinite ease-in-out ${i * 0.2}s`);
-            } else {
-                audio.pause(); mText.innerText = "Paused";
-                bars.forEach(b => b.style.animation = "none");
-            }
-        }
-
-        const style = document.createElement('style');
-        style.innerHTML = `@keyframes barDance { 0%, 100% { height: 4px; } 50% { height: 12px; } }`;
-        document.head.appendChild(style);
-
+        // Keyboard Navigation
         document.addEventListener('keydown', (e) => {
             if (e.key === "ArrowRight") changePhoto(1);
             if (e.key === "ArrowLeft") changePhoto(-1);
