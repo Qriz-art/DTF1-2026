@@ -162,21 +162,48 @@
 
     <script>
         const albumContainer = document.getElementById('albumContainer');
-        const totalPhotos = 400;
-        const images = [];
+const images = [];
+let currentIndex = 0;
+const lightbox = document.getElementById('lightbox');
 
-        // Menghasilkan Grid Foto
-        for (let i = 1; i <= totalPhotos; i++) {
-            const imagePath = `kelas3 (${i}).jpg`;
-            images.push(imagePath);
+// Fungsi Otomatis Scan Foto
+async function loadGallery() {
+    let i = 1;
+    let keepChecking = true;
+
+    while (keepChecking) {
+        // Daftar format yang akan dicek satu per satu
+        const extensions = ['jpg', 'jpeg'];
+        let foundPath = null;
+
+        for (let ext of extensions) {
+            const testPath = `kelas3 (${i}).${ext}`;
+            try {
+                // Method HEAD hanya cek header file, lebih cepat daripada download
+                const response = await fetch(testPath, { method: 'HEAD' });
+                if (response.ok) {
+                    foundPath = testPath;
+                    break; // Jika ketemu, berhenti cek ekstensi lain untuk angka ini
+                }
+            } catch (error) {
+                // Abaikan error koneksi
+            }
+        }
+
+        if (foundPath) {
+            images.push(foundPath);
+            
+            const formattedNum = i < 10 ? `0${i}` : i;
             const div = document.createElement('div');
             div.className = 'photo-card group';
-            div.onclick = () => openLightbox(i - 1);
-            const formattedNum = i < 10 ? `0${i}` : i;
+            
+            const photoIndex = i - 1; 
+            div.onclick = () => openLightbox(photoIndex);
+            
             div.innerHTML = `
                 <div class="photo-number">${formattedNum}</div>
                 <div class="overflow-hidden relative z-10">
-                    <img src="${imagePath}" loading="lazy" alt="Gallery ${i}">
+                    <img src="${foundPath}" loading="lazy" alt="Gallery ${i}">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-80"></div>
                 </div>
                 <div class="absolute bottom-3 left-3 md:bottom-8 md:left-8 z-20 opacity-100 md:opacity-0 md:group-hover:opacity-100 transform transition-all duration-700">
@@ -185,47 +212,66 @@
                 </div>
             `;
             albumContainer.appendChild(div);
+            i++;
+        } else {
+            // Jika kedua ekstensi tidak ditemukan, hentikan pencarian
+            keepChecking = false;
         }
 
-        let currentIndex = 0;
-        const lightbox = document.getElementById('lightbox');
+        // Batas aman agar browser tidak crash jika file sangat banyak
+        if (i > 1000) break;
+    }
+}
 
-        function openLightbox(index) {
-            currentIndex = index;
-            lightbox.classList.remove('hidden');
-            setTimeout(() => { lightbox.classList.add('flex'); lightbox.style.opacity = '1'; }, 10);
-            document.body.style.overflow = 'hidden';
-            updateDisplay();
-        }
+// Jalankan fungsi
+loadGallery();
 
-        function closeLightbox() {
-            lightbox.style.opacity = '0';
-            setTimeout(() => { lightbox.classList.add('hidden'); lightbox.classList.remove('flex'); }, 700);
-            document.body.style.overflow = 'auto';
-        }
+function openLightbox(index) {
+    currentIndex = index;
+    lightbox.classList.remove('hidden');
+    setTimeout(() => { 
+        lightbox.classList.add('flex'); 
+        lightbox.style.opacity = '1'; 
+    }, 10);
+    document.body.style.overflow = 'hidden';
+    updateDisplay();
+}
 
-        function changePhoto(step) {
-            currentIndex = (currentIndex + step + images.length) % images.length;
-            updateDisplay();
-        }
+function closeLightbox() {
+    lightbox.style.opacity = '0';
+    setTimeout(() => { 
+        lightbox.classList.add('hidden'); 
+        lightbox.classList.remove('flex'); 
+    }, 700);
+    document.body.style.overflow = 'auto';
+}
 
-        function updateDisplay() {
-            const img = document.getElementById('bigImage');
-            img.style.filter = 'brightness(0) blur(10px)';
-            setTimeout(() => {
-                img.src = images[currentIndex];
-                img.style.filter = 'brightness(1) blur(0)';
-                document.getElementById('caption').innerText = `Memento #${currentIndex + 1}`;
-                document.getElementById('photoIndex').innerText = `${currentIndex + 1} / ${totalPhotos}`;
-            }, 300);
-        }
+function changePhoto(step) {
+    if (images.length === 0) return;
+    currentIndex = (currentIndex + step + images.length) % images.length;
+    updateDisplay();
+}
 
-        // Keyboard Navigation
-        document.addEventListener('keydown', (e) => {
-            if (e.key === "ArrowRight") changePhoto(1);
-            if (e.key === "ArrowLeft") changePhoto(-1);
-            if (e.key === "Escape") closeLightbox();
-        });
+function updateDisplay() {
+    const img = document.getElementById('bigImage');
+    const totalPhotos = images.length; // Hitung jumlah foto terbaru
+    
+    img.style.filter = 'brightness(0) blur(10px)';
+    
+    setTimeout(() => {
+        img.src = images[currentIndex];
+        img.style.filter = 'brightness(1) blur(0)';
+        document.getElementById('caption').innerText = `Memento #${currentIndex + 1}`;
+        document.getElementById('photoIndex').innerText = `${currentIndex + 1} / ${totalPhotos}`;
+    }, 300);
+}
+
+// Keyboard Navigation
+document.addEventListener('keydown', (e) => {
+    if (e.key === "ArrowRight") changePhoto(1);
+    if (e.key === "ArrowLeft") changePhoto(-1);
+    if (e.key === "Escape") closeLightbox();
+});
     </script>
 </body>
 </html>

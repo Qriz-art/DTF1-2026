@@ -129,75 +129,112 @@
     </div>
 
     <script>
-        const albumContainer = document.getElementById('albumContainer');
-        const totalPhotos = 88;
-        const images = [];
-        const decs = [];
+    const albumContainer = document.getElementById('albumContainer');
+    const images = [];
+    const decs = [];
+    let currentIndex = 0;
 
-        const groups = [
-            { start: 1, end: 10, text: "Awal Perjalanan" },
-            { start: 11, end: 25, text: "Workshop Days" },
-            { start: 26, end: 50, text: "Classroom Fun" },
-            { start: 51, end: 88, text: "Momen Emas" }
-        ];
+    // Logika grup tetap dipertahankan, 'end' untuk grup terakhir bisa dibuat sangat besar
+    const groups = [
+        { start: 1, end: 10, text: "Awal Perjalanan" },
+        { start: 11, end: 25, text: "Workshop Days" },
+        { start: 26, end: 50, text: "Classroom Fun" },
+        { start: 51, end: 999, text: "Momen Emas" } // Set ke 999 agar foto baru masuk sini
+    ];
+    
+        async function loadGallery() {
+    let i = 1;
+    let keepChecking = true;
 
-        // Generate Cards
-        for (let i = 1; i <= totalPhotos; i++) {
-            const imagePath = `kelas2  (${i}).jpeg`;
-            images.push(imagePath);
+    while (keepChecking) {
+        // Daftar ekstensi yang ingin dicek
+        const extensions = ['jpg', 'jpeg'];
+        let foundPath = null;
 
+        // Cek satu-satu: coba .jpg dulu, kalau gagal coba .jpeg
+        for (let ext of extensions) {
+            const testPath = `kelas2  (${i}).${ext}`; // Sesuaikan spasi nama filemu
+            try {
+                const response = await fetch(testPath, { method: 'HEAD' });
+                if (response.ok) {
+                    foundPath = testPath;
+                    break; // Jika sudah ketemu satu, berhenti cek ekstensi lain
+                }
+            } catch (e) {
+                // Abaikan error fetch
+            }
+        }
+
+        if (foundPath) {
+            images.push(foundPath);
+
+            // Logika grup (sama seperti sebelumnya)
             const group = groups.find(g => i >= g.start && i <= g.end);
             const description = group ? group.text : `Frame #${i}`;
             decs.push(description);
 
             const photoCard = document.createElement('div');
             photoCard.className = 'photo-card shadow-lg';
-            photoCard.onclick = () => openLightbox(i - 1);
-            photoCard.innerHTML = `<img src="${imagePath}" alt="Gallery" loading="lazy">`;
+            const indexSaatIni = i - 1;
+            photoCard.onclick = () => openLightbox(indexSaatIni);
+            photoCard.innerHTML = `<img src="${foundPath}" alt="Gallery" loading="lazy">`;
             albumContainer.appendChild(photoCard);
-        }
-
-        let currentIndex = 0;
-
-        function openLightbox(index) {
-            currentIndex = index;
-            const lb = document.getElementById('lightbox');
-            lb.classList.remove('hidden');
-            lb.classList.add('flex');
-            document.body.style.overflow = 'hidden';
-            updateDisplay();
-        }
-
-        function closeLightbox() {
-            const lb = document.getElementById('lightbox');
-            lb.classList.add('hidden');
-            lb.classList.remove('flex');
-            document.body.style.overflow = 'auto';
-        }
-
-        function changePhoto(step) {
-            currentIndex = (currentIndex + step + images.length) % images.length;
-            updateDisplay();
-        }
-
-        function updateDisplay() {
-            const img = document.getElementById('bigImage');
-            img.style.opacity = '0';
             
-            setTimeout(() => {
-                img.src = images[currentIndex];
-                img.style.opacity = '1';
-                document.getElementById('caption').innerText = decs[currentIndex];
-                document.getElementById('photoIndex').innerText = `Memory ${currentIndex + 1} / ${totalPhotos}`;
-            }, 150);
+            i++; // Lanjut ke angka berikutnya
+        } else {
+            // Jika kedua format (.jpg & .jpeg) tidak ditemukan, baru stop loop
+            keepChecking = false;
         }
 
-        // Keyboard support
-        document.addEventListener('keydown', (e) => {
-            if (e.key === "ArrowRight") changePhoto(1);
-            if (e.key === "ArrowLeft") changePhoto(-1);
-            if (e.key === "Escape") closeLightbox();
-        });
-    </script>
+        if (i > 1000) break;
+    }
+}
+
+    // Jalankan fungsi load
+    loadGallery();
+
+    function openLightbox(index) {
+        currentIndex = index;
+        const lb = document.getElementById('lightbox');
+        lb.classList.remove('hidden');
+        lb.classList.add('flex');
+        document.body.style.overflow = 'hidden';
+        updateDisplay();
+    }
+
+    function closeLightbox() {
+        const lb = document.getElementById('lightbox');
+        lb.classList.add('hidden');
+        lb.classList.remove('flex');
+        document.body.style.overflow = 'auto';
+    }
+
+    function changePhoto(step) {
+        if (images.length === 0) return;
+        currentIndex = (currentIndex + step + images.length) % images.length;
+        updateDisplay();
+    }
+
+    function updateDisplay() {
+        const img = document.getElementById('bigImage');
+        const totalSekarang = images.length;
+        
+        img.style.opacity = '0';
+        
+        setTimeout(() => {
+            img.src = images[currentIndex];
+            img.style.opacity = '1';
+            document.getElementById('caption').innerText = decs[currentIndex];
+            document.getElementById('photoIndex').innerText = `Memory ${currentIndex + 1} / ${totalSekarang}`;
+        }, 150);
+    }
+
+    // Keyboard support
+    document.addEventListener('keydown', (e) => {
+        if (e.key === "ArrowRight") changePhoto(1);
+        if (e.key === "ArrowLeft") changePhoto(-1);
+        if (e.key === "Escape") closeLightbox();
+    });
+</script>
 </body>
 </html>

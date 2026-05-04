@@ -149,64 +149,101 @@
     </div>
 
     <script>
-        const albumContainer = document.getElementById('albumContainer');
-        const totalPhotos = 88;
-        const images = [];
-        const decs = [];
+       const albumContainer = document.getElementById('albumContainer');
+const images = [];
+const decs = [];
+let currentIndex = 0;
 
-        // Generate Cards
-        for (let i = 1; i <= totalPhotos; i++) {
-           const imagePath = `kelas1 (${i}).jpeg`;
-            images.push(imagePath);
+// Fungsi untuk mengecek apakah file gambar ada atau tidak
+async function loadPhotos() {
+    let i = 1;
+    let foundAll = false;
+
+    while (!foundAll) {
+        // Daftar ekstensi yang akan dicoba
+        const extensions = ['jpeg', 'jpg'];
+        let foundPath = null;
+
+        // Cek satu per satu ekstensi untuk angka (i) yang sama
+        for (let ext of extensions) {
+            const imagePath = `kelas1 (${i}).${ext}`;
+            try {
+                // Mencoba "ping" file
+                const response = await fetch(imagePath, { method: 'HEAD' });
+                
+                if (response.ok) {
+                    foundPath = imagePath;
+                    break; // Jika ketemu, berhenti cek ekstensi lain, lanjut ke angka berikutnya
+                }
+            } catch (error) {
+                // Abaikan error koneksi
+            }
+        }
+
+        if (foundPath) {
+            images.push(foundPath);
             decs.push(`Memory #${i}`);
 
             const photoCard = document.createElement('div');
             photoCard.className = 'photo-card shadow-lg';
-            photoCard.onclick = () => openLightbox(i - 1);
-            photoCard.innerHTML = `<img src="${imagePath}" alt="Origin" loading="lazy">`;
+            
+            // Simpan index saat ini ke variabel lokal
+            const currentIndexForCard = i - 1;
+            photoCard.onclick = () => openLightbox(currentIndexForCard);
+            photoCard.innerHTML = `<img src="${foundPath}" alt="Origin" loading="lazy">`;
             albumContainer.appendChild(photoCard);
+            
+            i++;
+        } else {
+            // Jika kedua format (.jpeg dan .jpg) tidak ditemukan, hentikan loop
+            foundAll = true;
         }
+        
+        // Safety break (batas maksimal 500 foto sesuai kode asli kamu)
+        if (i > 500) break; 
+    }
+}
+// Jalankan fungsi pengambil foto
+loadPhotos();
 
-        let currentIndex = 0;
+function openLightbox(index) {
+    currentIndex = index;
+    const lb = document.getElementById('lightbox');
+    lb.classList.remove('hidden');
+    lb.classList.add('flex');
+    document.body.style.overflow = 'hidden';
+    updateDisplay();
+}
 
-        function openLightbox(index) {
-            currentIndex = index;
-            const lb = document.getElementById('lightbox');
-            lb.classList.remove('hidden');
-            lb.classList.add('flex');
-            document.body.style.overflow = 'hidden';
-            updateDisplay();
-        }
+function closeLightbox() {
+    const lb = document.getElementById('lightbox');
+    lb.classList.add('hidden');
+    lb.classList.remove('flex');
+    document.body.style.overflow = 'auto';
+}
 
-        function closeLightbox() {
-            const lb = document.getElementById('lightbox');
-            lb.classList.add('hidden');
-            lb.classList.remove('flex');
-            document.body.style.overflow = 'auto';
-        }
+function changePhoto(step) {
+    currentIndex = (currentIndex + step + images.length) % images.length;
+    updateDisplay();
+}
 
-        function changePhoto(step) {
-            currentIndex = (currentIndex + step + images.length) % images.length;
-            updateDisplay();
-        }
+function updateDisplay() {
+    const img = document.getElementById('bigImage');
+    const totalPhotos = images.length;
+    img.style.opacity = '0';
+    setTimeout(() => {
+        img.src = images[currentIndex];
+        img.style.opacity = '1';
+        document.getElementById('caption').innerText = decs[currentIndex];
+        document.getElementById('photoIndex').innerText = `Origin ${currentIndex + 1} / ${totalPhotos}`;
+    }, 150);
+}
 
-        function updateDisplay() {
-            const img = document.getElementById('bigImage');
-            img.style.opacity = '0';
-            setTimeout(() => {
-                img.src = images[currentIndex];
-                img.style.opacity = '1';
-                document.getElementById('caption').innerText = decs[currentIndex];
-                document.getElementById('photoIndex').innerText = `Origin ${currentIndex + 1} / ${totalPhotos}`;
-            }, 150);
-        }
-
-        // Support Keyboard
-        document.addEventListener('keydown', (e) => {
-            if (e.key === "ArrowRight") changePhoto(1);
-            if (e.key === "ArrowLeft") changePhoto(-1);
-            if (e.key === "Escape") closeLightbox();
-        });
+document.addEventListener('keydown', (e) => {
+    if (e.key === "ArrowRight") changePhoto(1);
+    if (e.key === "ArrowLeft") changePhoto(-1);
+    if (e.key === "Escape") closeLightbox();
+});
     </script>
 </body>
 </html>
