@@ -1,0 +1,2426 @@
+{
+  "updatedAt": "2026-10-21T04:06:03.694Z",
+  "photos": {
+    "kelas1 (1).jpeg": {
+      "year": 2023,
+      "size": 192221,
+      "messageId": 2,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADAmrYL1YFqQGhwbuF3CumqAp4tN6PAAIIEGsbQAnAVnKh2poO7ZEMAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADCBBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:19:49.675Z"
+    },
+    "kelas1 (2).jpeg": {
+      "year": 2023,
+      "size": 186423,
+      "messageId": 3,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADA2rYMvUfxsvy3N8sEq9KjsMZeSMnAAIOEGsbQAnAVgABt3_8O-oO0wEAAwIAA3kAAz0E",
+      "fileUniqueId": "AQADDhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:35:16.257Z"
+    },
+    "kelas1 (3).jpeg": {
+      "year": 2023,
+      "size": 188864,
+      "messageId": 4,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADBGrYMvjz6uMJvRHlpqsR_4QjSwPMAAIPEGsbQAnAVieznbL3hwpEAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADDxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:35:19.252Z"
+    },
+    "kelas1 (4).jpeg": {
+      "year": 2023,
+      "size": 312337,
+      "messageId": 5,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADBWrYMvsoZlYXzaH9JFYQWgbca579AAIQEGsbQAnAVtLnK0z_McLKAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADEBBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:35:22.383Z"
+    },
+    "kelas2  (1).jpeg": {
+      "year": 2024,
+      "size": 1413258,
+      "messageId": 6,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADBmrYMze8Vz5mWbAk7wlv9eSvnhR2AAIREGsbQAnAVpZFG7z4nRkPAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADERBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:36:23.129Z"
+    },
+    "kelas2  (2).jpeg": {
+      "year": 2024,
+      "size": 1348231,
+      "messageId": 7,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADB2rYMz4Y75egLxOkpZlEDNxiFzKKAAISEGsbQAnAVjc4VZeBQSJlAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADEhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:36:30.101Z"
+    },
+    "kelas2  (3).jpeg": {
+      "year": 2024,
+      "size": 1422378,
+      "messageId": 8,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADCGrYM0V_n7w6Ib_TyiDZJEvUogPXAAITEGsbQAnAVqIWNJ74JQvIAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADExBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:36:37.051Z"
+    },
+    "kelas2  (4).jpeg": {
+      "year": 2024,
+      "size": 1447681,
+      "messageId": 9,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADCWrYM0xoXhmIHKyoAAFkXjjSfifEugACFBBrG0AJwFbUwPhvIYwlqwEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:36:44.235Z"
+    },
+    "kelas2  (5).jpeg": {
+      "year": 2024,
+      "size": 2123291,
+      "messageId": 10,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADCmrYM1YNrwABJRenGsu9e3XQrKGi1AACFRBrG0AJwFaFLa2-p4sUsgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:36:53.746Z"
+    },
+    "kelas2  (6).jpeg": {
+      "year": 2024,
+      "size": 2221796,
+      "messageId": 11,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADC2rYM2DsscawT_is0evHHMxoAAHdUwACFhBrG0AJwFbqO14BefGZFQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:03.485Z"
+    },
+    "kelas2  (7).jpeg": {
+      "year": 2024,
+      "size": 1837928,
+      "messageId": 12,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADDGrYM2lOLctDq20ZE-Dp3-5KuLOHAAIXEGsbQAnAVtrZwcaEE-WBAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADFxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:12.567Z"
+    },
+    "kelas2  (8).jpeg": {
+      "year": 2024,
+      "size": 2086157,
+      "messageId": 13,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADDWrYM3KK8OYB3273GCqpU2M75iEPAAIYEGsbQAnAVvj4JeH7H7ZFAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADGBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:21.954Z"
+    },
+    "kelas2  (9).jpeg": {
+      "year": 2024,
+      "size": 1703130,
+      "messageId": 14,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADDmrYM3pvC582R7YXQOUbtHxjiT1aAAIZEGsbQAnAVlORT9oWmnchAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADGRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:30.164Z"
+    },
+    "kelas2  (10).jpeg": {
+      "year": 2024,
+      "size": 2132276,
+      "messageId": 15,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADD2rYM4S5rAjjzIjLqRCfxW_93_iOAAIaEGsbQAnAVnWiZrSXClwhAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADGhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:39.597Z"
+    },
+    "kelas2  (11).jpeg": {
+      "year": 2024,
+      "size": 1536408,
+      "messageId": 16,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADEGrYM4vIeaxrig8hZz4GsIo5cZ7xAAIbEGsbQAnAVuIbouWhA7_JAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADGxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:47.134Z"
+    },
+    "kelas2  (12).jpeg": {
+      "year": 2024,
+      "size": 1432675,
+      "messageId": 17,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADEWrYM5Ie_qqJ5eYyEaceV-4EMDROAAIcEGsbQAnAVmvgSXZefLg9AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADHBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:37:54.301Z"
+    },
+    "kelas2  (13).jpeg": {
+      "year": 2024,
+      "size": 1027762,
+      "messageId": 18,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADEmrYM5gY1X3aCsKGiIYKc6B4ZO13AAIdEGsbQAnAVrPrr9A0lkpVAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADHRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:00.201Z"
+    },
+    "kelas2  (14).jpeg": {
+      "year": 2024,
+      "size": 564375,
+      "messageId": 19,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADE2rYM50vM3hLVyGmx1qYCimeDGZHAAIeEGsbQAnAVts6hpsAAWx3pQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADHhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:04.299Z"
+    },
+    "kelas2  (15).jpeg": {
+      "year": 2024,
+      "size": 575724,
+      "messageId": 20,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADFGrYM6GSTPVCM19ezl-hqkFQ5492AAIfEGsbQAnAVmpi1uM10nt-AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADHxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:08.563Z"
+    },
+    "kelas2  (16).jpeg": {
+      "year": 2024,
+      "size": 642509,
+      "messageId": 21,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADFWrYM6XkOzxj3mx7gVI4jabmR0NUAAIgEGsbQAnAVhGHylJ45WQcAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADIBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:13.041Z"
+    },
+    "kelas2  (17).jpeg": {
+      "year": 2024,
+      "size": 641199,
+      "messageId": 22,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADFmrYM6p4NZD2Gv1Kaz3onKgNw4XfAAIhEGsbQAnAVh2onzOfe6swAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADIRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:17.643Z"
+    },
+    "kelas2  (18).jpeg": {
+      "year": 2024,
+      "size": 750500,
+      "messageId": 23,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADF2rYM6-cPwJyzpShNZyM7esubsLxAAIiEGsbQAnAVsYfR43pZoZoAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADIhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:22.466Z"
+    },
+    "kelas2  (19).jpeg": {
+      "year": 2024,
+      "size": 791498,
+      "messageId": 24,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADGGrYM7SbO3tQDA9LPrCkqWVQjyCaAAIjEGsbQAnAVsDkJrI90Z-4AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADIxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:27.515Z"
+    },
+    "kelas2  (20).jpeg": {
+      "year": 2024,
+      "size": 966849,
+      "messageId": 25,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADGWrYM7mV8PCo-qwIhbJYL6bD6O8eAAIkEGsbQAnAVtHcMWjpnk28AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADJBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:33.113Z"
+    },
+    "kelas2  (21).jpeg": {
+      "year": 2024,
+      "size": 1089912,
+      "messageId": 26,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADGmrYM7_3NMafotWcp4WI2qcUnPMzAAIlEGsbQAnAVmCeVU8ebmzWAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADJRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:39.041Z"
+    },
+    "kelas2  (22).jpeg": {
+      "year": 2024,
+      "size": 753209,
+      "messageId": 27,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADG2rYM8T9s0TCC7vKwuysJmU5JP03AAImEGsbQAnAVsA9fjGCwU9NAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADJhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:43.764Z"
+    },
+    "kelas2  (23).jpeg": {
+      "year": 2024,
+      "size": 750297,
+      "messageId": 28,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADHGrYM8lCYkTPo541A462jeyotVJyAAInEGsbQAnAVluNStE-hqMOAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADJxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:48.468Z"
+    },
+    "kelas2  (24).jpeg": {
+      "year": 2024,
+      "size": 773199,
+      "messageId": 29,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADHWrYM86DmmGB_X5ZFtVdv3svsX25AAIoEGsbQAnAVms-kzKyefy_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADKBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:53.228Z"
+    },
+    "kelas2  (25).jpeg": {
+      "year": 2024,
+      "size": 594645,
+      "messageId": 30,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADHmrYM9KeBzui_0h_M0ggW20AAQfFwAACKRBrG0AJwFaO418kmL9TegEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADKRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:38:57.469Z"
+    },
+    "kelas2  (26).jpeg": {
+      "year": 2024,
+      "size": 604934,
+      "messageId": 31,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADH2rYM9ZK3nKJOPDn3MOdlP4utNmuAAIqEGsbQAnAVg6f-JfBl_8QAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADKhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:01.680Z"
+    },
+    "kelas2  (27).jpeg": {
+      "year": 2024,
+      "size": 597892,
+      "messageId": 32,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADIGrYM9rJdqLIoOl_kWderYro_sdFAAIrEGsbQAnAVjkwlHw2BDFsAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADKxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:05.926Z"
+    },
+    "kelas2  (28).jpeg": {
+      "year": 2024,
+      "size": 595088,
+      "messageId": 33,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADIWrYM95_cBAkloZ6YZmiDZr1TZjDAAIsEGsbQAnAVno_1-Q1PwXYAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADLBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:10.137Z"
+    },
+    "kelas2  (29).jpeg": {
+      "year": 2024,
+      "size": 806651,
+      "messageId": 34,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADImrYM-N_Q-jiWJcn-ViP5f8BmJycAAItEGsbQAnAVs2M_tthAaQ-AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADLRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:15.051Z"
+    },
+    "kelas2  (30).jpeg": {
+      "year": 2024,
+      "size": 623528,
+      "messageId": 35,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADI2rYM-iguGK9MeUAASXnbBS3ig0yFAACLhBrG0AJwFZjcPRi14jbXAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADLhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:19.503Z"
+    },
+    "kelas2  (31).jpeg": {
+      "year": 2024,
+      "size": 650423,
+      "messageId": 36,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADJGrYM-yujNhGjjEW60JpyUhFQgPhAAIvEGsbQAnAVh4x9SsZ0DIDAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADLxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:23.989Z"
+    },
+    "kelas2  (32).jpeg": {
+      "year": 2024,
+      "size": 601457,
+      "messageId": 37,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADJWrYM_Hg6aCsmS3WHA30KzZsvtSvAAIwEGsbQAnAVvgom7TA2kTyAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADMBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:28.395Z"
+    },
+    "kelas2  (33).jpeg": {
+      "year": 2024,
+      "size": 673948,
+      "messageId": 38,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADJmrYM_XtypKvD0NogG49J1PsKhkLAAIxEGsbQAnAVs02ES9ik1rnAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADMRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:33.068Z"
+    },
+    "kelas2  (34).jpeg": {
+      "year": 2024,
+      "size": 613922,
+      "messageId": 39,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADJ2rYM_oiho2nwwbeB331QKkU-IEmAAIyEGsbQAnAVnOULKuA5Yx_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADMhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:37.440Z"
+    },
+    "kelas2  (35).jpeg": {
+      "year": 2024,
+      "size": 1907275,
+      "messageId": 40,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADKGrYNAOFeyp_QIYoWwkDezHBmFtiAAIzEGsbQAnAVuaLXBAmqu9TAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADMxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:46.530Z"
+    },
+    "kelas2  (36).jpeg": {
+      "year": 2024,
+      "size": 2089550,
+      "messageId": 41,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADKWrYNAwoU-PkR2LhZnk-s6v0cqg1AAI0EGsbQAnAVjOAHQgokUPoAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADNBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:39:56.360Z"
+    },
+    "kelas2  (37).jpeg": {
+      "year": 2024,
+      "size": 2036638,
+      "messageId": 42,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADKmrYNBZZK4AskBJulm4mdoP9lAJyAAI1EGsbQAnAVsM9wPhzK94SAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADNRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:05.663Z"
+    },
+    "kelas2  (38).jpeg": {
+      "year": 2024,
+      "size": 2074072,
+      "messageId": 43,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADK2rYNB8jStOuj-BJEOIMqQAB5Tj5ZAACNhBrG0AJwFZHzIRodcUKzAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADNhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:15.021Z"
+    },
+    "kelas2  (39).jpeg": {
+      "year": 2024,
+      "size": 2054352,
+      "messageId": 44,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADLGrYNCjFHe9Ez8jhELt7Ld-61_nrAAI3EGsbQAnAVnjOsnPOpMDYAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADNxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:24.314Z"
+    },
+    "kelas2  (40).jpeg": {
+      "year": 2024,
+      "size": 2050555,
+      "messageId": 45,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADLWrYNDLlAaEyGpEWi9xrn_EPYOdnAAI4EGsbQAnAVnKqImLDaK_oAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADOBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:33.620Z"
+    },
+    "kelas2  (41).jpeg": {
+      "year": 2024,
+      "size": 1954003,
+      "messageId": 46,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADLmrYNDsMvGXIi8CnRNBbUIcFzo55AAI5EGsbQAnAVrkJfkff87eRAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADORBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:42.402Z"
+    },
+    "kelas2  (42).jpeg": {
+      "year": 2024,
+      "size": 285382,
+      "messageId": 47,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADL2rYND5Cw5gPeOylMCXQyFqM0lCHAAI6EGsbQAnAVkToenlPp_WdAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADOhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:40:45.424Z"
+    },
+    "kelas2  (43).jpeg": {
+      "year": 2024,
+      "size": 2135373,
+      "messageId": 48,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADMGrYNEcu7ySZ9_6jgnM7DhojzzAYAAI7EGsbQAnAVtVBKWbp_PKeAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADOxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:40:55.138Z"
+    },
+    "kelas2  (44).jpeg": {
+      "year": 2024,
+      "size": 2098008,
+      "messageId": 49,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADMWrYNFGWK8C8qu25_CnML2JUHM-WAAI8EGsbQAnAVvaiFUNigiTCAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADPBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:04.558Z"
+    },
+    "kelas2  (45).jpeg": {
+      "year": 2024,
+      "size": 2175522,
+      "messageId": 50,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADMmrYNFrWHFD2QykBhuHR87voKHdtAAI9EGsbQAnAVl7HKEo6PpLQAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADPRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:14.593Z"
+    },
+    "kelas2  (46).jpeg": {
+      "year": 2024,
+      "size": 2148445,
+      "messageId": 51,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADM2rYNGRSbcF98gNITNveTKo3_sU6AAI-EGsbQAnAVl6EtTrjGNXgAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADPhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:24.096Z"
+    },
+    "kelas2  (47).jpeg": {
+      "year": 2024,
+      "size": 2112277,
+      "messageId": 52,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADNGrYNG4JjthmL5rVt2d7tJp6Y7hdAAI_EGsbQAnAVkHSv1uj25lmAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADPxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:33.434Z"
+    },
+    "kelas2  (48).jpeg": {
+      "year": 2024,
+      "size": 2100809,
+      "messageId": 53,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADNWrYNHdbF4t5oaj8XxVwrA-TkZueAAJAEGsbQAnAVnpZsjGPT6hzAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADQBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:42.742Z"
+    },
+    "kelas2  (49).jpeg": {
+      "year": 2024,
+      "size": 1419286,
+      "messageId": 54,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADNmrYNH5-b9JCJuVKOm9uT7-6DRkbAAJBEGsbQAnAVoiK17YxNyQUAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADQRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:50.056Z"
+    },
+    "kelas2  (50).jpeg": {
+      "year": 2024,
+      "size": 1416428,
+      "messageId": 55,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADN2rYNIU-yNf0GfqRwnJ8NP7kGi2OAAJCEGsbQAnAVqHScTXH4-m1AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADQhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:41:57.160Z"
+    },
+    "kelas2  (51).jpeg": {
+      "year": 2024,
+      "size": 1351175,
+      "messageId": 56,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADOGrYNIxvGHUJMs8Eilr09Sp0yxYWAAJDEGsbQAnAVup3kFFFBUFJAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADQxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:03.962Z"
+    },
+    "kelas2  (52).jpeg": {
+      "year": 2024,
+      "size": 956918,
+      "messageId": 57,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADOWrYNJJ7gQbTzD7502Zmst5Kr_1_AAJEEGsbQAnAVthJ5NtLVJw-AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADRBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:09.424Z"
+    },
+    "kelas2  (53).jpeg": {
+      "year": 2024,
+      "size": 878113,
+      "messageId": 58,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADOmrYNJeG3Kb65lF0RSNMSFCvRM5sAAJFEGsbQAnAVmkJxJ-P3AyFAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADRRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:14.598Z"
+    },
+    "kelas2  (54).jpeg": {
+      "year": 2024,
+      "size": 1006634,
+      "messageId": 59,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADO2rYNJzcn2HzVDffbWDPNlJijTk0AAJGEGsbQAnAVm4XaGomI9Q3AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADRhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:20.231Z"
+    },
+    "kelas2  (55).jpeg": {
+      "year": 2024,
+      "size": 776043,
+      "messageId": 60,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADPGrYNKE42ZnhDSjkT-SOrecJ1fLWAAJHEGsbQAnAVtV3RbJhaE64AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADRxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:25.108Z"
+    },
+    "kelas2  (56).jpeg": {
+      "year": 2024,
+      "size": 952512,
+      "messageId": 61,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADPWrYNKeQ3T3BUtXKOCUC5DzETqmRAAJIEGsbQAnAVhkxV6LMc6gJAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADSBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:30.565Z"
+    },
+    "kelas2  (57).jpeg": {
+      "year": 2024,
+      "size": 913186,
+      "messageId": 62,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADPmrYNK5_x0fEwGHlnuS5gSwwxE-0AAJJEGsbQAnAVm47VRZL63IuAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADSRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:37.265Z"
+    },
+    "kelas2  (58).jpeg": {
+      "year": 2024,
+      "size": 883103,
+      "messageId": 63,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADP2rYNLMvajFQ-yfPrWvCEUZ3lc3TAAJKEGsbQAnAVnzuZCjI33KwAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADShBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:42.702Z"
+    },
+    "kelas2  (59).jpeg": {
+      "year": 2024,
+      "size": 992922,
+      "messageId": 64,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADQGrYNLm7w-M5fzydevGJe537q-QCAAJLEGsbQAnAVqs-qgtjOJ2rAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADSxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:48.273Z"
+    },
+    "kelas2  (60).jpeg": {
+      "year": 2024,
+      "size": 1869632,
+      "messageId": 65,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADQWrYNMF-yfh8SpBhs5zuailAQU7JAAJMEGsbQAnAVgaEDYJae3m_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADTBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:42:56.994Z"
+    },
+    "kelas2  (61).jpeg": {
+      "year": 2024,
+      "size": 981854,
+      "messageId": 66,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADQmrYNMo7SJY278pSplMY8bXybNO8AAJNEGsbQAnAVi9oDrYRmezUAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADTRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:05.679Z"
+    },
+    "kelas2  (62).jpeg": {
+      "year": 2024,
+      "size": 1900459,
+      "messageId": 67,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADQ2rYNNNmajgLGiHPT5HvbfzPfe1RAAJOEGsbQAnAVvexQz-YgRfgAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADThBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:14.713Z"
+    },
+    "kelas2  (63).jpeg": {
+      "year": 2024,
+      "size": 1897498,
+      "messageId": 68,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADRGrYNNuVcxdnTEq6zIqHs_W0u5fvAAJPEGsbQAnAVviVQOOzEkp0AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADTxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:23.350Z"
+    },
+    "kelas2  (64).jpeg": {
+      "year": 2024,
+      "size": 1722873,
+      "messageId": 69,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADRWrYNON3iVk-w7kLPLfV45mfcDpTAAJQEGsbQAnAVn_cmxBFV8qkAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADUBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:31.276Z"
+    },
+    "kelas2  (65).jpeg": {
+      "year": 2024,
+      "size": 1915279,
+      "messageId": 70,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADRmrYNO9JU6chF2SkbcDVuz049DM6AAJREGsbQAnAVqh77TfBDuiZAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADURBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:44.471Z"
+    },
+    "kelas2  (66).jpeg": {
+      "year": 2024,
+      "size": 1720056,
+      "messageId": 71,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADR2rYNPm6FfhGHGWQsrpcRxbQGiWQAAJSEGsbQAnAVrbuYWC_SNnPAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADUhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:43:52.798Z"
+    },
+    "kelas2  (67).jpeg": {
+      "year": 2024,
+      "size": 1771066,
+      "messageId": 72,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADSGrYNQFGK3UKUyJgIU62H-YmBnauAAJTEGsbQAnAVlXFwsgxe5o7AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADUxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:01.317Z"
+    },
+    "kelas2  (68).jpeg": {
+      "year": 2024,
+      "size": 877710,
+      "messageId": 73,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADSWrYNQeV4DIdfQLbdbYtGCgoindYAAJUEGsbQAnAVuVGjVJX_AOfAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADVBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:06.762Z"
+    },
+    "kelas2  (69).jpeg": {
+      "year": 2024,
+      "size": 1207628,
+      "messageId": 74,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADSmrYNQ-X3let3pAkxDbu1DqIVCEhAAJVEGsbQAnAVittGrlSIvFrAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADVRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:14.849Z"
+    },
+    "kelas2  (70).jpeg": {
+      "year": 2024,
+      "size": 1424539,
+      "messageId": 75,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADS2rYNRaiAAEPkbtOKn8ws2NCKPBeSQACVhBrG0AJwFbSZHs6je6MvgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADVhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:21.827Z"
+    },
+    "kelas2  (71).jpeg": {
+      "year": 2024,
+      "size": 340693,
+      "messageId": 76,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADTGrYNRk5aV2KHDHUBxtbvxDd6FKeAAJXEGsbQAnAVga9oY_GpCvgAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADVxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:44:25.012Z"
+    },
+    "kelas2  (72).jpeg": {
+      "year": 2024,
+      "size": 1162371,
+      "messageId": 77,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADTWrYNR-u_KztcLjHQihYrvsjEvX-AAJYEGsbQAnAVheaAyGiwFdPAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADWBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:31.382Z"
+    },
+    "kelas2  (73).jpeg": {
+      "year": 2024,
+      "size": 1273235,
+      "messageId": 78,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADTmrYNSe6pvxrby8Bz3bYA0LxBHgyAAJZEGsbQAnAVg6l-nJB3dw_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADWRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:38.883Z"
+    },
+    "kelas2  (74).jpeg": {
+      "year": 2024,
+      "size": 1180567,
+      "messageId": 79,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADT2rYNS1HeGm_9VA9520toikUbxd3AAJaEGsbQAnAVvC4FyQfTa6OAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADWhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:45.056Z"
+    },
+    "kelas2  (75).jpeg": {
+      "year": 2024,
+      "size": 1171490,
+      "messageId": 80,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADUGrYNTRysH2Vez_fgMypXMstSMepAAJbEGsbQAnAViV0lj9JMVbjAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADWxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:44:51.202Z"
+    },
+    "kelas2  (76).jpeg": {
+      "year": 2024,
+      "size": 279536,
+      "messageId": 81,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADUWrYNTf9IbVcksZMWwJ_OuF7vONtAAJcEGsbQAnAVqfXheWmvkpiAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADXBBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:44:54.246Z"
+    },
+    "kelas2  (77).jpeg": {
+      "year": 2024,
+      "size": 283182,
+      "messageId": 82,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADUmrYNTonuGPjw8KdlhUg00HsGsoHAAJdEGsbQAnAVsYyCJ3fdiqgAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADXRBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:44:57.347Z"
+    },
+    "kelas2  (78).jpeg": {
+      "year": 2024,
+      "size": 303337,
+      "messageId": 83,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADU2rYNT0v3-L9sNVkoVkXPt4JCG3rAAJeEGsbQAnAViKMrxk-UevMAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADXhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:45:01.147Z"
+    },
+    "kelas2  (79).jpeg": {
+      "year": 2024,
+      "size": 311291,
+      "messageId": 84,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADVGrYNUGw6HUW0cUcuZAyKvDKx6rwAAJfEGsbQAnAVqnxKA4PdbQCAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADXxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:45:04.169Z"
+    },
+    "kelas2  (80).jpeg": {
+      "year": 2024,
+      "size": 1857912,
+      "messageId": 85,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADVWrYNUlvBQHWIFpglNNfmHRNiSVRAAJgEGsbQAnAVnE5nF4Uu7UMAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADYBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:12.557Z"
+    },
+    "kelas2  (81).jpeg": {
+      "year": 2024,
+      "size": 1148879,
+      "messageId": 86,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADVmrYNU93VBtUlAhw4ttqrNJ9-uXyAAJhEGsbQAnAVomM2M-_ouE9AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADYRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:19.003Z"
+    },
+    "kelas2  (82).jpeg": {
+      "year": 2024,
+      "size": 1177389,
+      "messageId": 87,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADV2rYNVY2rmBCNwNlWEm1_whNRsBUAAJiEGsbQAnAVjvW71TIr-OvAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADYhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:25.320Z"
+    },
+    "kelas2  (83).jpeg": {
+      "year": 2024,
+      "size": 865718,
+      "messageId": 88,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADWGrYNVunT2bskyWVGNzo_Wf2ID6QAAJjEGsbQAnAVp0FCYgyVtgRAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADYxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:30.433Z"
+    },
+    "kelas2  (84).jpeg": {
+      "year": 2024,
+      "size": 950943,
+      "messageId": 89,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADWWrYNWAwokXIPQo9DziICQHzVirmAAJkEGsbQAnAVoupqN5PypxLAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADZBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:35.727Z"
+    },
+    "kelas2  (85).jpeg": {
+      "year": 2024,
+      "size": 808104,
+      "messageId": 90,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADWmrYNWUoKtA6z4qZI5ggGE3by3AcAAJmEGsbQAnAVuRQz72dQZ6GAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADZhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:40.714Z"
+    },
+    "kelas2  (86).jpeg": {
+      "year": 2024,
+      "size": 1092806,
+      "messageId": 91,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADW2rYNWtbQvOOWDJjiKfNVp_t851dAAJnEGsbQAnAVkYt8Mgib0BxAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADZxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:46.751Z"
+    },
+    "kelas2  (87).jpeg": {
+      "year": 2024,
+      "size": 1091320,
+      "messageId": 92,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADXGrYNXEH21Y6OxQrsz_O__9rJVrcAAJoEGsbQAnAVr4oCtzQGt6OAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADaBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:45:52.766Z"
+    },
+    "kelas2  (88).jpeg": {
+      "year": 2024,
+      "size": 276366,
+      "messageId": 93,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADXWrYNXQU6uY98-sNsNKWCdFmxTmIAAJpEGsbQAnAVkzkpGTKRdlkAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADaRBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:45:55.726Z"
+    },
+    "kelas2  (89).jpeg": {
+      "year": 2024,
+      "size": 1811411,
+      "messageId": 94,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADXmrYNXwEeqi2-0ta9YQUFjgzwrYQAAJqEGsbQAnAVsddMJeWb3U6AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADahBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:04.325Z"
+    },
+    "kelas2  (90).jpeg": {
+      "year": 2024,
+      "size": 1887461,
+      "messageId": 95,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADX2rYNYWYR8CXTbcyev3YmUNQ7Yf_AAJrEGsbQAnAVgEfp5E7N1rBAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADaxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:13.160Z"
+    },
+    "kelas2  (91).jpeg": {
+      "year": 2024,
+      "size": 1203013,
+      "messageId": 96,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADYGrYNYyWhkqmeUuh9IktHZjNUqi9AAJsEGsbQAnAVvfciZLYGDyGAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADbBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:19.492Z"
+    },
+    "kelas2  (92).jpeg": {
+      "year": 2024,
+      "size": 2097648,
+      "messageId": 97,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADYWrYNZXb3QLr7y1zyDPDm6_bayx7AAJtEGsbQAnAVuPqDAuLx6m-AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADbRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:28.871Z"
+    },
+    "kelas2  (93).jpeg": {
+      "year": 2024,
+      "size": 524642,
+      "messageId": 98,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADYmrYNZlQpRBc4uQ_Ay8rQC9e6yb2AAJuEGsbQAnAVs9ew8CQdBatAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADbhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:32.916Z"
+    },
+    "kelas2  (94).jpeg": {
+      "year": 2024,
+      "size": 530266,
+      "messageId": 99,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADY2rYNZ3IQCQiafd2tB8TJJn_ukK4AAJvEGsbQAnAVhLBTCjfM6sAAQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADbxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:36.913Z"
+    },
+    "kelas2  (95).jpeg": {
+      "year": 2024,
+      "size": 1831356,
+      "messageId": 100,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADZGrYNaVsJsxYwYCzW9EDfl0_Lj-uAAJwEGsbQAnAVrXr4RzEYi04AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADcBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:45.494Z"
+    },
+    "kelas2  (96).jpeg": {
+      "year": 2024,
+      "size": 926066,
+      "messageId": 101,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADZWrYNatkhL3Nw2X0y5o4J4HfgXaPAAJyEGsbQAnAVoWl-_uXpTawAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADchBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:50.928Z"
+    },
+    "kelas2  (97).jpeg": {
+      "year": 2024,
+      "size": 1515647,
+      "messageId": 102,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADZmrYNbTwRicZKoVrbRqDw9hqS8f9AAJzEGsbQAnAViHqmY5_bnaVAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADcxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:46:59.616Z"
+    },
+    "kelas2  (98).jpeg": {
+      "year": 2024,
+      "size": 1288407,
+      "messageId": 103,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADZ2rYNbx6gTYY_vJl5ttxMlt47VvaAAJ0EGsbQAnAVlN-bu8zRrjSAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADdBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:07.405Z"
+    },
+    "kelas2  (99).jpeg": {
+      "year": 2024,
+      "size": 1521108,
+      "messageId": 104,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADaGrYNcPbFsF62Rcn1cbKbioaj0KKAAJ1EGsbQAnAVmChkZQ8O8_mAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADdRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:14.720Z"
+    },
+    "kelas2  (100).jpeg": {
+      "year": 2024,
+      "size": 1820908,
+      "messageId": 105,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADaWrYNcsyDnRpX7vnU_8uvjGdg0_tAAJ2EGsbQAnAVrp7s9hPTuj_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADdhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:23.192Z"
+    },
+    "kelas2  (101).jpeg": {
+      "year": 2024,
+      "size": 1855062,
+      "messageId": 106,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADamrYNdREURbHReVwE1WLru0Uwv-yAAJ3EGsbQAnAVpIYfc77oxnEAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADdxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:31.666Z"
+    },
+    "kelas2  (102).jpeg": {
+      "year": 2024,
+      "size": 1839372,
+      "messageId": 107,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADa2rYNdz8O4YyqSEpLgx9Mh0AAZZX7QACeBBrG0AJwFZ86ai0VD4aXgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADeBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:40.132Z"
+    },
+    "kelas2  (103).jpeg": {
+      "year": 2024,
+      "size": 1790129,
+      "messageId": 108,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADbGrYNeXMrfXQS0c0sDGJOQUqpGo_AAJ5EGsbQAnAVi_4JZ_S7mm_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADeRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:48.367Z"
+    },
+    "kelas2  (104).jpeg": {
+      "year": 2024,
+      "size": 1784163,
+      "messageId": 109,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADbWrYNe1gyAXKefHnlmUvXNIGjRSdAAJ6EGsbQAnAVqb4paEtdvaHAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADehBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:47:56.656Z"
+    },
+    "kelas2  (105).jpeg": {
+      "year": 2024,
+      "size": 1673883,
+      "messageId": 110,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADbmrYNfWQBuUknf6nHqfECifp5bXnAAJ8EGsbQAnAVsRniReMNqpUAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADfBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:05.294Z"
+    },
+    "kelas2  (106).jpeg": {
+      "year": 2024,
+      "size": 1717548,
+      "messageId": 111,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADb2rYNf075jJQXJVe_tes5A-3Yo5uAAJ9EGsbQAnAVngKUxOftWWLAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADfRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:13.249Z"
+    },
+    "kelas2  (107).jpeg": {
+      "year": 2024,
+      "size": 1282612,
+      "messageId": 112,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADcGrYNgSp_zR8hzcpbOFw5l_moAHSAAJ-EGsbQAnAVkt262SbDWjMAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADfhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:19.937Z"
+    },
+    "kelas2  (108).jpeg": {
+      "year": 2024,
+      "size": 1332162,
+      "messageId": 113,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADcWrYNgvOS6NOh7UQUhJWCSGL2cvuAAJ_EGsbQAnAVtGeFMYWGwhTAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADfxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:26.603Z"
+    },
+    "kelas2  (109).jpeg": {
+      "year": 2024,
+      "size": 1284522,
+      "messageId": 114,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADcmrYNhGYs-ASFbRDIo3d02V7iS_ZAAKAEGsbQAnAVmfNKtTZ5GvcAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADgBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:33.867Z"
+    },
+    "kelas2  (110).jpeg": {
+      "year": 2024,
+      "size": 1312483,
+      "messageId": 115,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADc2rYNhp_fbFPNnY6ItBgYpvU1nlmAAKBEGsbQAnAVgpWwwABawabLwEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADgRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:41.623Z"
+    },
+    "kelas2  (111).jpeg": {
+      "year": 2024,
+      "size": 1186059,
+      "messageId": 116,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADdGrYNiDoPmTk4-jghEBgVs_bNYdBAAKCEGsbQAnAVj3RQ3nLAtSFAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADghBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:48.094Z"
+    },
+    "kelas2  (112).jpeg": {
+      "year": 2024,
+      "size": 1223016,
+      "messageId": 117,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADdWrYNidl_gABxZ_NRJscPJia_Ski_AACgxBrG0AJwFZOHUi_IMdTlAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADgxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:48:54.498Z"
+    },
+    "kelas2  (113).jpeg": {
+      "year": 2024,
+      "size": 1202238,
+      "messageId": 118,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADdmrYNi1RdunjjA35E7RWdG-UncbtAAKEEGsbQAnAVvZgBM9TCl6kAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADhBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:49:00.877Z"
+    },
+    "kelas2  (114).jpeg": {
+      "year": 2024,
+      "size": 1762449,
+      "messageId": 119,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADd2rYNjUUPdGDtq8QFk0QWNdvRiN1AAKFEGsbQAnAVkfTnvQbJe-UAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADhRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:49:09.232Z"
+    },
+    "kelas2  (115).jpeg": {
+      "year": 2024,
+      "size": 1743883,
+      "messageId": 120,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADeGrYNkhmoZ-ZkjKpqFZ2bOH1b33OAAKGEGsbQAnAVqMuiWaxGW-HAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADhhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:49:28.115Z"
+    },
+    "kelas2  (116).jpeg": {
+      "year": 2024,
+      "size": 1744400,
+      "messageId": 121,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADeWrYNlNwLcPV77VGOUCCtBGNloNSAAKHEGsbQAnAVivRnx3AXqwvAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADhxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:49:38.403Z"
+    },
+    "kelas2  (117).jpeg": {
+      "year": 2024,
+      "size": 41975,
+      "messageId": 122,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADemrYNlXPYMUeiGAJ2mQh-QuHUt47AAKIEGsbQAnAVs5o3qYduqzVAQADAgADeAADPQQ",
+      "fileUniqueId": "AQADiBBrG0AJwFZ9",
+      "uploadedAt": "2026-10-21T03:49:40.513Z"
+    },
+    "kelas2  (118).jpeg": {
+      "year": 2024,
+      "size": 53696,
+      "messageId": 123,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADe2rYNlj4kD6w2g9j-8_TeIazVhVtAAKJEGsbQAnAVlzw0iTBs7ZlAQADAgADeAADPQQ",
+      "fileUniqueId": "AQADiRBrG0AJwFZ9",
+      "uploadedAt": "2026-10-21T03:49:43.941Z"
+    },
+    "kelas2  (119).jpeg": {
+      "year": 2024,
+      "size": 2011536,
+      "messageId": 124,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADfGrYNmjmP00aW-6C9HAvHSmEKlbaAAKKEGsbQAnAVn4ta6gm9AudAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADihBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:00.165Z"
+    },
+    "kelas2  (120).jpeg": {
+      "year": 2024,
+      "size": 60908,
+      "messageId": 125,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADfWrYNmvt7s2QMQfoI69RLOKfxnwJAAKLEGsbQAnAVl1rjxpZ0-HPAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADixBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:02.313Z"
+    },
+    "kelas2  (121).jpeg": {
+      "year": 2024,
+      "size": 61794,
+      "messageId": 126,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADfmrYNm2M_PzaAmtwBFX4Dyh9q0KoAAKMEGsbQAnAVjoGJyjwr3kYAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADjBBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:04.928Z"
+    },
+    "kelas2  (122).jpeg": {
+      "year": 2024,
+      "size": 55192,
+      "messageId": 127,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADf2rYNnA9a0vZzSFYQpxyZE9CYNDXAAKNEGsbQAnAVocVck9ICS68AQADAgADeQADPQQ",
+      "fileUniqueId": "AQADjRBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:07.787Z"
+    },
+    "kelas2  (123).jpeg": {
+      "year": 2024,
+      "size": 66882,
+      "messageId": 128,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADgGrYNnPPRhmTOexzIK7T33jkke1MAAKOEGsbQAnAVjFkv0x9_1RtAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADjhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:10.089Z"
+    },
+    "kelas2  (124).jpeg": {
+      "year": 2024,
+      "size": 63778,
+      "messageId": 129,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADgWrYNnWOGWQRQwajLhBuu8cSAtnGAAKPEGsbQAnAVqixJlRsc44OAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADjxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:12.308Z"
+    },
+    "kelas2  (125).jpeg": {
+      "year": 2024,
+      "size": 58396,
+      "messageId": 130,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADgmrYNne1aUuqOGkaQfXNTtHjk5XbAAKQEGsbQAnAVks0BNVGs6nlAQADAgADeAADPQQ",
+      "fileUniqueId": "AQADkBBrG0AJwFZ9",
+      "uploadedAt": "2026-10-21T03:50:14.467Z"
+    },
+    "kelas2  (126).jpeg": {
+      "year": 2024,
+      "size": 67548,
+      "messageId": 131,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADg2rYNnnv4GeWfpyeAaGNczOP1wJyAAKREGsbQAnAVput7TrM4LdeAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADkRBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:50:16.775Z"
+    },
+    "kelas2  (127).jpeg": {
+      "year": 2024,
+      "size": 861115,
+      "messageId": 132,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADhGrYNn7Hm9R3VOFhzC9N3Tvc-SngAAKSEGsbQAnAVgABczLG4ixoKQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADkhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:21.902Z"
+    },
+    "kelas2  (128).jpeg": {
+      "year": 2024,
+      "size": 879202,
+      "messageId": 133,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADhWrYNoP59VtwMXVrwomSmA_wBvjYAAKTEGsbQAnAVpaHtG5U1zaIAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADkxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:27.144Z"
+    },
+    "kelas2  (129).jpeg": {
+      "year": 2024,
+      "size": 871641,
+      "messageId": 134,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADhmrYNomJCJBTRUYSPRprvJLCDF-hAAKUEGsbQAnAVkliFQm2mcqdAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADlBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:32.367Z"
+    },
+    "kelas2  (130).jpeg": {
+      "year": 2024,
+      "size": 880635,
+      "messageId": 135,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADh2rYNo5_sbK5cvyHxiCm6z7h1AmPAAKVEGsbQAnAVoz5B0mQ69TlAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADlRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:37.567Z"
+    },
+    "kelas2  (131).jpeg": {
+      "year": 2024,
+      "size": 860298,
+      "messageId": 136,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADiGrYNpPdMpq7WqZLoohy7rHON8w8AAKWEGsbQAnAVlnMV3gjv6qFAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADlhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:42.633Z"
+    },
+    "kelas2  (132).jpeg": {
+      "year": 2024,
+      "size": 726986,
+      "messageId": 137,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADiWrYNpixINTRPwfTaKjSKLD_YT3CAAKXEGsbQAnAVqNLQKOYzls1AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADlxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:47.340Z"
+    },
+    "kelas2  (133).jpeg": {
+      "year": 2024,
+      "size": 899688,
+      "messageId": 138,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADimrYNp0bGGMQKQfwWz2WBhVa_sY4AAKYEGsbQAnAViiACBEN76qrAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADmBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:50:52.646Z"
+    },
+    "kelas3 (1).jpg": {
+      "year": 2025,
+      "size": 1074394,
+      "messageId": 139,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADi2rYNqncSs9CdjlbFUQWfh4KQaDoAAKZEGsbQAnAVmOKIAumPJYTAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADmRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:05.039Z"
+    },
+    "kelas3 (2).jpg": {
+      "year": 2025,
+      "size": 1215841,
+      "messageId": 140,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADjGrYNrAxRYTSloTJF4rgNxpmqg0fAAKaEGsbQAnAVn130uO8X3p1AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADmhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:16.726Z"
+    },
+    "kelas3 (3).jpg": {
+      "year": 2025,
+      "size": 1204635,
+      "messageId": 141,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADjWrYNsC631u9JrT1GdEDLgz4VG9PAAKbEGsbQAnAVrY4y4sVAAH6qAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADmxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:27.703Z"
+    },
+    "kelas3 (4).jpg": {
+      "year": 2025,
+      "size": 1179363,
+      "messageId": 142,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADjmrYNsYW0BgGNOANV49OxaeHGs0uAAKcEGsbQAnAVnHst7xcyLZwAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADnBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:33.958Z"
+    },
+    "kelas3 (5).jpg": {
+      "year": 2025,
+      "size": 1264425,
+      "messageId": 143,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADj2rYNs0-6z93dSzXqYbbnD2WakORAAKdEGsbQAnAVr8K8TfCbKBDAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADnRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:40.983Z"
+    },
+    "kelas3 (6).jpg": {
+      "year": 2025,
+      "size": 483372,
+      "messageId": 144,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADkGrYNtH44h6Nb698nZQ1ce3_dduSAAKeEGsbQAnAVq5LPBafztScAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADnhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:44.979Z"
+    },
+    "kelas3 (7).jpg": {
+      "year": 2025,
+      "size": 1157912,
+      "messageId": 145,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADkWrYNtfpmuGEdNHYRTjr9ZvJ6gtMAAKfEGsbQAnAVoT4sOSjNKlVAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADnxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:51.506Z"
+    },
+    "kelas3 (8).jpg": {
+      "year": 2025,
+      "size": 858028,
+      "messageId": 146,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADkmrYNt08kt21J1H6U5G5Q1N42Uj4AAKgEGsbQAnAVsIj1f0vYs1BAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADoBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:51:56.722Z"
+    },
+    "kelas3 (9).jpg": {
+      "year": 2025,
+      "size": 1128496,
+      "messageId": 147,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADk2rYNuNKWJZQg-otqxSlsF9hJ9IPAAKhEGsbQAnAVmZnTnF42bhPAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADoRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:02.732Z"
+    },
+    "kelas3 (10).jpg": {
+      "year": 2025,
+      "size": 1200785,
+      "messageId": 148,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADlGrYNul8AiNZpCnMexMl6wEbpM4IAAKiEGsbQAnAVrGpdu0w4CocAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADohBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:08.914Z"
+    },
+    "kelas3 (11).jpg": {
+      "year": 2025,
+      "size": 1149649,
+      "messageId": 149,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADlWrYNu-Ho6w9poP4-3N231fNnUXpAAKjEGsbQAnAVvris7wQj5gdAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADoxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:15.092Z"
+    },
+    "kelas3 (12).jpg": {
+      "year": 2025,
+      "size": 1086952,
+      "messageId": 150,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADlmrYNvW_99KRmMYjklRBhGSVPPiqAAKkEGsbQAnAVpe2TO06tooVAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADpBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:20.930Z"
+    },
+    "kelas3 (13).jpg": {
+      "year": 2025,
+      "size": 1135994,
+      "messageId": 151,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADl2rYNvsoDV2OIzhb_7TPShO09saDAAKlEGsbQAnAVjW1Kjh8rTUvAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADpRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:27.097Z"
+    },
+    "kelas3 (14).jpg": {
+      "year": 2025,
+      "size": 1204809,
+      "messageId": 152,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADmGrYNwLaaJHbyl9fPrjCe4lxSjTGAAKmEGsbQAnAVovS1G5Vwb55AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADphBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:33.430Z"
+    },
+    "kelas3 (15).jpg": {
+      "year": 2025,
+      "size": 1211252,
+      "messageId": 153,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADmWrYNwiCxsW0xwN4T-wNJwI4NJA6AAKnEGsbQAnAVodu-FjuhulsAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADpxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:39.806Z"
+    },
+    "kelas3 (16).jpg": {
+      "year": 2025,
+      "size": 1189946,
+      "messageId": 154,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADmmrYNw4y0YbGZ1nc3prI8l3ORwABuAACqBBrG0AJwFb1-FmFMN7aFgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADqBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:45.986Z"
+    },
+    "kelas3 (17).jpg": {
+      "year": 2025,
+      "size": 662743,
+      "messageId": 155,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADm2rYNxOf2dfu_q3_IWNXVqssTLdrAAKpEGsbQAnAVqEP8t8OP8KLAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADqRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:50.345Z"
+    },
+    "kelas3 (18).jpg": {
+      "year": 2025,
+      "size": 522626,
+      "messageId": 156,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADnGrYNxfqabuDdhVA1VLgKFQ1AAEZxgACqhBrG0AJwFZoyQN6iYAiDAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADqhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:52:54.284Z"
+    },
+    "kelas3 (19).jpg": {
+      "year": 2025,
+      "size": 131325,
+      "messageId": 157,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADnWrYNxmfTZKPNAYOA8XjderqG4RpAAKrEGsbQAnAVpji_voSXNp4AQADAgADeQADPQQ",
+      "fileUniqueId": "AQADqxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:52:56.726Z"
+    },
+    "kelas3 (20).jpg": {
+      "year": 2025,
+      "size": 2718785,
+      "messageId": 158,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADnmrYNyRO16ae6gxN4p2lmeB82jBnAAKsEGsbQAnAVv9E5z4q5WuOAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADrBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:08.260Z"
+    },
+    "kelas3 (21).jpg": {
+      "year": 2025,
+      "size": 2624532,
+      "messageId": 159,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADn2rYNzAAAXzBchIGD7xy0Y7we6ZcPAACrRBrG0AJwFZELgEQiwr10QEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADrRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:19.605Z"
+    },
+    "kelas3 (22).jpg": {
+      "year": 2025,
+      "size": 2717885,
+      "messageId": 160,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADoGrYNzuMqkW0Q8CZdIDkpFqjJizKAAKuEGsbQAnAVvTdMPtQtEKgAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADrhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:31.049Z"
+    },
+    "kelas3 (23).jpg": {
+      "year": 2025,
+      "size": 1900899,
+      "messageId": 161,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADoWrYN0SpMwI7WCWI1Jw07EYZQECjAAKvEGsbQAnAVgFA3lQEzCIgAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADrxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:39.760Z"
+    },
+    "kelas3 (24).jpg": {
+      "year": 2025,
+      "size": 2163939,
+      "messageId": 162,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADomrYN01s2adihWTGSZW36HStmw8cAAKwEGsbQAnAVnL6SJOZRmDrAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADsBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:49.306Z"
+    },
+    "kelas3 (25).jpg": {
+      "year": 2025,
+      "size": 1804858,
+      "messageId": 163,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADo2rYN1Zb5XEZWytR0YY0h-7e9_bNAAKxEGsbQAnAVtJ03yDdWYL2AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADsRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:53:58.158Z"
+    },
+    "kelas3 (26).jpg": {
+      "year": 2025,
+      "size": 1812015,
+      "messageId": 164,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADpGrYN188NJIsqNHQa7am9CNiRajkAAKyEGsbQAnAVjh1RAy1InfpAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADshBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:06.816Z"
+    },
+    "kelas3 (27).jpg": {
+      "year": 2025,
+      "size": 172707,
+      "messageId": 165,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADpWrYN2IJvyc9qS9fTQABKca1N49zNQACsxBrG0AJwFZ1C-e25zc7rgEAAwIAA3kAAz0E",
+      "fileUniqueId": "AQADsxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:54:09.407Z"
+    },
+    "kelas3 (28).jpg": {
+      "year": 2025,
+      "size": 1436094,
+      "messageId": 166,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADpmrYN2mlK17aNNpAQdUs8uMYWoz-AAK0EGsbQAnAVihh0OCPdBr2AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADtBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:16.534Z"
+    },
+    "kelas3 (29).jpg": {
+      "year": 2025,
+      "size": 1346181,
+      "messageId": 167,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADp2rYN2-fuYW6JYqzD_ksCPR3GRNCAAK1EGsbQAnAVo6gYehb88mCAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADtRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:23.288Z"
+    },
+    "kelas3 (30).jpg": {
+      "year": 2025,
+      "size": 1604993,
+      "messageId": 168,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADqGrYN3cjnjaIsPWO40A6tI5l6e2DAAK2EGsbQAnAVmJFBUbw6FAqAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADthBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:31.030Z"
+    },
+    "kelas3 (31).jpg": {
+      "year": 2025,
+      "size": 1161323,
+      "messageId": 169,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADqWrYN31JGpznE_bvEdMm4m6gN3EYAAK3EGsbQAnAVlWM43_2URRLAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADtxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:37.189Z"
+    },
+    "kelas3 (32).jpg": {
+      "year": 2025,
+      "size": 1495213,
+      "messageId": 170,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADqmrYN4XJWxa6KIoI_rrHNTpCPDFvAAK4EGsbQAnAVqmi25HJTbImAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADuBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:44.647Z"
+    },
+    "kelas3 (33).jpg": {
+      "year": 2025,
+      "size": 1374467,
+      "messageId": 171,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADq2rYN4w_NIXgTMHpAZ-uTmT-toVCAAK5EGsbQAnAVudY1UngQPsKAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADuRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:51.651Z"
+    },
+    "kelas3 (34).jpg": {
+      "year": 2025,
+      "size": 1592402,
+      "messageId": 172,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADrGrYN5SMYVwi9w0ja580f4UOAAGciwACuhBrG0AJwFae7nqaQ-VxxQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADuhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:54:59.280Z"
+    },
+    "kelas3 (35).jpg": {
+      "year": 2025,
+      "size": 1418315,
+      "messageId": 173,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADrWrYN5trYBgaeSgmu4epk7QTuWktAAK7EGsbQAnAVuySKuR12NDQAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADuxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:06.399Z"
+    },
+    "kelas3 (36).jpg": {
+      "year": 2025,
+      "size": 1508971,
+      "messageId": 174,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADrmrYN6Iwv_YGPlbNI7ouu8z42iJIAAK8EGsbQAnAVmMmudbusyVNAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADvBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:13.727Z"
+    },
+    "kelas3 (37).jpg": {
+      "year": 2025,
+      "size": 1467582,
+      "messageId": 175,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADr2rYN6mqLW13LFE1e6Om2PPybo2nAAK9EGsbQAnAVv648ihfCJy6AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADvRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:20.817Z"
+    },
+    "kelas3 (38).jpg": {
+      "year": 2025,
+      "size": 1117306,
+      "messageId": 176,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADsGrYN68AAQEFBGC9P6NTD2trpkTGhQACvhBrG0AJwFZK3bRuUs6D3gEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADvhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:26.815Z"
+    },
+    "kelas3 (39).jpg": {
+      "year": 2025,
+      "size": 1046505,
+      "messageId": 177,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADsWrYN7WT3iQEaN1yzcGNmsH5LfC-AAK_EGsbQAnAVpl9p_d-MvrXAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADvxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:32.819Z"
+    },
+    "kelas3 (40).jpg": {
+      "year": 2025,
+      "size": 1104110,
+      "messageId": 178,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADsmrYN7vyFQw3Ux3NSKalWYHXyUp0AALAEGsbQAnAVlcHVxHTPvufAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADwBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:39.727Z"
+    },
+    "kelas3 (41).jpg": {
+      "year": 2025,
+      "size": 1138479,
+      "messageId": 179,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADs2rYN8WLDuS0Sb41D08pP6gR-VgSAALBEGsbQAnAVnP2_XuD_QcoAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADwRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:48.429Z"
+    },
+    "kelas3 (42).jpg": {
+      "year": 2025,
+      "size": 1228932,
+      "messageId": 180,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADtGrYN8uCMDISI555ViXvP5FbitiwAALCEGsbQAnAVo2Js_VX7sAEAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADwhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:54.699Z"
+    },
+    "kelas3 (43).jpg": {
+      "year": 2025,
+      "size": 799136,
+      "messageId": 181,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADtWrYN9AgOKpWeI5zzBmisvUNTg8UAALDEGsbQAnAVrAj3bJbWmH6AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADwxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:55:59.641Z"
+    },
+    "kelas3 (44).jpg": {
+      "year": 2025,
+      "size": 1014788,
+      "messageId": 182,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADtmrYN9U4JyoAAUfk1cbARsHQAAHgYDMAAsQQaxtACcBW685ehLeXMSQBAAMCAAN3AAM9BA",
+      "fileUniqueId": "AQADxBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:56:05.740Z"
+    },
+    "kelas3 (45).jpg": {
+      "year": 2025,
+      "size": 1179792,
+      "messageId": 183,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADt2rYN9wGl_hRDhFt28xLJnNsD5fKAALFEGsbQAnAVvuMxNlEGpv7AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADxRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:56:12.649Z"
+    },
+    "kelas3 (46).jpg": {
+      "year": 2025,
+      "size": 137401,
+      "messageId": 184,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADuGrYN-CADBFkiGEPkzz3xGQjhbA1AALGEGsbQAnAVue0JQJYL2a4AQADAgADeQADPQQ",
+      "fileUniqueId": "AQADxhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:56:17.018Z"
+    },
+    "kelas3 (47).jpg": {
+      "year": 2025,
+      "size": 119493,
+      "messageId": 185,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADuWrYN-Yv-S_9zph0Mml4nNkLjLS5AALHEGsbQAnAVj-INqUlVD6WAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADxxBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:56:24.095Z"
+    },
+    "kelas3 (48).jpg": {
+      "year": 2025,
+      "size": 1197190,
+      "messageId": 186,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADumrYN_ZjF2YNSka1NDPcZsa29piPAALIEGsbQAnAVvf39Nu3bDhoAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADyBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:56:42.572Z"
+    },
+    "kelas3 (49).jpg": {
+      "year": 2025,
+      "size": 1164478,
+      "messageId": 187,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADu2rYOAPdiiTwIFZxq1Z7QNjkKC3gAALJEGsbQAnAVtb5LH4qgD1xAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADyRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:56:52.265Z"
+    },
+    "kelas3 (50).jpg": {
+      "year": 2025,
+      "size": 1064638,
+      "messageId": 188,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADvGrYOAywMit5_c-WXfWDSPHRqpCQAALKEGsbQAnAVpHrSIBZjZTyAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADyhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:01.163Z"
+    },
+    "kelas3 (51).jpg": {
+      "year": 2025,
+      "size": 1036931,
+      "messageId": 189,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADvWrYOBNE09aJmVW_RrhIKGmixdweAALLEGsbQAnAVsYId_bQGIfsAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADyxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:07.321Z"
+    },
+    "kelas3 (52).jpg": {
+      "year": 2025,
+      "size": 1051025,
+      "messageId": 190,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADvmrYOBmkEKwRl-unAtJHdDJNdFTZAALMEGsbQAnAVph9-clBzkB0AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADzBBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:13.340Z"
+    },
+    "kelas3 (53).jpg": {
+      "year": 2025,
+      "size": 1034202,
+      "messageId": 191,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADv2rYOB-iK59lb6cXmrV5Q4uWmYkvAALNEGsbQAnAVlDUMn7N4zesAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADzRBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:19.011Z"
+    },
+    "kelas3 (54).jpg": {
+      "year": 2025,
+      "size": 2268261,
+      "messageId": 192,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADwGrYOClwJ7YsAj8Fs_GB_63l4f95AALOEGsbQAnAVu-XZKXv84ZrAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADzhBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:28.845Z"
+    },
+    "kelas3 (55).jpg": {
+      "year": 2025,
+      "size": 1222015,
+      "messageId": 193,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADwWrYODDLAT54DhqVwt78gXRTOxxOAALPEGsbQAnAVp_BHjA1kTL_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADzxBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:35.433Z"
+    },
+    "kelas3 (56).jpg": {
+      "year": 2025,
+      "size": 1276865,
+      "messageId": 194,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADwmrYODbNl7c7Nic0rDkQljjYz2pCAALQEGsbQAnAVuduJ9JkN55IAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD0BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:42.056Z"
+    },
+    "kelas3 (57).jpg": {
+      "year": 2025,
+      "size": 1839128,
+      "messageId": 195,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADw2rYOEAioKKuOO_rgKsFxyXWuP1dAALREGsbQAnAVthQQk1QHe79AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD0RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:52.096Z"
+    },
+    "kelas3 (58).jpg": {
+      "year": 2025,
+      "size": 1189032,
+      "messageId": 196,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADxGrYOEjHQOC0JLeSLy09Sk6BpKHVAALSEGsbQAnAVtMKqebUOC4VAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD0hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:57:59.697Z"
+    },
+    "kelas3 (59).jpg": {
+      "year": 2025,
+      "size": 1117435,
+      "messageId": 197,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADxWrYOE5vn_bec4NK7uuld8xy7P_rAALTEGsbQAnAVvGb86rsVUGmAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD0xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:05.672Z"
+    },
+    "kelas3 (60).jpg": {
+      "year": 2025,
+      "size": 1284238,
+      "messageId": 198,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADxmrYOFQu0Wmntd6VtQ39tGEHzy0HAALUEGsbQAnAVvyvQpZNWwMKAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD1BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:12.194Z"
+    },
+    "kelas3 (61).jpg": {
+      "year": 2025,
+      "size": 1177577,
+      "messageId": 199,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADx2rYOFulHoBneaQIXPcoqXe03cHnAALVEGsbQAnAVgWhdv9_R40rAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD1RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:18.386Z"
+    },
+    "kelas3 (62).jpg": {
+      "year": 2025,
+      "size": 95275,
+      "messageId": 200,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADyGrYOF2AC4bQ8OqGM3nlIJG6v0UUAALWEGsbQAnAVtBJgtVTrd47AQADAgADeQADPQQ",
+      "fileUniqueId": "AQAD1hBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:58:20.717Z"
+    },
+    "kelas3 (63).jpg": {
+      "year": 2025,
+      "size": 1308880,
+      "messageId": 201,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADyWrYOGRgA7BB99TypXeOUH2yZ4DiAALXEGsbQAnAVg6CpD59QBRPAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD1xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:27.455Z"
+    },
+    "kelas3 (64).jpg": {
+      "year": 2025,
+      "size": 1219156,
+      "messageId": 202,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADymrYOGuPJFmhRdWNWlk8oOIwuiYwAALYEGsbQAnAVj3R_G7P_V1_AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD2BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:34.527Z"
+    },
+    "kelas3 (65).jpg": {
+      "year": 2025,
+      "size": 1032190,
+      "messageId": 203,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADy2rYOHCmIr6nJQ2lYXlzofaGWG3pAALZEGsbQAnAVqkDz5OrS4v3AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD2RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:40.240Z"
+    },
+    "kelas3 (66).jpg": {
+      "year": 2025,
+      "size": 1073256,
+      "messageId": 204,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADzGrYOHZ016uZDHMdwGt6b5_FeiTWAALaEGsbQAnAVp5jYC3srCh1AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD2hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:45.996Z"
+    },
+    "kelas3 (67).jpg": {
+      "year": 2025,
+      "size": 851082,
+      "messageId": 205,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADzWrYOHtHjkJq4I1diI12oIoFefI5AALbEGsbQAnAVpOamUsS6SS6AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD2xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:50.978Z"
+    },
+    "kelas3 (68).jpg": {
+      "year": 2025,
+      "size": 223614,
+      "messageId": 206,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADzmrYOH6ciPJlmCeYHNhEzMKmF7jeAALcEGsbQAnAVgOMNFjIdQHsAQADAgADeQADPQQ",
+      "fileUniqueId": "AQAD3BBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:58:53.691Z"
+    },
+    "kelas3 (69).jpg": {
+      "year": 2025,
+      "size": 553844,
+      "messageId": 207,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADz2rYOIJoNH43cyMnaSCs1sxcEPZkAALdEGsbQAnAVqH8GAy9alHOAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD3RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:58:57.803Z"
+    },
+    "kelas3 (70).jpg": {
+      "year": 2025,
+      "size": 1175594,
+      "messageId": 208,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD0GrYOIjPe26gqWgG1-njq4S7Fk5yAALeEGsbQAnAVhl0sf_wYpdYAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD3hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:03.994Z"
+    },
+    "kelas3 (71).jpg": {
+      "year": 2025,
+      "size": 952706,
+      "messageId": 209,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD0WrYOI67F3CI2c1jaQPLVPnwNhK8AALfEGsbQAnAVppl66IX7f8eAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD3xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:09.407Z"
+    },
+    "kelas3 (72).jpg": {
+      "year": 2025,
+      "size": 1089021,
+      "messageId": 210,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD0mrYOJMTa8N5PKME4FcC9fyx1y88AALgEGsbQAnAVldxObjAmCc3AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD4BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:15.189Z"
+    },
+    "kelas3 (73).jpg": {
+      "year": 2025,
+      "size": 1196395,
+      "messageId": 211,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD02rYOJrMrQ1i9b0vA-rsYg0EAhCIAALhEGsbQAnAVqXNMQHJa15dAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD4RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:21.484Z"
+    },
+    "kelas3 (74).jpg": {
+      "year": 2025,
+      "size": 1102246,
+      "messageId": 212,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD1GrYOKHe3IjCJ4iUPz7YHfBkmUG6AALiEGsbQAnAVlNcoNrfuiUjAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD4hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:28.915Z"
+    },
+    "kelas3 (75).jpg": {
+      "year": 2025,
+      "size": 1081651,
+      "messageId": 213,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD1WrYOKczkQllBKUoLSJ3-t-J7wflAALjEGsbQAnAVhmC7FpCjoTMAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD4xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:34.854Z"
+    },
+    "kelas3 (76).jpg": {
+      "year": 2025,
+      "size": 1069334,
+      "messageId": 214,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD1mrYOK0HVaEzyUnOAs-srq36YF8dAALkEGsbQAnAVtoE7dg23dXWAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD5BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:40.597Z"
+    },
+    "kelas3 (77).jpg": {
+      "year": 2025,
+      "size": 1602644,
+      "messageId": 215,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD12rYOLReq0hEhaKKYED2u5Ppcm75AALlEGsbQAnAVnh7qY6kCMJiAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD5RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:48.196Z"
+    },
+    "kelas3 (78).jpg": {
+      "year": 2025,
+      "size": 285382,
+      "messageId": 216,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQADL2rYND5Cw5gPeOylMCXQyFqM0lCHAAI6EGsbQAnAVkToenlPp_WdAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADOhBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T03:59:50.939Z"
+    },
+    "kelas3 (79).jpg": {
+      "year": 2025,
+      "size": 1465164,
+      "messageId": 217,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD2WrYOL7e67BNyddI56Ray0SPebDDAALmEGsbQAnAVlwqbQ_mRfdOAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD5hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T03:59:58.072Z"
+    },
+    "kelas3 (80).jpg": {
+      "year": 2025,
+      "size": 1507555,
+      "messageId": 218,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD2mrYOManp55vtlWgo6RzRXKuxrulAALnEGsbQAnAVnM9tCEi0wW1AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD5xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:05.817Z"
+    },
+    "kelas3 (81).jpg": {
+      "year": 2025,
+      "size": 1555635,
+      "messageId": 219,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD22rYOM2KN5B2lgABQ2vbFKfqUO8_GQAC6BBrG0AJwFZCGThnOtohkwEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQAD6BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:13.438Z"
+    },
+    "kelas3 (82).jpg": {
+      "year": 2025,
+      "size": 1050290,
+      "messageId": 220,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD3GrYONSZ79S47vIGvA9jgFc3gOOpAALpEGsbQAnAVhkp0qCnqzBhAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD6RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:19.312Z"
+    },
+    "kelas3 (83).jpg": {
+      "year": 2025,
+      "size": 1731598,
+      "messageId": 221,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD3WrYONxPrM8SJg20uVx0W9uQwAt_AALqEGsbQAnAVnSroLmTqojTAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD6hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:27.320Z"
+    },
+    "kelas3 (84).jpg": {
+      "year": 2025,
+      "size": 1712200,
+      "messageId": 222,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD3mrYOOM57bm5UiwkRpnG_b_t6F6ZAALrEGsbQAnAVuz2AAGQAXaKCgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQAD6xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:35.233Z"
+    },
+    "kelas3 (85).jpg": {
+      "year": 2025,
+      "size": 901345,
+      "messageId": 223,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD32rYOOmOAAE_XRvSQoLK3PFZNWoQowAC7RBrG0AJwFYSfUH7O--xnQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQAD7RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:40.436Z"
+    },
+    "kelas3 (86).jpg": {
+      "year": 2025,
+      "size": 978888,
+      "messageId": 224,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD4GrYOO41eKv_NCz2DH0rvFH0rYNJAALuEGsbQAnAVrRYVa7wjgVJAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD7hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:45.943Z"
+    },
+    "kelas3 (87).jpg": {
+      "year": 2025,
+      "size": 898006,
+      "messageId": 225,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD4WrYOPMpmV4N94dLtr8wE5oocdxjAALvEGsbQAnAVmuow-ipAuzwAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD7xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:51.277Z"
+    },
+    "kelas3 (88).jpg": {
+      "year": 2025,
+      "size": 1593984,
+      "messageId": 226,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD4mrYOPuoyQ0NRt3kbXpktT31ELTFAALwEGsbQAnAVntB4aAxqGo8AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD8BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:00:58.902Z"
+    },
+    "kelas3 (89).jpg": {
+      "year": 2025,
+      "size": 1568604,
+      "messageId": 227,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD42rYOQPuOoAHHltkM4j1bgYYSMxgAALxEGsbQAnAVhFWrK-ArrSvAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD8RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:06.396Z"
+    },
+    "kelas3 (90).jpg": {
+      "year": 2025,
+      "size": 1486540,
+      "messageId": 228,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD5GrYOQqlIJZzuxrwaLpiS9xaXwSNAALyEGsbQAnAVqrs0TD9zJTbAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD8hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:13.623Z"
+    },
+    "kelas3 (91).jpg": {
+      "year": 2025,
+      "size": 1145022,
+      "messageId": 229,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD5WrYORCw3oaadwkebM6RkqA5LIzLAALzEGsbQAnAVhYaOXHd-y8KAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD8xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:19.675Z"
+    },
+    "kelas3 (92).jpg": {
+      "year": 2025,
+      "size": 1429136,
+      "messageId": 230,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD5mrYORcG_CG67SEFVc6HScKJ66j0AAL0EGsbQAnAVhTaVt8FxnwVAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD9BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:26.739Z"
+    },
+    "kelas3 (93).jpg": {
+      "year": 2025,
+      "size": 1485786,
+      "messageId": 231,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD52rYOR47px87k7DLm190qojMS6RVAAL1EGsbQAnAVmQj4iEGKMwhAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD9RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:34.324Z"
+    },
+    "kelas3 (94).jpg": {
+      "year": 2025,
+      "size": 1304593,
+      "messageId": 232,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD6GrYOSWY2_7y1V-BTNYUkVFDeD5TAAL2EGsbQAnAVq6Zeyz1-6dHAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD9hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:41.108Z"
+    },
+    "kelas3 (95).jpg": {
+      "year": 2025,
+      "size": 1497037,
+      "messageId": 233,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD6WrYOTEqOqaAeuOWMCJJ_1WiFU1hAAL3EGsbQAnAVgp6spREgzzRAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD9xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:52.402Z"
+    },
+    "kelas3 (96).jpg": {
+      "year": 2025,
+      "size": 1306787,
+      "messageId": 234,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD6mrYOTdrj2wBaJYypxGJLRlssco-AAL4EGsbQAnAVqZIbE3MmQ8mAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD-BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:01:59.185Z"
+    },
+    "kelas3 (97).jpg": {
+      "year": 2025,
+      "size": 1173902,
+      "messageId": 235,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD62rYOT4Njapm7Ozu5mSfo0144iLFAAL5EGsbQAnAVmPbZLLID6-NAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD-RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:05.399Z"
+    },
+    "kelas3 (98).jpg": {
+      "year": 2025,
+      "size": 632634,
+      "messageId": 236,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD7GrYOUJx--DsOESbY7XmflMW9tMwAAL6EGsbQAnAVvxUJcbaaNKnAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD-hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:09.830Z"
+    },
+    "kelas3 (99).jpg": {
+      "year": 2025,
+      "size": 165400,
+      "messageId": 237,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD7WrYOUXhuLLYRfwLJOrlGGFnvE_sAAL7EGsbQAnAVkzDVn9HSJlJAQADAgADeQADPQQ",
+      "fileUniqueId": "AQAD-xBrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T04:02:12.435Z"
+    },
+    "kelas3 (100).jpg": {
+      "year": 2025,
+      "size": 1217727,
+      "messageId": 238,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD7mrYOUv22cuHNZCxYSihieYr-0kTAAL8EGsbQAnAVqnP7Og4LIpiAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD_BBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:18.891Z"
+    },
+    "kelas3 (101).jpg": {
+      "year": 2025,
+      "size": 1225751,
+      "messageId": 239,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD72rYOVG0dB8sJHvhpmtf8Bd2gSPjAAL9EGsbQAnAVjCRVKX7UgP7AQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD_RBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:25.585Z"
+    },
+    "kelas3 (102).jpg": {
+      "year": 2025,
+      "size": 1236495,
+      "messageId": 240,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD8GrYOVgfs2hSuCWdA-fT8QqTGuonAAL-EGsbQAnAVhM9rIDoI7FaAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD_hBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:32.101Z"
+    },
+    "kelas3 (103).jpg": {
+      "year": 2025,
+      "size": 1279438,
+      "messageId": 241,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD8WrYOV-Xpydp6MMUtmJe3kxzXtV8AAL_EGsbQAnAVp5mUuxGe2_sAQADAgADdwADPQQ",
+      "fileUniqueId": "AQAD_xBrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:38.638Z"
+    },
+    "kelas3 (104).jpg": {
+      "year": 2025,
+      "size": 1168128,
+      "messageId": 242,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD8mrYOWX17yBH8oq3JurSeGhxSkE_AAMRaxtACcBW5fF3Ad4uuikBAAMCAAN3AAM9BA",
+      "fileUniqueId": "AQAEEWsbQAnAVnw",
+      "uploadedAt": "2026-10-21T04:02:45.339Z"
+    },
+    "kelas3 (105).jpg": {
+      "year": 2025,
+      "size": 1242119,
+      "messageId": 243,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD82rYOWytirJvMdBFSl28xouoROijAAIBEWsbQAnAVum7PtkhuNpvAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADARFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:52.205Z"
+    },
+    "kelas3 (106).jpg": {
+      "year": 2025,
+      "size": 1219443,
+      "messageId": 244,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD9GrYOXNUilVTIKwj60qa7WFo4EYZAAIDEWsbQAnAVv-JNrBYdSnyAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADAxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:02:58.519Z"
+    },
+    "kelas3 (107).jpg": {
+      "year": 2025,
+      "size": 1159135,
+      "messageId": 245,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD9WrYOXmUbCaSrIcnlPJqXTjyXsXjAAIEEWsbQAnAVliDPeMWNnG7AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADBBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:04.793Z"
+    },
+    "kelas3 (108).jpg": {
+      "year": 2025,
+      "size": 138649,
+      "messageId": 246,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD9mrYOXzW9lTISIZk-vy1Uk80gkUJAAIFEWsbQAnAViz1NxSIVXotAQADAgADeQADPQQ",
+      "fileUniqueId": "AQADBRFrG0AJwFZ-",
+      "uploadedAt": "2026-10-21T04:03:07.323Z"
+    },
+    "kelas3 (109).jpg": {
+      "year": 2025,
+      "size": 1101876,
+      "messageId": 247,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD92rYOYKFqJbhothuhT2BXKPYDbGiAAIGEWsbQAnAVpiSMPjzxXD3AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADBhFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:13.611Z"
+    },
+    "kelas3 (110).jpg": {
+      "year": 2025,
+      "size": 1171040,
+      "messageId": 248,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD-GrYOYqeFFlJtc1f8E80RzmExgEwAAIHEWsbQAnAVm6MXiWZh2ZSAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADBxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:21.802Z"
+    },
+    "kelas3 (111).jpg": {
+      "year": 2025,
+      "size": 1383765,
+      "messageId": 249,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD-WrYOZEdOx_0bIB7mbnqyTofpGXRAAIIEWsbQAnAVtPue-qYYd3hAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADCBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:28.994Z"
+    },
+    "kelas3 (112).jpg": {
+      "year": 2025,
+      "size": 1269781,
+      "messageId": 250,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD-mrYOZheI20QoxsKJP6KvYEIp2xZAAIJEWsbQAnAVtVGcZWEULIEAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADCRFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:35.649Z"
+    },
+    "kelas3 (113).jpg": {
+      "year": 2025,
+      "size": 1225224,
+      "messageId": 251,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD-2rYOZ74swombWYGjVA3hJEAAdouwQACChFrG0AJwFY6CtXBaE8BdgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADChFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:42.171Z"
+    },
+    "kelas3 (114).jpg": {
+      "year": 2025,
+      "size": 1313641,
+      "messageId": 252,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD_GrYOaVq2ifWypmH_mygjRK1HW59AAILEWsbQAnAVmE1nDrJTpE5AQADAgADdwADPQQ",
+      "fileUniqueId": "AQADCxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:49.117Z"
+    },
+    "kelas3 (115).jpg": {
+      "year": 2025,
+      "size": 1236595,
+      "messageId": 253,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD_WrYOaxtlVYinTk1BVNQP1OGgQ0hAAIMEWsbQAnAVqP39dg1VbAYAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADDBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:03:55.799Z"
+    },
+    "kelas3 (116).jpg": {
+      "year": 2025,
+      "size": 1286870,
+      "messageId": 254,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD_mrYObM1QJkiDnikpbEIIHl4lxFFAAINEWsbQAnAVk3s98rXNiKJAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADDRFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:02.563Z"
+    },
+    "kelas3 (117).jpg": {
+      "year": 2025,
+      "size": 1242617,
+      "messageId": 255,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQAD_2rYObkZ9Mn0eCoCe_Ln8bgFKW3-AAIOEWsbQAnAVoUndWVgBkLpAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADDhFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:09.022Z"
+    },
+    "kelas3 (118).jpg": {
+      "year": 2025,
+      "size": 1232891,
+      "messageId": 256,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQABatg5wKLp4LcWYKCAtggtBFYwtU0AAg8RaxtACcBWrBo9neX8YOkBAAMCAAN3AAM9BA",
+      "fileUniqueId": "AQADDxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:15.600Z"
+    },
+    "kelas3 (119).jpg": {
+      "year": 2025,
+      "size": 1204832,
+      "messageId": 257,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQFq2DnGz7kkX5UkfBee402EvHkNKwACEBFrG0AJwFbiu8VtX0KEAAEBAAMCAAN3AAM9BA",
+      "fileUniqueId": "AQADEBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:21.863Z"
+    },
+    "kelas3 (120).jpg": {
+      "year": 2025,
+      "size": 1675609,
+      "messageId": 258,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQJq2DnQ_qONPe6tYetRQPfuEu2dqwACERFrG0AJwFa-ytSq-XIqEAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADERFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:31.784Z"
+    },
+    "kelas3 (121).jpg": {
+      "year": 2025,
+      "size": 1701079,
+      "messageId": 259,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQNq2DnY2ocPhqAK6IuL9YmBwr0nZAACEhFrG0AJwFa0FEa1C125HQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADEhFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:40.053Z"
+    },
+    "kelas3 (122).jpg": {
+      "year": 2025,
+      "size": 1647613,
+      "messageId": 260,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQRq2Dnguaco2s4BFb2b-hCFHK_8AAMTEWsbQAnAVjtRZ4CzKZptAQADAgADdwADPQQ",
+      "fileUniqueId": "AQADExFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:48.099Z"
+    },
+    "kelas3 (123).jpg": {
+      "year": 2025,
+      "size": 1663991,
+      "messageId": 261,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQVq2DnoXrEnfsL15G2qsMwxw57b3wACFBFrG0AJwFbHtFNgFxwhCgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:04:55.996Z"
+    },
+    "kelas3 (124).jpg": {
+      "year": 2025,
+      "size": 1534751,
+      "messageId": 262,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQZq2Dnwso5J3BS_UretBP13MPAKSAACFRFrG0AJwFYSFtN7MW9Y0AEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFRFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:03.467Z"
+    },
+    "kelas3 (125).jpg": {
+      "year": 2025,
+      "size": 1493884,
+      "messageId": 263,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQdq2Dn3Lt9jp0X27BXyyw2YCfz5IgACFhFrG0AJwFa18NKD_rsdYAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFhFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:10.714Z"
+    },
+    "kelas3 (126).jpg": {
+      "year": 2025,
+      "size": 1485225,
+      "messageId": 264,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQhq2Dn-0Lph97FiGws4Q7mIrGf3qgACFxFrG0AJwFYWGvjmIPVdvgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADFxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:17.890Z"
+    },
+    "kelas3 (127).jpg": {
+      "year": 2025,
+      "size": 1432240,
+      "messageId": 265,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQlq2DoFiFr29Hd-pA4mGcqGLspNxgACGBFrG0AJwFYg_r3KpnswvQEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADGBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:24.825Z"
+    },
+    "kelas3 (128).jpg": {
+      "year": 2025,
+      "size": 1592812,
+      "messageId": 266,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQpq2DoNnUph5MAVwNp8eMh6GZUETAACGRFrG0AJwFbg4RKAB2SZkgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADGRFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:32.489Z"
+    },
+    "kelas3 (129).jpg": {
+      "year": 2025,
+      "size": 1591312,
+      "messageId": 267,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQtq2DoUYIVzxumKSua7df0vR2Ne9QACGhFrG0AJwFYdqGtL2r-JwgEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADGhFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:40.351Z"
+    },
+    "kelas3 (130).jpg": {
+      "year": 2025,
+      "size": 1614376,
+      "messageId": 268,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQxq2Doc5419N4t5fnyR42DIsrnPYgACGxFrG0AJwFaOEF2RrQ93cAEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADGxFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:48.070Z"
+    },
+    "kelas3 (131).jpg": {
+      "year": 2025,
+      "size": 1501676,
+      "messageId": 269,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQ1q2DokKJulpl7-Tuwq27fNDgtXigACHBFrG0AJwFZKdF8DDAtMtwEAAwIAA3cAAz0E",
+      "fileUniqueId": "AQADHBFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:05:55.617Z"
+    },
+    "kelas3 (132).jpg": {
+      "year": 2025,
+      "size": 1721305,
+      "messageId": 270,
+      "chatId": "-1004382423401",
+      "fileId": "AgACAgUAAyEGAAMBBTZ5aQACAQ5q2Dos-bDzV26pQ5vGfJ4AAUzF1OsAAh0RaxtACcBWzP1sjGRtL7YBAAMCAAN3AAM9BA",
+      "fileUniqueId": "AQADHRFrG0AJwFZ8",
+      "uploadedAt": "2026-10-21T04:06:03.693Z"
+    }
+  }
+}

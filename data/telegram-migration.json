@@ -1,0 +1,3855 @@
+{
+  "updatedAt": "2026-10-20T18:12:59.818Z",
+  "photos": {
+    "kelas1 (1).jpeg": {
+      "year": 2023,
+      "size": 192221,
+      "messageId": 2,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:20:04.018Z"
+    },
+    "kelas1 (2).jpeg": {
+      "year": 2023,
+      "size": 186423,
+      "messageId": 3,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:17.485Z"
+    },
+    "kelas1 (3).jpeg": {
+      "year": 2023,
+      "size": 188864,
+      "messageId": 4,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:20.184Z"
+    },
+    "kelas1 (4).jpeg": {
+      "year": 2023,
+      "size": 312337,
+      "messageId": 5,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:23.318Z"
+    },
+    "kelas2  (1).jpeg": {
+      "year": 2024,
+      "size": 1413258,
+      "messageId": 6,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:27.719Z"
+    },
+    "kelas2  (2).jpeg": {
+      "year": 2024,
+      "size": 1348231,
+      "messageId": 7,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:35.375Z"
+    },
+    "kelas2  (3).jpeg": {
+      "year": 2024,
+      "size": 1422378,
+      "messageId": 8,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:39.650Z"
+    },
+    "kelas2  (4).jpeg": {
+      "year": 2024,
+      "size": 1447681,
+      "messageId": 9,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:43.696Z"
+    },
+    "kelas2  (5).jpeg": {
+      "year": 2024,
+      "size": 2123291,
+      "messageId": 10,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:48.914Z"
+    },
+    "kelas2  (6).jpeg": {
+      "year": 2024,
+      "size": 2221796,
+      "messageId": 11,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:53.987Z"
+    },
+    "kelas2  (7).jpeg": {
+      "year": 2024,
+      "size": 1837928,
+      "messageId": 12,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:22:58.428Z"
+    },
+    "kelas2  (8).jpeg": {
+      "year": 2024,
+      "size": 2086157,
+      "messageId": 13,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:03.491Z"
+    },
+    "kelas2  (9).jpeg": {
+      "year": 2024,
+      "size": 1703130,
+      "messageId": 14,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:11.135Z"
+    },
+    "kelas2  (10).jpeg": {
+      "year": 2024,
+      "size": 2132276,
+      "messageId": 15,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:16.753Z"
+    },
+    "kelas2  (11).jpeg": {
+      "year": 2024,
+      "size": 1536408,
+      "messageId": 16,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:21.485Z"
+    },
+    "kelas2  (12).jpeg": {
+      "year": 2024,
+      "size": 1432675,
+      "messageId": 17,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:25.419Z"
+    },
+    "kelas2  (13).jpeg": {
+      "year": 2024,
+      "size": 1027762,
+      "messageId": 18,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:28.896Z"
+    },
+    "kelas2  (14).jpeg": {
+      "year": 2024,
+      "size": 564375,
+      "messageId": 19,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:32.160Z"
+    },
+    "kelas2  (15).jpeg": {
+      "year": 2024,
+      "size": 575724,
+      "messageId": 20,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:34.988Z"
+    },
+    "kelas2  (16).jpeg": {
+      "year": 2024,
+      "size": 642509,
+      "messageId": 21,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:37.924Z"
+    },
+    "kelas2  (17).jpeg": {
+      "year": 2024,
+      "size": 641199,
+      "messageId": 22,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:41.132Z"
+    },
+    "kelas2  (18).jpeg": {
+      "year": 2024,
+      "size": 750500,
+      "messageId": 23,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:44.236Z"
+    },
+    "kelas2  (19).jpeg": {
+      "year": 2024,
+      "size": 791498,
+      "messageId": 24,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:47.591Z"
+    },
+    "kelas2  (20).jpeg": {
+      "year": 2024,
+      "size": 966849,
+      "messageId": 25,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:51.009Z"
+    },
+    "kelas2  (21).jpeg": {
+      "year": 2024,
+      "size": 1089912,
+      "messageId": 26,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:54.569Z"
+    },
+    "kelas2  (22).jpeg": {
+      "year": 2024,
+      "size": 753209,
+      "messageId": 27,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:23:57.904Z"
+    },
+    "kelas2  (23).jpeg": {
+      "year": 2024,
+      "size": 750297,
+      "messageId": 28,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:01.020Z"
+    },
+    "kelas2  (24).jpeg": {
+      "year": 2024,
+      "size": 773199,
+      "messageId": 29,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:04.262Z"
+    },
+    "kelas2  (25).jpeg": {
+      "year": 2024,
+      "size": 594645,
+      "messageId": 30,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:07.576Z"
+    },
+    "kelas2  (26).jpeg": {
+      "year": 2024,
+      "size": 604934,
+      "messageId": 31,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:10.651Z"
+    },
+    "kelas2  (27).jpeg": {
+      "year": 2024,
+      "size": 597892,
+      "messageId": 32,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:13.589Z"
+    },
+    "kelas2  (28).jpeg": {
+      "year": 2024,
+      "size": 595088,
+      "messageId": 33,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:16.644Z"
+    },
+    "kelas2  (29).jpeg": {
+      "year": 2024,
+      "size": 806651,
+      "messageId": 34,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:20.350Z"
+    },
+    "kelas2  (30).jpeg": {
+      "year": 2024,
+      "size": 623528,
+      "messageId": 35,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:23.273Z"
+    },
+    "kelas2  (31).jpeg": {
+      "year": 2024,
+      "size": 650423,
+      "messageId": 36,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:26.396Z"
+    },
+    "kelas2  (32).jpeg": {
+      "year": 2024,
+      "size": 601457,
+      "messageId": 37,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:29.341Z"
+    },
+    "kelas2  (33).jpeg": {
+      "year": 2024,
+      "size": 673948,
+      "messageId": 38,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:32.621Z"
+    },
+    "kelas2  (34).jpeg": {
+      "year": 2024,
+      "size": 613922,
+      "messageId": 39,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:35.788Z"
+    },
+    "kelas2  (35).jpeg": {
+      "year": 2024,
+      "size": 1907275,
+      "messageId": 40,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:41.337Z"
+    },
+    "kelas2  (36).jpeg": {
+      "year": 2024,
+      "size": 2089550,
+      "messageId": 41,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:46.265Z"
+    },
+    "kelas2  (37).jpeg": {
+      "year": 2024,
+      "size": 2036638,
+      "messageId": 42,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:51.136Z"
+    },
+    "kelas2  (38).jpeg": {
+      "year": 2024,
+      "size": 2074072,
+      "messageId": 43,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:24:56.075Z"
+    },
+    "kelas2  (39).jpeg": {
+      "year": 2024,
+      "size": 2054352,
+      "messageId": 44,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:01.092Z"
+    },
+    "kelas2  (40).jpeg": {
+      "year": 2024,
+      "size": 2050555,
+      "messageId": 45,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:05.946Z"
+    },
+    "kelas2  (41).jpeg": {
+      "year": 2024,
+      "size": 1954003,
+      "messageId": 46,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:10.684Z"
+    },
+    "kelas2  (42).jpeg": {
+      "year": 2024,
+      "size": 285382,
+      "messageId": 47,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:13.083Z"
+    },
+    "kelas2  (43).jpeg": {
+      "year": 2024,
+      "size": 2135373,
+      "messageId": 48,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:17.933Z"
+    },
+    "kelas2  (44).jpeg": {
+      "year": 2024,
+      "size": 2098008,
+      "messageId": 49,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:22.849Z"
+    },
+    "kelas2  (45).jpeg": {
+      "year": 2024,
+      "size": 2175522,
+      "messageId": 50,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:27.967Z"
+    },
+    "kelas2  (46).jpeg": {
+      "year": 2024,
+      "size": 2148445,
+      "messageId": 51,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:32.889Z"
+    },
+    "kelas2  (47).jpeg": {
+      "year": 2024,
+      "size": 2112277,
+      "messageId": 52,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:38.163Z"
+    },
+    "kelas2  (48).jpeg": {
+      "year": 2024,
+      "size": 2100809,
+      "messageId": 53,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:43.145Z"
+    },
+    "kelas2  (49).jpeg": {
+      "year": 2024,
+      "size": 1419286,
+      "messageId": 54,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:47.433Z"
+    },
+    "kelas2  (50).jpeg": {
+      "year": 2024,
+      "size": 1416428,
+      "messageId": 55,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:51.484Z"
+    },
+    "kelas2  (51).jpeg": {
+      "year": 2024,
+      "size": 1351175,
+      "messageId": 56,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:55.561Z"
+    },
+    "kelas2  (52).jpeg": {
+      "year": 2024,
+      "size": 956918,
+      "messageId": 57,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:25:59.360Z"
+    },
+    "kelas2  (53).jpeg": {
+      "year": 2024,
+      "size": 878113,
+      "messageId": 58,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:02.780Z"
+    },
+    "kelas2  (54).jpeg": {
+      "year": 2024,
+      "size": 1006634,
+      "messageId": 59,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:06.243Z"
+    },
+    "kelas2  (55).jpeg": {
+      "year": 2024,
+      "size": 776043,
+      "messageId": 60,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:09.367Z"
+    },
+    "kelas2  (56).jpeg": {
+      "year": 2024,
+      "size": 952512,
+      "messageId": 61,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:13.146Z"
+    },
+    "kelas2  (57).jpeg": {
+      "year": 2024,
+      "size": 913186,
+      "messageId": 62,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:16.364Z"
+    },
+    "kelas2  (58).jpeg": {
+      "year": 2024,
+      "size": 883103,
+      "messageId": 63,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:19.688Z"
+    },
+    "kelas2  (59).jpeg": {
+      "year": 2024,
+      "size": 992922,
+      "messageId": 64,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:23.534Z"
+    },
+    "kelas2  (60).jpeg": {
+      "year": 2024,
+      "size": 1869632,
+      "messageId": 65,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:27.991Z"
+    },
+    "kelas2  (61).jpeg": {
+      "year": 2024,
+      "size": 981854,
+      "messageId": 66,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:31.669Z"
+    },
+    "kelas2  (62).jpeg": {
+      "year": 2024,
+      "size": 1900459,
+      "messageId": 67,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:36.254Z"
+    },
+    "kelas2  (63).jpeg": {
+      "year": 2024,
+      "size": 1897498,
+      "messageId": 68,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:40.807Z"
+    },
+    "kelas2  (64).jpeg": {
+      "year": 2024,
+      "size": 1722873,
+      "messageId": 69,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:45.301Z"
+    },
+    "kelas2  (65).jpeg": {
+      "year": 2024,
+      "size": 1915279,
+      "messageId": 70,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:49.968Z"
+    },
+    "kelas2  (66).jpeg": {
+      "year": 2024,
+      "size": 1720056,
+      "messageId": 71,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:54.459Z"
+    },
+    "kelas2  (67).jpeg": {
+      "year": 2024,
+      "size": 1771066,
+      "messageId": 72,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:26:58.999Z"
+    },
+    "kelas2  (68).jpeg": {
+      "year": 2024,
+      "size": 877710,
+      "messageId": 73,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:02.270Z"
+    },
+    "kelas2  (69).jpeg": {
+      "year": 2024,
+      "size": 1207628,
+      "messageId": 74,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:05.977Z"
+    },
+    "kelas2  (70).jpeg": {
+      "year": 2024,
+      "size": 1424539,
+      "messageId": 75,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:09.951Z"
+    },
+    "kelas2  (71).jpeg": {
+      "year": 2024,
+      "size": 340693,
+      "messageId": 76,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:13.309Z"
+    },
+    "kelas2  (72).jpeg": {
+      "year": 2024,
+      "size": 1162371,
+      "messageId": 77,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:17.045Z"
+    },
+    "kelas2  (73).jpeg": {
+      "year": 2024,
+      "size": 1273235,
+      "messageId": 78,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:20.951Z"
+    },
+    "kelas2  (74).jpeg": {
+      "year": 2024,
+      "size": 1180567,
+      "messageId": 79,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:24.638Z"
+    },
+    "kelas2  (75).jpeg": {
+      "year": 2024,
+      "size": 1171490,
+      "messageId": 80,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:28.519Z"
+    },
+    "kelas2  (76).jpeg": {
+      "year": 2024,
+      "size": 279536,
+      "messageId": 81,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:30.837Z"
+    },
+    "kelas2  (77).jpeg": {
+      "year": 2024,
+      "size": 283182,
+      "messageId": 82,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:33.224Z"
+    },
+    "kelas2  (78).jpeg": {
+      "year": 2024,
+      "size": 303337,
+      "messageId": 83,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:35.842Z"
+    },
+    "kelas2  (79).jpeg": {
+      "year": 2024,
+      "size": 311291,
+      "messageId": 84,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:38.290Z"
+    },
+    "kelas2  (80).jpeg": {
+      "year": 2024,
+      "size": 1857912,
+      "messageId": 85,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:42.859Z"
+    },
+    "kelas2  (81).jpeg": {
+      "year": 2024,
+      "size": 1148879,
+      "messageId": 86,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:46.518Z"
+    },
+    "kelas2  (82).jpeg": {
+      "year": 2024,
+      "size": 1177389,
+      "messageId": 87,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:50.091Z"
+    },
+    "kelas2  (83).jpeg": {
+      "year": 2024,
+      "size": 865718,
+      "messageId": 88,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:53.402Z"
+    },
+    "kelas2  (84).jpeg": {
+      "year": 2024,
+      "size": 950943,
+      "messageId": 89,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:27:56.810Z"
+    },
+    "kelas2  (85).jpeg": {
+      "year": 2024,
+      "size": 808104,
+      "messageId": 90,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:00.101Z"
+    },
+    "kelas2  (86).jpeg": {
+      "year": 2024,
+      "size": 1092806,
+      "messageId": 91,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:03.543Z"
+    },
+    "kelas2  (87).jpeg": {
+      "year": 2024,
+      "size": 1091320,
+      "messageId": 92,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:07.325Z"
+    },
+    "kelas2  (88).jpeg": {
+      "year": 2024,
+      "size": 276366,
+      "messageId": 93,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:09.657Z"
+    },
+    "kelas2  (89).jpeg": {
+      "year": 2024,
+      "size": 1811411,
+      "messageId": 94,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:16.928Z"
+    },
+    "kelas2  (90).jpeg": {
+      "year": 2024,
+      "size": 1887461,
+      "messageId": 95,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:21.622Z"
+    },
+    "kelas2  (91).jpeg": {
+      "year": 2024,
+      "size": 1203013,
+      "messageId": 96,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:25.262Z"
+    },
+    "kelas2  (92).jpeg": {
+      "year": 2024,
+      "size": 2097648,
+      "messageId": 97,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:29.958Z"
+    },
+    "kelas2  (93).jpeg": {
+      "year": 2024,
+      "size": 524642,
+      "messageId": 98,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:32.738Z"
+    },
+    "kelas2  (94).jpeg": {
+      "year": 2024,
+      "size": 530266,
+      "messageId": 99,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:35.609Z"
+    },
+    "kelas2  (95).jpeg": {
+      "year": 2024,
+      "size": 1831356,
+      "messageId": 100,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:40.319Z"
+    },
+    "kelas2  (96).jpeg": {
+      "year": 2024,
+      "size": 926066,
+      "messageId": 101,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:43.972Z"
+    },
+    "kelas2  (97).jpeg": {
+      "year": 2024,
+      "size": 1515647,
+      "messageId": 102,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:48.034Z"
+    },
+    "kelas2  (98).jpeg": {
+      "year": 2024,
+      "size": 1288407,
+      "messageId": 103,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:51.751Z"
+    },
+    "kelas2  (99).jpeg": {
+      "year": 2024,
+      "size": 1521108,
+      "messageId": 104,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:28:55.809Z"
+    },
+    "kelas2  (100).jpeg": {
+      "year": 2024,
+      "size": 1820908,
+      "messageId": 105,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:00.953Z"
+    },
+    "kelas2  (101).jpeg": {
+      "year": 2024,
+      "size": 1855062,
+      "messageId": 106,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:05.340Z"
+    },
+    "kelas2  (102).jpeg": {
+      "year": 2024,
+      "size": 1839372,
+      "messageId": 107,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:10.237Z"
+    },
+    "kelas2  (103).jpeg": {
+      "year": 2024,
+      "size": 1790129,
+      "messageId": 108,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:17.996Z"
+    },
+    "kelas2  (104).jpeg": {
+      "year": 2024,
+      "size": 1784163,
+      "messageId": 109,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:22.971Z"
+    },
+    "kelas2  (105).jpeg": {
+      "year": 2024,
+      "size": 1673883,
+      "messageId": 110,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:27.441Z"
+    },
+    "kelas2  (106).jpeg": {
+      "year": 2024,
+      "size": 1717548,
+      "messageId": 111,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:31.783Z"
+    },
+    "kelas2  (107).jpeg": {
+      "year": 2024,
+      "size": 1282612,
+      "messageId": 112,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:35.900Z"
+    },
+    "kelas2  (108).jpeg": {
+      "year": 2024,
+      "size": 1332162,
+      "messageId": 113,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:39.668Z"
+    },
+    "kelas2  (109).jpeg": {
+      "year": 2024,
+      "size": 1284522,
+      "messageId": 114,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:43.431Z"
+    },
+    "kelas2  (110).jpeg": {
+      "year": 2024,
+      "size": 1312483,
+      "messageId": 115,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:47.350Z"
+    },
+    "kelas2  (111).jpeg": {
+      "year": 2024,
+      "size": 1186059,
+      "messageId": 116,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:51.221Z"
+    },
+    "kelas2  (112).jpeg": {
+      "year": 2024,
+      "size": 1223016,
+      "messageId": 117,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:55.312Z"
+    },
+    "kelas2  (113).jpeg": {
+      "year": 2024,
+      "size": 1202238,
+      "messageId": 118,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:29:59.316Z"
+    },
+    "kelas2  (114).jpeg": {
+      "year": 2024,
+      "size": 1762449,
+      "messageId": 119,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:04.334Z"
+    },
+    "kelas2  (115).jpeg": {
+      "year": 2024,
+      "size": 1743883,
+      "messageId": 120,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:08.829Z"
+    },
+    "kelas2  (116).jpeg": {
+      "year": 2024,
+      "size": 1744400,
+      "messageId": 121,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:13.431Z"
+    },
+    "kelas2  (117).jpeg": {
+      "year": 2024,
+      "size": 41975,
+      "messageId": 122,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:15.458Z"
+    },
+    "kelas2  (118).jpeg": {
+      "year": 2024,
+      "size": 53696,
+      "messageId": 123,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:17.441Z"
+    },
+    "kelas2  (119).jpeg": {
+      "year": 2024,
+      "size": 2011536,
+      "messageId": 124,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:22.325Z"
+    },
+    "kelas2  (120).jpeg": {
+      "year": 2024,
+      "size": 60908,
+      "messageId": 125,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:24.606Z"
+    },
+    "kelas2  (121).jpeg": {
+      "year": 2024,
+      "size": 61794,
+      "messageId": 126,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:26.734Z"
+    },
+    "kelas2  (122).jpeg": {
+      "year": 2024,
+      "size": 55192,
+      "messageId": 127,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:28.758Z"
+    },
+    "kelas2  (123).jpeg": {
+      "year": 2024,
+      "size": 66882,
+      "messageId": 128,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:31.166Z"
+    },
+    "kelas2  (124).jpeg": {
+      "year": 2024,
+      "size": 63778,
+      "messageId": 129,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:33.540Z"
+    },
+    "kelas2  (125).jpeg": {
+      "year": 2024,
+      "size": 58396,
+      "messageId": 130,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:35.627Z"
+    },
+    "kelas2  (126).jpeg": {
+      "year": 2024,
+      "size": 67548,
+      "messageId": 131,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:37.699Z"
+    },
+    "kelas2  (127).jpeg": {
+      "year": 2024,
+      "size": 861115,
+      "messageId": 132,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:41.354Z"
+    },
+    "kelas2  (128).jpeg": {
+      "year": 2024,
+      "size": 879202,
+      "messageId": 133,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:45.048Z"
+    },
+    "kelas2  (129).jpeg": {
+      "year": 2024,
+      "size": 871641,
+      "messageId": 134,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:48.492Z"
+    },
+    "kelas2  (130).jpeg": {
+      "year": 2024,
+      "size": 880635,
+      "messageId": 135,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:52.045Z"
+    },
+    "kelas2  (131).jpeg": {
+      "year": 2024,
+      "size": 860298,
+      "messageId": 136,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:55.615Z"
+    },
+    "kelas2  (132).jpeg": {
+      "year": 2024,
+      "size": 726986,
+      "messageId": 137,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:30:58.928Z"
+    },
+    "kelas2  (133).jpeg": {
+      "year": 2024,
+      "size": 899688,
+      "messageId": 138,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:02.429Z"
+    },
+    "kelas3 (1).jpg": {
+      "year": 2025,
+      "size": 1074394,
+      "messageId": 139,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:06.351Z"
+    },
+    "kelas3 (2).jpg": {
+      "year": 2025,
+      "size": 1215841,
+      "messageId": 140,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:10.340Z"
+    },
+    "kelas3 (3).jpg": {
+      "year": 2025,
+      "size": 1204635,
+      "messageId": 141,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:14.102Z"
+    },
+    "kelas3 (4).jpg": {
+      "year": 2025,
+      "size": 1179363,
+      "messageId": 142,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:17.902Z"
+    },
+    "kelas3 (5).jpg": {
+      "year": 2025,
+      "size": 1264425,
+      "messageId": 143,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:21.705Z"
+    },
+    "kelas3 (6).jpg": {
+      "year": 2025,
+      "size": 483372,
+      "messageId": 144,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:24.477Z"
+    },
+    "kelas3 (7).jpg": {
+      "year": 2025,
+      "size": 1157912,
+      "messageId": 145,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:28.260Z"
+    },
+    "kelas3 (8).jpg": {
+      "year": 2025,
+      "size": 858028,
+      "messageId": 146,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:31.726Z"
+    },
+    "kelas3 (9).jpg": {
+      "year": 2025,
+      "size": 1128496,
+      "messageId": 147,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:35.362Z"
+    },
+    "kelas3 (10).jpg": {
+      "year": 2025,
+      "size": 1200785,
+      "messageId": 148,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:39.220Z"
+    },
+    "kelas3 (11).jpg": {
+      "year": 2025,
+      "size": 1149649,
+      "messageId": 149,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:44.331Z"
+    },
+    "kelas3 (12).jpg": {
+      "year": 2025,
+      "size": 1086952,
+      "messageId": 150,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:47.851Z"
+    },
+    "kelas3 (13).jpg": {
+      "year": 2025,
+      "size": 1135994,
+      "messageId": 151,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:51.498Z"
+    },
+    "kelas3 (14).jpg": {
+      "year": 2025,
+      "size": 1204809,
+      "messageId": 152,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:55.762Z"
+    },
+    "kelas3 (15).jpg": {
+      "year": 2025,
+      "size": 1211252,
+      "messageId": 153,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:31:59.706Z"
+    },
+    "kelas3 (16).jpg": {
+      "year": 2025,
+      "size": 1189946,
+      "messageId": 154,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:03.789Z"
+    },
+    "kelas3 (17).jpg": {
+      "year": 2025,
+      "size": 662743,
+      "messageId": 155,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:06.959Z"
+    },
+    "kelas3 (18).jpg": {
+      "year": 2025,
+      "size": 522626,
+      "messageId": 156,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:09.965Z"
+    },
+    "kelas3 (19).jpg": {
+      "year": 2025,
+      "size": 131325,
+      "messageId": 157,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:12.244Z"
+    },
+    "kelas3 (20).jpg": {
+      "year": 2025,
+      "size": 2718785,
+      "messageId": 158,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:18.691Z"
+    },
+    "kelas3 (21).jpg": {
+      "year": 2025,
+      "size": 2624532,
+      "messageId": 159,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:24.736Z"
+    },
+    "kelas3 (22).jpg": {
+      "year": 2025,
+      "size": 2717885,
+      "messageId": 160,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:30.598Z"
+    },
+    "kelas3 (23).jpg": {
+      "year": 2025,
+      "size": 1900899,
+      "messageId": 161,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:35.319Z"
+    },
+    "kelas3 (24).jpg": {
+      "year": 2025,
+      "size": 2163939,
+      "messageId": 162,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:40.479Z"
+    },
+    "kelas3 (25).jpg": {
+      "year": 2025,
+      "size": 1804858,
+      "messageId": 163,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:44.888Z"
+    },
+    "kelas3 (26).jpg": {
+      "year": 2025,
+      "size": 1812015,
+      "messageId": 164,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:49.336Z"
+    },
+    "kelas3 (27).jpg": {
+      "year": 2025,
+      "size": 172707,
+      "messageId": 165,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:51.775Z"
+    },
+    "kelas3 (28).jpg": {
+      "year": 2025,
+      "size": 1436094,
+      "messageId": 166,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:55.968Z"
+    },
+    "kelas3 (29).jpg": {
+      "year": 2025,
+      "size": 1346181,
+      "messageId": 167,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:32:59.843Z"
+    },
+    "kelas3 (30).jpg": {
+      "year": 2025,
+      "size": 1604993,
+      "messageId": 168,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:04.165Z"
+    },
+    "kelas3 (31).jpg": {
+      "year": 2025,
+      "size": 1161323,
+      "messageId": 169,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:07.730Z"
+    },
+    "kelas3 (32).jpg": {
+      "year": 2025,
+      "size": 1495213,
+      "messageId": 170,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:12.062Z"
+    },
+    "kelas3 (33).jpg": {
+      "year": 2025,
+      "size": 1374467,
+      "messageId": 171,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:16.019Z"
+    },
+    "kelas3 (34).jpg": {
+      "year": 2025,
+      "size": 1592402,
+      "messageId": 172,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:20.139Z"
+    },
+    "kelas3 (35).jpg": {
+      "year": 2025,
+      "size": 1418315,
+      "messageId": 173,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:25.951Z"
+    },
+    "kelas3 (36).jpg": {
+      "year": 2025,
+      "size": 1508971,
+      "messageId": 174,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:32.300Z"
+    },
+    "kelas3 (37).jpg": {
+      "year": 2025,
+      "size": 1467582,
+      "messageId": 175,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:36.809Z"
+    },
+    "kelas3 (38).jpg": {
+      "year": 2025,
+      "size": 1117306,
+      "messageId": 176,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:40.743Z"
+    },
+    "kelas3 (39).jpg": {
+      "year": 2025,
+      "size": 1046505,
+      "messageId": 177,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:44.353Z"
+    },
+    "kelas3 (40).jpg": {
+      "year": 2025,
+      "size": 1104110,
+      "messageId": 178,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:48.075Z"
+    },
+    "kelas3 (41).jpg": {
+      "year": 2025,
+      "size": 1138479,
+      "messageId": 179,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:51.954Z"
+    },
+    "kelas3 (42).jpg": {
+      "year": 2025,
+      "size": 1228932,
+      "messageId": 180,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:55.869Z"
+    },
+    "kelas3 (43).jpg": {
+      "year": 2025,
+      "size": 799136,
+      "messageId": 181,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:33:59.377Z"
+    },
+    "kelas3 (44).jpg": {
+      "year": 2025,
+      "size": 1014788,
+      "messageId": 182,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:03.320Z"
+    },
+    "kelas3 (45).jpg": {
+      "year": 2025,
+      "size": 1179792,
+      "messageId": 183,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:07.281Z"
+    },
+    "kelas3 (46).jpg": {
+      "year": 2025,
+      "size": 137401,
+      "messageId": 184,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:09.596Z"
+    },
+    "kelas3 (47).jpg": {
+      "year": 2025,
+      "size": 119493,
+      "messageId": 185,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:11.692Z"
+    },
+    "kelas3 (48).jpg": {
+      "year": 2025,
+      "size": 1197190,
+      "messageId": 186,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:15.601Z"
+    },
+    "kelas3 (49).jpg": {
+      "year": 2025,
+      "size": 1164478,
+      "messageId": 187,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:19.576Z"
+    },
+    "kelas3 (50).jpg": {
+      "year": 2025,
+      "size": 1064638,
+      "messageId": 188,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:28.466Z"
+    },
+    "kelas3 (51).jpg": {
+      "year": 2025,
+      "size": 1036931,
+      "messageId": 189,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:32.001Z"
+    },
+    "kelas3 (52).jpg": {
+      "year": 2025,
+      "size": 1051025,
+      "messageId": 190,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:35.645Z"
+    },
+    "kelas3 (53).jpg": {
+      "year": 2025,
+      "size": 1034202,
+      "messageId": 191,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:39.598Z"
+    },
+    "kelas3 (54).jpg": {
+      "year": 2025,
+      "size": 2268261,
+      "messageId": 192,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:45.667Z"
+    },
+    "kelas3 (55).jpg": {
+      "year": 2025,
+      "size": 1222015,
+      "messageId": 193,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:49.554Z"
+    },
+    "kelas3 (56).jpg": {
+      "year": 2025,
+      "size": 1276865,
+      "messageId": 194,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:53.313Z"
+    },
+    "kelas3 (57).jpg": {
+      "year": 2025,
+      "size": 1839128,
+      "messageId": 195,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:34:58.130Z"
+    },
+    "kelas3 (58).jpg": {
+      "year": 2025,
+      "size": 1189032,
+      "messageId": 196,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:01.911Z"
+    },
+    "kelas3 (59).jpg": {
+      "year": 2025,
+      "size": 1117435,
+      "messageId": 197,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:05.692Z"
+    },
+    "kelas3 (60).jpg": {
+      "year": 2025,
+      "size": 1284238,
+      "messageId": 198,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:09.581Z"
+    },
+    "kelas3 (61).jpg": {
+      "year": 2025,
+      "size": 1177577,
+      "messageId": 199,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:13.389Z"
+    },
+    "kelas3 (62).jpg": {
+      "year": 2025,
+      "size": 95275,
+      "messageId": 200,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:15.477Z"
+    },
+    "kelas3 (63).jpg": {
+      "year": 2025,
+      "size": 1308880,
+      "messageId": 201,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:19.496Z"
+    },
+    "kelas3 (64).jpg": {
+      "year": 2025,
+      "size": 1219156,
+      "messageId": 202,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:23.349Z"
+    },
+    "kelas3 (65).jpg": {
+      "year": 2025,
+      "size": 1032190,
+      "messageId": 203,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:29.868Z"
+    },
+    "kelas3 (66).jpg": {
+      "year": 2025,
+      "size": 1073256,
+      "messageId": 204,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:34.270Z"
+    },
+    "kelas3 (67).jpg": {
+      "year": 2025,
+      "size": 851082,
+      "messageId": 205,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:37.705Z"
+    },
+    "kelas3 (68).jpg": {
+      "year": 2025,
+      "size": 223614,
+      "messageId": 206,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:40.240Z"
+    },
+    "kelas3 (69).jpg": {
+      "year": 2025,
+      "size": 553844,
+      "messageId": 207,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:43.507Z"
+    },
+    "kelas3 (70).jpg": {
+      "year": 2025,
+      "size": 1175594,
+      "messageId": 208,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:47.256Z"
+    },
+    "kelas3 (71).jpg": {
+      "year": 2025,
+      "size": 952706,
+      "messageId": 209,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:51.829Z"
+    },
+    "kelas3 (72).jpg": {
+      "year": 2025,
+      "size": 1089021,
+      "messageId": 210,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:35:56.156Z"
+    },
+    "kelas3 (73).jpg": {
+      "year": 2025,
+      "size": 1196395,
+      "messageId": 211,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:01.062Z"
+    },
+    "kelas3 (74).jpg": {
+      "year": 2025,
+      "size": 1102246,
+      "messageId": 212,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:04.769Z"
+    },
+    "kelas3 (75).jpg": {
+      "year": 2025,
+      "size": 1081651,
+      "messageId": 213,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:08.772Z"
+    },
+    "kelas3 (76).jpg": {
+      "year": 2025,
+      "size": 1069334,
+      "messageId": 214,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:12.515Z"
+    },
+    "kelas3 (77).jpg": {
+      "year": 2025,
+      "size": 1602644,
+      "messageId": 215,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:16.845Z"
+    },
+    "kelas3 (78).jpg": {
+      "year": 2025,
+      "size": 285382,
+      "messageId": 216,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:19.128Z"
+    },
+    "kelas3 (79).jpg": {
+      "year": 2025,
+      "size": 1465164,
+      "messageId": 217,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:23.301Z"
+    },
+    "kelas3 (80).jpg": {
+      "year": 2025,
+      "size": 1507555,
+      "messageId": 218,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:27.261Z"
+    },
+    "kelas3 (81).jpg": {
+      "year": 2025,
+      "size": 1555635,
+      "messageId": 219,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:31.690Z"
+    },
+    "kelas3 (82).jpg": {
+      "year": 2025,
+      "size": 1050290,
+      "messageId": 220,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:35.261Z"
+    },
+    "kelas3 (83).jpg": {
+      "year": 2025,
+      "size": 1731598,
+      "messageId": 221,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:39.822Z"
+    },
+    "kelas3 (84).jpg": {
+      "year": 2025,
+      "size": 1712200,
+      "messageId": 222,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:44.393Z"
+    },
+    "kelas3 (85).jpg": {
+      "year": 2025,
+      "size": 901345,
+      "messageId": 223,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:47.618Z"
+    },
+    "kelas3 (86).jpg": {
+      "year": 2025,
+      "size": 978888,
+      "messageId": 224,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:51.001Z"
+    },
+    "kelas3 (87).jpg": {
+      "year": 2025,
+      "size": 898006,
+      "messageId": 225,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:55.062Z"
+    },
+    "kelas3 (88).jpg": {
+      "year": 2025,
+      "size": 1593984,
+      "messageId": 226,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:36:59.924Z"
+    },
+    "kelas3 (89).jpg": {
+      "year": 2025,
+      "size": 1568604,
+      "messageId": 227,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:04.102Z"
+    },
+    "kelas3 (90).jpg": {
+      "year": 2025,
+      "size": 1486540,
+      "messageId": 228,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:08.361Z"
+    },
+    "kelas3 (91).jpg": {
+      "year": 2025,
+      "size": 1145022,
+      "messageId": 229,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:12.355Z"
+    },
+    "kelas3 (92).jpg": {
+      "year": 2025,
+      "size": 1429136,
+      "messageId": 230,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:16.390Z"
+    },
+    "kelas3 (93).jpg": {
+      "year": 2025,
+      "size": 1485786,
+      "messageId": 231,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:20.488Z"
+    },
+    "kelas3 (94).jpg": {
+      "year": 2025,
+      "size": 1304593,
+      "messageId": 232,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:24.555Z"
+    },
+    "kelas3 (95).jpg": {
+      "year": 2025,
+      "size": 1497037,
+      "messageId": 233,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:28.647Z"
+    },
+    "kelas3 (96).jpg": {
+      "year": 2025,
+      "size": 1306787,
+      "messageId": 234,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:32.518Z"
+    },
+    "kelas3 (97).jpg": {
+      "year": 2025,
+      "size": 1173902,
+      "messageId": 235,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:36.339Z"
+    },
+    "kelas3 (98).jpg": {
+      "year": 2025,
+      "size": 632634,
+      "messageId": 236,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:39.380Z"
+    },
+    "kelas3 (99).jpg": {
+      "year": 2025,
+      "size": 165400,
+      "messageId": 237,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:41.894Z"
+    },
+    "kelas3 (100).jpg": {
+      "year": 2025,
+      "size": 1217727,
+      "messageId": 238,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:45.620Z"
+    },
+    "kelas3 (101).jpg": {
+      "year": 2025,
+      "size": 1225751,
+      "messageId": 239,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:49.293Z"
+    },
+    "kelas3 (102).jpg": {
+      "year": 2025,
+      "size": 1236495,
+      "messageId": 240,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:53.312Z"
+    },
+    "kelas3 (103).jpg": {
+      "year": 2025,
+      "size": 1279438,
+      "messageId": 241,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:37:57.511Z"
+    },
+    "kelas3 (104).jpg": {
+      "year": 2025,
+      "size": 1168128,
+      "messageId": 242,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:02.758Z"
+    },
+    "kelas3 (105).jpg": {
+      "year": 2025,
+      "size": 1242119,
+      "messageId": 243,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:11.178Z"
+    },
+    "kelas3 (106).jpg": {
+      "year": 2025,
+      "size": 1219443,
+      "messageId": 244,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:16.085Z"
+    },
+    "kelas3 (107).jpg": {
+      "year": 2025,
+      "size": 1159135,
+      "messageId": 245,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:20.093Z"
+    },
+    "kelas3 (108).jpg": {
+      "year": 2025,
+      "size": 138649,
+      "messageId": 246,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:22.551Z"
+    },
+    "kelas3 (109).jpg": {
+      "year": 2025,
+      "size": 1101876,
+      "messageId": 247,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:26.553Z"
+    },
+    "kelas3 (110).jpg": {
+      "year": 2025,
+      "size": 1171040,
+      "messageId": 248,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:31.124Z"
+    },
+    "kelas3 (111).jpg": {
+      "year": 2025,
+      "size": 1383765,
+      "messageId": 249,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:35.441Z"
+    },
+    "kelas3 (112).jpg": {
+      "year": 2025,
+      "size": 1269781,
+      "messageId": 250,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:39.540Z"
+    },
+    "kelas3 (113).jpg": {
+      "year": 2025,
+      "size": 1225224,
+      "messageId": 251,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:43.539Z"
+    },
+    "kelas3 (114).jpg": {
+      "year": 2025,
+      "size": 1313641,
+      "messageId": 252,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:47.555Z"
+    },
+    "kelas3 (115).jpg": {
+      "year": 2025,
+      "size": 1236595,
+      "messageId": 253,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:51.574Z"
+    },
+    "kelas3 (116).jpg": {
+      "year": 2025,
+      "size": 1286870,
+      "messageId": 254,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:38:55.445Z"
+    },
+    "kelas3 (117).jpg": {
+      "year": 2025,
+      "size": 1242617,
+      "messageId": 255,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:00.500Z"
+    },
+    "kelas3 (118).jpg": {
+      "year": 2025,
+      "size": 1232891,
+      "messageId": 256,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:04.826Z"
+    },
+    "kelas3 (119).jpg": {
+      "year": 2025,
+      "size": 1204832,
+      "messageId": 257,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:08.679Z"
+    },
+    "kelas3 (120).jpg": {
+      "year": 2025,
+      "size": 1675609,
+      "messageId": 258,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:13.092Z"
+    },
+    "kelas3 (121).jpg": {
+      "year": 2025,
+      "size": 1701079,
+      "messageId": 259,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:18.458Z"
+    },
+    "kelas3 (122).jpg": {
+      "year": 2025,
+      "size": 1647613,
+      "messageId": 260,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:23.347Z"
+    },
+    "kelas3 (123).jpg": {
+      "year": 2025,
+      "size": 1663991,
+      "messageId": 261,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:27.900Z"
+    },
+    "kelas3 (124).jpg": {
+      "year": 2025,
+      "size": 1534751,
+      "messageId": 262,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:33.674Z"
+    },
+    "kelas3 (125).jpg": {
+      "year": 2025,
+      "size": 1493884,
+      "messageId": 263,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:37.745Z"
+    },
+    "kelas3 (126).jpg": {
+      "year": 2025,
+      "size": 1485225,
+      "messageId": 264,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:42.008Z"
+    },
+    "kelas3 (127).jpg": {
+      "year": 2025,
+      "size": 1432240,
+      "messageId": 265,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:46.064Z"
+    },
+    "kelas3 (128).jpg": {
+      "year": 2025,
+      "size": 1592812,
+      "messageId": 266,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:50.387Z"
+    },
+    "kelas3 (129).jpg": {
+      "year": 2025,
+      "size": 1591312,
+      "messageId": 267,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:54.656Z"
+    },
+    "kelas3 (130).jpg": {
+      "year": 2025,
+      "size": 1614376,
+      "messageId": 268,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:39:59.009Z"
+    },
+    "kelas3 (131).jpg": {
+      "year": 2025,
+      "size": 1501676,
+      "messageId": 269,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:03.891Z"
+    },
+    "kelas3 (132).jpg": {
+      "year": 2025,
+      "size": 1721305,
+      "messageId": 270,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:08.457Z"
+    },
+    "kelas3 (133).jpg": {
+      "year": 2025,
+      "size": 1740106,
+      "messageId": 271,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:12.876Z"
+    },
+    "kelas3 (134).jpg": {
+      "year": 2025,
+      "size": 1575538,
+      "messageId": 272,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:17.235Z"
+    },
+    "kelas3 (135).jpg": {
+      "year": 2025,
+      "size": 1723124,
+      "messageId": 273,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:22.194Z"
+    },
+    "kelas3 (136).jpg": {
+      "year": 2025,
+      "size": 1776253,
+      "messageId": 274,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:26.768Z"
+    },
+    "kelas3 (137).jpg": {
+      "year": 2025,
+      "size": 1680943,
+      "messageId": 275,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:31.262Z"
+    },
+    "kelas3 (138).jpg": {
+      "year": 2025,
+      "size": 1700012,
+      "messageId": 276,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:35.931Z"
+    },
+    "kelas3 (139).jpg": {
+      "year": 2025,
+      "size": 1693262,
+      "messageId": 277,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:40.296Z"
+    },
+    "kelas3 (140).jpg": {
+      "year": 2025,
+      "size": 1734646,
+      "messageId": 278,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:44.696Z"
+    },
+    "kelas3 (141).jpg": {
+      "year": 2025,
+      "size": 1632968,
+      "messageId": 279,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:49.133Z"
+    },
+    "kelas3 (142).jpg": {
+      "year": 2025,
+      "size": 1597144,
+      "messageId": 280,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:53.509Z"
+    },
+    "kelas3 (143).jpg": {
+      "year": 2025,
+      "size": 1588374,
+      "messageId": 281,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:40:57.707Z"
+    },
+    "kelas3 (144).jpg": {
+      "year": 2025,
+      "size": 1428989,
+      "messageId": 282,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:01.792Z"
+    },
+    "kelas3 (145).jpg": {
+      "year": 2025,
+      "size": 1276024,
+      "messageId": 283,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:05.917Z"
+    },
+    "kelas3 (146).jpg": {
+      "year": 2025,
+      "size": 1732759,
+      "messageId": 284,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:10.385Z"
+    },
+    "kelas3 (147).jpg": {
+      "year": 2025,
+      "size": 1962941,
+      "messageId": 285,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:15.224Z"
+    },
+    "kelas3 (148).jpg": {
+      "year": 2025,
+      "size": 1751713,
+      "messageId": 286,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:19.695Z"
+    },
+    "kelas3 (149).jpg": {
+      "year": 2025,
+      "size": 1953193,
+      "messageId": 287,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:24.536Z"
+    },
+    "kelas3 (150).jpg": {
+      "year": 2025,
+      "size": 1745150,
+      "messageId": 288,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:29.299Z"
+    },
+    "kelas3 (151).jpg": {
+      "year": 2025,
+      "size": 1216009,
+      "messageId": 289,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:33.886Z"
+    },
+    "kelas3 (152).jpg": {
+      "year": 2025,
+      "size": 1226216,
+      "messageId": 290,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:37.878Z"
+    },
+    "kelas3 (153).jpg": {
+      "year": 2025,
+      "size": 1007566,
+      "messageId": 291,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:41.656Z"
+    },
+    "kelas3 (154).jpg": {
+      "year": 2025,
+      "size": 1251457,
+      "messageId": 292,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:46.524Z"
+    },
+    "kelas3 (155).jpg": {
+      "year": 2025,
+      "size": 1372746,
+      "messageId": 293,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:51.516Z"
+    },
+    "kelas3 (156).jpg": {
+      "year": 2025,
+      "size": 1278489,
+      "messageId": 294,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:41:55.635Z"
+    },
+    "kelas3 (157).jpg": {
+      "year": 2025,
+      "size": 1272310,
+      "messageId": 295,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:42:00.085Z"
+    },
+    "kelas3 (158).jpg": {
+      "year": 2025,
+      "size": 1681884,
+      "messageId": 296,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:42:06.585Z"
+    },
+    "kelas3 (159).jpg": {
+      "year": 2025,
+      "size": 650831,
+      "messageId": 297,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:42:10.729Z"
+    },
+    "kelas3 (160).jpg": {
+      "year": 2025,
+      "size": 695592,
+      "messageId": 298,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:42:15.876Z"
+    },
+    "kelas3 (161).jpg": {
+      "year": 2025,
+      "size": 1863457,
+      "messageId": 299,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:42:55.006Z"
+    },
+    "kelas3 (162).jpg": {
+      "year": 2025,
+      "size": 1689763,
+      "messageId": 300,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:03.990Z"
+    },
+    "kelas3 (163).jpg": {
+      "year": 2025,
+      "size": 1630265,
+      "messageId": 301,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:10.864Z"
+    },
+    "kelas3 (164).jpg": {
+      "year": 2025,
+      "size": 1639967,
+      "messageId": 302,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:18.807Z"
+    },
+    "kelas3 (165).jpg": {
+      "year": 2025,
+      "size": 975140,
+      "messageId": 303,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:23.893Z"
+    },
+    "kelas3 (166).jpg": {
+      "year": 2025,
+      "size": 1062346,
+      "messageId": 304,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:29.993Z"
+    },
+    "kelas3 (167).jpg": {
+      "year": 2025,
+      "size": 1152224,
+      "messageId": 305,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:35.533Z"
+    },
+    "kelas3 (168).jpg": {
+      "year": 2025,
+      "size": 1642722,
+      "messageId": 306,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:44.122Z"
+    },
+    "kelas3 (169).jpeg": {
+      "year": 2025,
+      "size": 671559,
+      "messageId": 307,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:48.555Z"
+    },
+    "kelas3 (170).jpg": {
+      "year": 2025,
+      "size": 1969243,
+      "messageId": 308,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:43:55.903Z"
+    },
+    "kelas3 (171).jpg": {
+      "year": 2025,
+      "size": 1836539,
+      "messageId": 309,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:07.560Z"
+    },
+    "kelas3 (172).jpg": {
+      "year": 2025,
+      "size": 1751426,
+      "messageId": 310,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:18.183Z"
+    },
+    "kelas3 (173).jpg": {
+      "year": 2025,
+      "size": 1797514,
+      "messageId": 311,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:26.451Z"
+    },
+    "kelas3 (174).jpg": {
+      "year": 2025,
+      "size": 1328590,
+      "messageId": 312,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:33.210Z"
+    },
+    "kelas3 (175).jpg": {
+      "year": 2025,
+      "size": 1435733,
+      "messageId": 313,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:41.840Z"
+    },
+    "kelas3 (176).jpg": {
+      "year": 2025,
+      "size": 1487056,
+      "messageId": 314,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:49.216Z"
+    },
+    "kelas3 (177).jpg": {
+      "year": 2025,
+      "size": 1508211,
+      "messageId": 315,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:44:56.683Z"
+    },
+    "kelas3 (178).jpg": {
+      "year": 2025,
+      "size": 1535627,
+      "messageId": 316,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:03.625Z"
+    },
+    "kelas3 (179).jpg": {
+      "year": 2025,
+      "size": 1539281,
+      "messageId": 317,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:11.576Z"
+    },
+    "kelas3 (180).jpg": {
+      "year": 2025,
+      "size": 1535754,
+      "messageId": 318,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:18.595Z"
+    },
+    "kelas3 (181).jpg": {
+      "year": 2025,
+      "size": 1527990,
+      "messageId": 319,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:25.673Z"
+    },
+    "kelas3 (182).jpg": {
+      "year": 2025,
+      "size": 1518878,
+      "messageId": 320,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:32.912Z"
+    },
+    "kelas3 (183).jpg": {
+      "year": 2025,
+      "size": 1514034,
+      "messageId": 321,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:41.916Z"
+    },
+    "kelas3 (184).jpg": {
+      "year": 2025,
+      "size": 1512737,
+      "messageId": 322,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:49.838Z"
+    },
+    "kelas3 (185).jpg": {
+      "year": 2025,
+      "size": 1533879,
+      "messageId": 323,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:45:57.797Z"
+    },
+    "kelas3 (186).jpg": {
+      "year": 2025,
+      "size": 1525855,
+      "messageId": 324,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:04.921Z"
+    },
+    "kelas3 (187).jpg": {
+      "year": 2025,
+      "size": 1512510,
+      "messageId": 325,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:12.195Z"
+    },
+    "kelas3 (188).jpg": {
+      "year": 2025,
+      "size": 1500942,
+      "messageId": 326,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:18.674Z"
+    },
+    "kelas3 (189).jpg": {
+      "year": 2025,
+      "size": 1546080,
+      "messageId": 327,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:25.680Z"
+    },
+    "kelas3 (190).jpg": {
+      "year": 2025,
+      "size": 1056388,
+      "messageId": 328,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:31.611Z"
+    },
+    "kelas3 (191).jpg": {
+      "year": 2025,
+      "size": 1058544,
+      "messageId": 329,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:37.448Z"
+    },
+    "kelas3 (192).jpg": {
+      "year": 2025,
+      "size": 1126149,
+      "messageId": 330,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:43.368Z"
+    },
+    "kelas3 (193).jpg": {
+      "year": 2025,
+      "size": 1132708,
+      "messageId": 331,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:49.447Z"
+    },
+    "kelas3 (194).jpg": {
+      "year": 2025,
+      "size": 1045107,
+      "messageId": 332,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:46:55.318Z"
+    },
+    "kelas3 (195).jpg": {
+      "year": 2025,
+      "size": 1130591,
+      "messageId": 333,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:01.156Z"
+    },
+    "kelas3 (196).jpg": {
+      "year": 2025,
+      "size": 619890,
+      "messageId": 334,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:05.285Z"
+    },
+    "kelas3 (197).jpg": {
+      "year": 2025,
+      "size": 744681,
+      "messageId": 335,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:09.815Z"
+    },
+    "kelas3 (198).jpg": {
+      "year": 2025,
+      "size": 734930,
+      "messageId": 336,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:14.297Z"
+    },
+    "kelas3 (199).jpg": {
+      "year": 2025,
+      "size": 710850,
+      "messageId": 337,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:18.642Z"
+    },
+    "kelas3 (200).jpg": {
+      "year": 2025,
+      "size": 1549060,
+      "messageId": 338,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:25.771Z"
+    },
+    "kelas3 (201).jpg": {
+      "year": 2025,
+      "size": 1372550,
+      "messageId": 339,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:32.160Z"
+    },
+    "kelas3 (202).jpg": {
+      "year": 2025,
+      "size": 2078565,
+      "messageId": 340,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:41.761Z"
+    },
+    "kelas3 (203).jpg": {
+      "year": 2025,
+      "size": 1528242,
+      "messageId": 341,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:48.981Z"
+    },
+    "kelas3 (204).jpg": {
+      "year": 2025,
+      "size": 2144033,
+      "messageId": 342,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:47:58.186Z"
+    },
+    "kelas3 (205).jpg": {
+      "year": 2025,
+      "size": 2137845,
+      "messageId": 343,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:07.396Z"
+    },
+    "kelas3 (206).jpg": {
+      "year": 2025,
+      "size": 1561653,
+      "messageId": 344,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:14.671Z"
+    },
+    "kelas3 (207).jpg": {
+      "year": 2025,
+      "size": 1570804,
+      "messageId": 345,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:21.820Z"
+    },
+    "kelas3 (208).jpg": {
+      "year": 2025,
+      "size": 1590451,
+      "messageId": 346,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:29.639Z"
+    },
+    "kelas3 (209).jpg": {
+      "year": 2025,
+      "size": 2266438,
+      "messageId": 347,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:38.833Z"
+    },
+    "kelas3 (210).jpg": {
+      "year": 2025,
+      "size": 2090791,
+      "messageId": 348,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:47.568Z"
+    },
+    "kelas3 (211).jpg": {
+      "year": 2025,
+      "size": 1629650,
+      "messageId": 349,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:48:54.746Z"
+    },
+    "kelas3 (212).jpg": {
+      "year": 2025,
+      "size": 2173669,
+      "messageId": 350,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:03.515Z"
+    },
+    "kelas3 (213).jpg": {
+      "year": 2025,
+      "size": 2230167,
+      "messageId": 351,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:12.216Z"
+    },
+    "kelas3 (214).jpg": {
+      "year": 2025,
+      "size": 2184643,
+      "messageId": 352,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:20.541Z"
+    },
+    "kelas3 (215).jpg": {
+      "year": 2025,
+      "size": 2277648,
+      "messageId": 353,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:28.823Z"
+    },
+    "kelas3 (216).jpg": {
+      "year": 2025,
+      "size": 2213740,
+      "messageId": 354,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:37.525Z"
+    },
+    "kelas3 (217).jpg": {
+      "year": 2025,
+      "size": 2259833,
+      "messageId": 355,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:46.978Z"
+    },
+    "kelas3 (218).jpg": {
+      "year": 2025,
+      "size": 2218047,
+      "messageId": 356,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:49:55.861Z"
+    },
+    "kelas3 (219).jpg": {
+      "year": 2025,
+      "size": 2256271,
+      "messageId": 357,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:04.356Z"
+    },
+    "kelas3 (220).jpg": {
+      "year": 2025,
+      "size": 2252108,
+      "messageId": 358,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:12.793Z"
+    },
+    "kelas3 (221).jpg": {
+      "year": 2025,
+      "size": 1456568,
+      "messageId": 359,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:19.256Z"
+    },
+    "kelas3 (222).jpg": {
+      "year": 2025,
+      "size": 1484309,
+      "messageId": 360,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:25.849Z"
+    },
+    "kelas3 (223).jpg": {
+      "year": 2025,
+      "size": 1938872,
+      "messageId": 361,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:33.592Z"
+    },
+    "kelas3 (224).jpg": {
+      "year": 2025,
+      "size": 1280043,
+      "messageId": 362,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:39.011Z"
+    },
+    "kelas3 (225).jpg": {
+      "year": 2025,
+      "size": 1270434,
+      "messageId": 363,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:44.844Z"
+    },
+    "kelas3 (226).jpg": {
+      "year": 2025,
+      "size": 2790322,
+      "messageId": 364,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:50:54.964Z"
+    },
+    "kelas3 (227).jpg": {
+      "year": 2025,
+      "size": 2659761,
+      "messageId": 365,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:05.966Z"
+    },
+    "kelas3 (228).jpg": {
+      "year": 2025,
+      "size": 2791529,
+      "messageId": 366,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:15.986Z"
+    },
+    "kelas3 (229).jpg": {
+      "year": 2025,
+      "size": 2663001,
+      "messageId": 367,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:26.645Z"
+    },
+    "kelas3 (230).jpg": {
+      "year": 2025,
+      "size": 2755952,
+      "messageId": 368,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:38.635Z"
+    },
+    "kelas3 (231).jpg": {
+      "year": 2025,
+      "size": 2745783,
+      "messageId": 369,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:50.605Z"
+    },
+    "kelas3 (232).jpg": {
+      "year": 2025,
+      "size": 1157651,
+      "messageId": 370,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:51:57.033Z"
+    },
+    "kelas3 (233).jpg": {
+      "year": 2025,
+      "size": 1384743,
+      "messageId": 371,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:04.737Z"
+    },
+    "kelas3 (234).jpg": {
+      "year": 2025,
+      "size": 1386928,
+      "messageId": 372,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:12.078Z"
+    },
+    "kelas3 (235).jpg": {
+      "year": 2025,
+      "size": 80293,
+      "messageId": 373,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:14.407Z"
+    },
+    "kelas3 (236).jpg": {
+      "year": 2025,
+      "size": 1166233,
+      "messageId": 374,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:21.229Z"
+    },
+    "kelas3 (237).jpg": {
+      "year": 2025,
+      "size": 93264,
+      "messageId": 375,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:23.511Z"
+    },
+    "kelas3 (238).jpg": {
+      "year": 2025,
+      "size": 1164230,
+      "messageId": 376,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:30.759Z"
+    },
+    "kelas3 (239).jpg": {
+      "year": 2025,
+      "size": 92622,
+      "messageId": 377,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:33.072Z"
+    },
+    "kelas3 (240).jpg": {
+      "year": 2025,
+      "size": 1233231,
+      "messageId": 378,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:39.619Z"
+    },
+    "kelas3 (241).jpg": {
+      "year": 2025,
+      "size": 1206567,
+      "messageId": 379,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:45.696Z"
+    },
+    "kelas3 (242).jpg": {
+      "year": 2025,
+      "size": 1219628,
+      "messageId": 380,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:52.233Z"
+    },
+    "kelas3 (243).jpg": {
+      "year": 2025,
+      "size": 1188985,
+      "messageId": 381,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:52:58.323Z"
+    },
+    "kelas3 (244).jpg": {
+      "year": 2025,
+      "size": 1193448,
+      "messageId": 382,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:04.541Z"
+    },
+    "kelas3 (245).jpg": {
+      "year": 2025,
+      "size": 1177503,
+      "messageId": 383,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:10.053Z"
+    },
+    "kelas3 (246).jpg": {
+      "year": 2025,
+      "size": 1275942,
+      "messageId": 384,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:16.123Z"
+    },
+    "kelas3 (247).jpg": {
+      "year": 2025,
+      "size": 1060529,
+      "messageId": 385,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:21.697Z"
+    },
+    "kelas3 (248).jpg": {
+      "year": 2025,
+      "size": 1227009,
+      "messageId": 386,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:28.447Z"
+    },
+    "kelas3 (249).jpg": {
+      "year": 2025,
+      "size": 1245868,
+      "messageId": 387,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:35.300Z"
+    },
+    "kelas3 (250).jpg": {
+      "year": 2025,
+      "size": 1257833,
+      "messageId": 388,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:42.126Z"
+    },
+    "kelas3 (251).jpg": {
+      "year": 2025,
+      "size": 1292828,
+      "messageId": 389,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:49.024Z"
+    },
+    "kelas3 (252).jpg": {
+      "year": 2025,
+      "size": 1273124,
+      "messageId": 390,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:53:55.956Z"
+    },
+    "kelas3 (253).jpg": {
+      "year": 2025,
+      "size": 1251153,
+      "messageId": 391,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:02.236Z"
+    },
+    "kelas3 (254).jpg": {
+      "year": 2025,
+      "size": 1282334,
+      "messageId": 392,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:08.990Z"
+    },
+    "kelas3 (255).jpg": {
+      "year": 2025,
+      "size": 884561,
+      "messageId": 393,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:14.220Z"
+    },
+    "kelas3 (256).jpg": {
+      "year": 2025,
+      "size": 900192,
+      "messageId": 394,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:20.396Z"
+    },
+    "kelas3 (257).jpg": {
+      "year": 2025,
+      "size": 2209647,
+      "messageId": 395,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:31.782Z"
+    },
+    "kelas3 (258).jpg": {
+      "year": 2025,
+      "size": 2079378,
+      "messageId": 396,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:40.877Z"
+    },
+    "kelas3 (259).jpg": {
+      "year": 2025,
+      "size": 2141935,
+      "messageId": 397,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:54:49.772Z"
+    },
+    "kelas3 (260).jpg": {
+      "year": 2025,
+      "size": 2687927,
+      "messageId": 398,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:01.000Z"
+    },
+    "kelas3 (261).jpg": {
+      "year": 2025,
+      "size": 2607370,
+      "messageId": 399,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:12.272Z"
+    },
+    "kelas3 (262).jpg": {
+      "year": 2025,
+      "size": 3037174,
+      "messageId": 400,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:25.518Z"
+    },
+    "kelas3 (263).jpg": {
+      "year": 2025,
+      "size": 2588587,
+      "messageId": 401,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:36.352Z"
+    },
+    "kelas3 (264).jpg": {
+      "year": 2025,
+      "size": 893245,
+      "messageId": 402,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:41.593Z"
+    },
+    "kelas3 (265).jpg": {
+      "year": 2025,
+      "size": 2661425,
+      "messageId": 403,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:55:52.630Z"
+    },
+    "kelas3 (266).jpg": {
+      "year": 2025,
+      "size": 2567990,
+      "messageId": 404,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:03.821Z"
+    },
+    "kelas3 (267).jpg": {
+      "year": 2025,
+      "size": 1007649,
+      "messageId": 405,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:09.217Z"
+    },
+    "kelas3 (268).jpg": {
+      "year": 2025,
+      "size": 1064759,
+      "messageId": 406,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:15.496Z"
+    },
+    "kelas3 (269).jpg": {
+      "year": 2025,
+      "size": 2638508,
+      "messageId": 407,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:27.016Z"
+    },
+    "kelas3 (270).jpg": {
+      "year": 2025,
+      "size": 2660723,
+      "messageId": 408,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:38.758Z"
+    },
+    "kelas3 (271).jpg": {
+      "year": 2025,
+      "size": 2745531,
+      "messageId": 409,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:56:49.927Z"
+    },
+    "kelas3 (272).jpg": {
+      "year": 2025,
+      "size": 2609620,
+      "messageId": 410,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:01.066Z"
+    },
+    "kelas3 (273).jpg": {
+      "year": 2025,
+      "size": 2693491,
+      "messageId": 411,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:13.097Z"
+    },
+    "kelas3 (274).jpg": {
+      "year": 2025,
+      "size": 3228774,
+      "messageId": 412,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:26.888Z"
+    },
+    "kelas3 (275).jpg": {
+      "year": 2025,
+      "size": 988216,
+      "messageId": 413,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:32.542Z"
+    },
+    "kelas3 (276).jpg": {
+      "year": 2025,
+      "size": 1950853,
+      "messageId": 414,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:40.680Z"
+    },
+    "kelas3 (277).jpg": {
+      "year": 2025,
+      "size": 1803928,
+      "messageId": 415,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:47.905Z"
+    },
+    "kelas3 (278).jpg": {
+      "year": 2025,
+      "size": 2037747,
+      "messageId": 416,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:57:56.258Z"
+    },
+    "kelas3 (279).jpg": {
+      "year": 2025,
+      "size": 1663880,
+      "messageId": 417,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:03.650Z"
+    },
+    "kelas3 (280).jpg": {
+      "year": 2025,
+      "size": 1713839,
+      "messageId": 418,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:08.703Z"
+    },
+    "kelas3 (281).jpg": {
+      "year": 2025,
+      "size": 1691509,
+      "messageId": 419,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:14.057Z"
+    },
+    "kelas3 (282).jpg": {
+      "year": 2025,
+      "size": 1672644,
+      "messageId": 420,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:23.732Z"
+    },
+    "kelas3 (283).jpg": {
+      "year": 2025,
+      "size": 1024189,
+      "messageId": 421,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:28.226Z"
+    },
+    "kelas3 (284).jpg": {
+      "year": 2025,
+      "size": 1055238,
+      "messageId": 422,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:34.983Z"
+    },
+    "kelas3 (285).jpg": {
+      "year": 2025,
+      "size": 1001811,
+      "messageId": 423,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:41.148Z"
+    },
+    "kelas3 (286).jpg": {
+      "year": 2025,
+      "size": 1038203,
+      "messageId": 424,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:47.359Z"
+    },
+    "kelas3 (287).jpg": {
+      "year": 2025,
+      "size": 1248339,
+      "messageId": 425,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:58:54.657Z"
+    },
+    "kelas3 (288).jpg": {
+      "year": 2025,
+      "size": 1300750,
+      "messageId": 426,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:01.957Z"
+    },
+    "kelas3 (289).jpg": {
+      "year": 2025,
+      "size": 2274263,
+      "messageId": 427,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:13.967Z"
+    },
+    "kelas3 (290).jpg": {
+      "year": 2025,
+      "size": 702242,
+      "messageId": 428,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:18.862Z"
+    },
+    "kelas3 (291).jpg": {
+      "year": 2025,
+      "size": 1613694,
+      "messageId": 429,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:26.689Z"
+    },
+    "kelas3 (292).jpg": {
+      "year": 2025,
+      "size": 1600293,
+      "messageId": 430,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:35.096Z"
+    },
+    "kelas3 (293).jpg": {
+      "year": 2025,
+      "size": 191592,
+      "messageId": 431,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:41.193Z"
+    },
+    "kelas3 (294).jpg": {
+      "year": 2025,
+      "size": 251469,
+      "messageId": 432,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:44.278Z"
+    },
+    "kelas3 (295).jpg": {
+      "year": 2025,
+      "size": 249723,
+      "messageId": 433,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:48.129Z"
+    },
+    "kelas3 (296).jpg": {
+      "year": 2025,
+      "size": 2199481,
+      "messageId": 434,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T17:59:59.926Z"
+    },
+    "kelas3 (297).jpg": {
+      "year": 2025,
+      "size": 2224149,
+      "messageId": 435,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:10.986Z"
+    },
+    "kelas3 (298).jpg": {
+      "year": 2025,
+      "size": 1978660,
+      "messageId": 436,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:18.593Z"
+    },
+    "kelas3 (299).jpg": {
+      "year": 2025,
+      "size": 2178258,
+      "messageId": 437,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:31.663Z"
+    },
+    "kelas3 (300).jpg": {
+      "year": 2025,
+      "size": 1510985,
+      "messageId": 438,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:40.023Z"
+    },
+    "kelas3 (301).jpg": {
+      "year": 2025,
+      "size": 1898152,
+      "messageId": 439,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:48.506Z"
+    },
+    "kelas3 (302).jpg": {
+      "year": 2025,
+      "size": 1752488,
+      "messageId": 440,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:00:57.272Z"
+    },
+    "kelas3 (303).jpg": {
+      "year": 2025,
+      "size": 2690029,
+      "messageId": 441,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:10.270Z"
+    },
+    "kelas3 (304).jpg": {
+      "year": 2025,
+      "size": 1036826,
+      "messageId": 442,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:16.535Z"
+    },
+    "kelas3 (305).jpg": {
+      "year": 2025,
+      "size": 2346272,
+      "messageId": 443,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:29.857Z"
+    },
+    "kelas3 (306).jpg": {
+      "year": 2025,
+      "size": 1312757,
+      "messageId": 444,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:37.426Z"
+    },
+    "kelas3 (307).jpg": {
+      "year": 2025,
+      "size": 1337285,
+      "messageId": 445,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:45.561Z"
+    },
+    "kelas3 (308).jpg": {
+      "year": 2025,
+      "size": 1335899,
+      "messageId": 446,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:01:56.949Z"
+    },
+    "kelas3 (309).jpg": {
+      "year": 2025,
+      "size": 1272669,
+      "messageId": 447,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:06.850Z"
+    },
+    "kelas3 (310).jpg": {
+      "year": 2025,
+      "size": 1249768,
+      "messageId": 448,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:14.339Z"
+    },
+    "kelas3 (311).jpg": {
+      "year": 2025,
+      "size": 1323501,
+      "messageId": 449,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:21.832Z"
+    },
+    "kelas3 (312).jpg": {
+      "year": 2025,
+      "size": 1288051,
+      "messageId": 450,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:30.298Z"
+    },
+    "kelas3 (313).jpg": {
+      "year": 2025,
+      "size": 205052,
+      "messageId": 451,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:33.268Z"
+    },
+    "kelas3 (314).jpg": {
+      "year": 2025,
+      "size": 1275130,
+      "messageId": 452,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:41.017Z"
+    },
+    "kelas3 (315).jpg": {
+      "year": 2025,
+      "size": 1262382,
+      "messageId": 453,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:49.345Z"
+    },
+    "kelas3 (316).jpg": {
+      "year": 2025,
+      "size": 1268973,
+      "messageId": 454,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:02:57.519Z"
+    },
+    "kelas3 (317).jpg": {
+      "year": 2025,
+      "size": 200639,
+      "messageId": 455,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:00.647Z"
+    },
+    "kelas3 (318).jpg": {
+      "year": 2025,
+      "size": 1328796,
+      "messageId": 456,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:08.554Z"
+    },
+    "kelas3 (319).jpg": {
+      "year": 2025,
+      "size": 860867,
+      "messageId": 457,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:15.272Z"
+    },
+    "kelas3 (320).jpg": {
+      "year": 2025,
+      "size": 1301820,
+      "messageId": 458,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:22.836Z"
+    },
+    "kelas3 (321).jpg": {
+      "year": 2025,
+      "size": 729997,
+      "messageId": 459,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:28.233Z"
+    },
+    "kelas3 (322).jpg": {
+      "year": 2025,
+      "size": 1337541,
+      "messageId": 460,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:38.145Z"
+    },
+    "kelas3 (323).jpg": {
+      "year": 2025,
+      "size": 833201,
+      "messageId": 461,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:03:44.626Z"
+    },
+    "kelas3 (324).jpg": {
+      "year": 2025,
+      "size": 4774341,
+      "messageId": 462,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:04:03.819Z"
+    },
+    "kelas3 (325).jpg": {
+      "year": 2025,
+      "size": 886248,
+      "messageId": 463,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:04:12.040Z"
+    },
+    "kelas3 (326).jpg": {
+      "year": 2025,
+      "size": 1171096,
+      "messageId": 464,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:04:19.733Z"
+    },
+    "kelas3 (327).jpg": {
+      "year": 2025,
+      "size": 9030793,
+      "messageId": 465,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:04:57.243Z"
+    },
+    "kelas3 (328).jpg": {
+      "year": 2025,
+      "size": 779150,
+      "messageId": 466,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:05:02.941Z"
+    },
+    "kelas3 (329).jpg": {
+      "year": 2025,
+      "size": 5196560,
+      "messageId": 467,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:05:23.793Z"
+    },
+    "kelas3 (330).jpg": {
+      "year": 2025,
+      "size": 4732598,
+      "messageId": 468,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:05:48.910Z"
+    },
+    "kelas3 (331).jpg": {
+      "year": 2025,
+      "size": 5041072,
+      "messageId": 469,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:11.163Z"
+    },
+    "kelas3 (332).jpg": {
+      "year": 2025,
+      "size": 4872065,
+      "messageId": 470,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:31.579Z"
+    },
+    "kelas3 (333).jpg": {
+      "year": 2025,
+      "size": 878520,
+      "messageId": 471,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:37.891Z"
+    },
+    "kelas3 (334).jpg": {
+      "year": 2025,
+      "size": 878441,
+      "messageId": 472,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:43.974Z"
+    },
+    "kelas3 (335).jpg": {
+      "year": 2025,
+      "size": 222262,
+      "messageId": 473,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:51.156Z"
+    },
+    "kelas3 (336).jpg": {
+      "year": 2025,
+      "size": 209403,
+      "messageId": 474,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:54.306Z"
+    },
+    "kelas3 (337).jpg": {
+      "year": 2025,
+      "size": 209237,
+      "messageId": 475,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:06:57.166Z"
+    },
+    "kelas3 (338).jpg": {
+      "year": 2025,
+      "size": 216392,
+      "messageId": 476,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:00.244Z"
+    },
+    "kelas3 (339).jpg": {
+      "year": 2025,
+      "size": 216144,
+      "messageId": 477,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:03.171Z"
+    },
+    "kelas3 (340).jpg": {
+      "year": 2025,
+      "size": 1123858,
+      "messageId": 478,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:09.907Z"
+    },
+    "kelas3 (341).jpg": {
+      "year": 2025,
+      "size": 211339,
+      "messageId": 479,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:13.030Z"
+    },
+    "kelas3 (342).jpg": {
+      "year": 2025,
+      "size": 378818,
+      "messageId": 480,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:16.696Z"
+    },
+    "kelas3 (343).jpg": {
+      "year": 2025,
+      "size": 374050,
+      "messageId": 481,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:20.153Z"
+    },
+    "kelas3 (344).jpg": {
+      "year": 2025,
+      "size": 378680,
+      "messageId": 482,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:23.862Z"
+    },
+    "kelas3 (345).jpg": {
+      "year": 2025,
+      "size": 380028,
+      "messageId": 483,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:27.766Z"
+    },
+    "kelas3 (346).jpg": {
+      "year": 2025,
+      "size": 376920,
+      "messageId": 484,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:31.463Z"
+    },
+    "kelas3 (347).jpg": {
+      "year": 2025,
+      "size": 1625309,
+      "messageId": 485,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:41.328Z"
+    },
+    "kelas3 (348).jpg": {
+      "year": 2025,
+      "size": 377505,
+      "messageId": 486,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:45.229Z"
+    },
+    "kelas3 (349).jpg": {
+      "year": 2025,
+      "size": 379054,
+      "messageId": 487,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:49.046Z"
+    },
+    "kelas3 (350).jpg": {
+      "year": 2025,
+      "size": 386259,
+      "messageId": 488,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:52.988Z"
+    },
+    "kelas3 (351).jpg": {
+      "year": 2025,
+      "size": 374763,
+      "messageId": 489,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:07:56.733Z"
+    },
+    "kelas3 (352).jpg": {
+      "year": 2025,
+      "size": 1652224,
+      "messageId": 490,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:05.190Z"
+    },
+    "kelas3 (353).jpg": {
+      "year": 2025,
+      "size": 1648052,
+      "messageId": 491,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:15.370Z"
+    },
+    "kelas3 (354).jpg": {
+      "year": 2025,
+      "size": 1558455,
+      "messageId": 492,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:21.130Z"
+    },
+    "kelas3 (355).jpg": {
+      "year": 2025,
+      "size": 705460,
+      "messageId": 493,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:24.564Z"
+    },
+    "kelas3 (356).jpg": {
+      "year": 2025,
+      "size": 612093,
+      "messageId": 494,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:28.113Z"
+    },
+    "kelas3 (357).jpg": {
+      "year": 2025,
+      "size": 635125,
+      "messageId": 495,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:31.612Z"
+    },
+    "kelas3 (358).jpg": {
+      "year": 2025,
+      "size": 1116106,
+      "messageId": 496,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:35.972Z"
+    },
+    "kelas3 (359).jpg": {
+      "year": 2025,
+      "size": 1199876,
+      "messageId": 497,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:40.582Z"
+    },
+    "kelas3 (360).jpg": {
+      "year": 2025,
+      "size": 1207166,
+      "messageId": 498,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:45.445Z"
+    },
+    "kelas3 (361).jpg": {
+      "year": 2025,
+      "size": 1125420,
+      "messageId": 499,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:49.982Z"
+    },
+    "kelas3 (362).jpg": {
+      "year": 2025,
+      "size": 1464176,
+      "messageId": 500,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:08:55.294Z"
+    },
+    "kelas3 (363).jpg": {
+      "year": 2025,
+      "size": 1463149,
+      "messageId": 501,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:00.570Z"
+    },
+    "kelas3 (364).jpg": {
+      "year": 2025,
+      "size": 1175983,
+      "messageId": 502,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:05.310Z"
+    },
+    "kelas3 (365).jpg": {
+      "year": 2025,
+      "size": 1312949,
+      "messageId": 503,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:10.236Z"
+    },
+    "kelas3 (366).jpg": {
+      "year": 2025,
+      "size": 1403393,
+      "messageId": 504,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:15.224Z"
+    },
+    "kelas3 (367).jpg": {
+      "year": 2025,
+      "size": 1237428,
+      "messageId": 505,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:19.872Z"
+    },
+    "kelas3 (368).jpg": {
+      "year": 2025,
+      "size": 1420396,
+      "messageId": 506,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:25.053Z"
+    },
+    "kelas3 (369).jpg": {
+      "year": 2025,
+      "size": 1372320,
+      "messageId": 507,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:29.638Z"
+    },
+    "kelas3 (370).jpg": {
+      "year": 2025,
+      "size": 1373667,
+      "messageId": 508,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:34.922Z"
+    },
+    "kelas3 (371).jpg": {
+      "year": 2025,
+      "size": 1499564,
+      "messageId": 509,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:40.352Z"
+    },
+    "kelas3 (372).jpg": {
+      "year": 2025,
+      "size": 1358529,
+      "messageId": 510,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:45.906Z"
+    },
+    "kelas3 (373).jpg": {
+      "year": 2025,
+      "size": 1499425,
+      "messageId": 511,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:51.058Z"
+    },
+    "kelas3 (374).jpg": {
+      "year": 2025,
+      "size": 1370984,
+      "messageId": 512,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:09:55.881Z"
+    },
+    "kelas3 (375).jpg": {
+      "year": 2025,
+      "size": 1297894,
+      "messageId": 513,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:00.479Z"
+    },
+    "kelas3 (376).jpg": {
+      "year": 2025,
+      "size": 1321473,
+      "messageId": 514,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:05.248Z"
+    },
+    "kelas3 (377).jpg": {
+      "year": 2025,
+      "size": 1453368,
+      "messageId": 515,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:10.016Z"
+    },
+    "kelas3 (378).jpg": {
+      "year": 2025,
+      "size": 1411003,
+      "messageId": 516,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:14.732Z"
+    },
+    "kelas3 (379).jpg": {
+      "year": 2025,
+      "size": 1164155,
+      "messageId": 517,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:20.138Z"
+    },
+    "kelas3 (380).jpg": {
+      "year": 2025,
+      "size": 1467631,
+      "messageId": 518,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:27.562Z"
+    },
+    "kelas3 (381).jpg": {
+      "year": 2025,
+      "size": 880826,
+      "messageId": 519,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:34.003Z"
+    },
+    "kelas3 (382).jpg": {
+      "year": 2025,
+      "size": 835473,
+      "messageId": 520,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:38.235Z"
+    },
+    "kelas3 (383).jpg": {
+      "year": 2025,
+      "size": 976087,
+      "messageId": 521,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:42.441Z"
+    },
+    "kelas3 (384).jpg": {
+      "year": 2025,
+      "size": 1146127,
+      "messageId": 522,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:46.967Z"
+    },
+    "kelas3 (385).jpg": {
+      "year": 2025,
+      "size": 1083208,
+      "messageId": 523,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:53.155Z"
+    },
+    "kelas3 (386).jpg": {
+      "year": 2025,
+      "size": 1026571,
+      "messageId": 524,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:10:59.241Z"
+    },
+    "kelas3 (387).jpg": {
+      "year": 2025,
+      "size": 1015395,
+      "messageId": 525,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:03.572Z"
+    },
+    "kelas3 (388).jpg": {
+      "year": 2025,
+      "size": 1676866,
+      "messageId": 526,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:10.606Z"
+    },
+    "kelas3 (389).jpg": {
+      "year": 2025,
+      "size": 1724716,
+      "messageId": 527,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:15.847Z"
+    },
+    "kelas3 (390).jpg": {
+      "year": 2025,
+      "size": 2046777,
+      "messageId": 528,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:21.836Z"
+    },
+    "kelas3 (391).jpg": {
+      "year": 2025,
+      "size": 2152750,
+      "messageId": 529,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:27.997Z"
+    },
+    "kelas3 (392).jpg": {
+      "year": 2025,
+      "size": 2148839,
+      "messageId": 530,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:34.554Z"
+    },
+    "kelas3 (393).jpg": {
+      "year": 2025,
+      "size": 1803662,
+      "messageId": 531,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:38.947Z"
+    },
+    "kelas3 (394).jpg": {
+      "year": 2025,
+      "size": 1793516,
+      "messageId": 532,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:43.536Z"
+    },
+    "kelas3 (395).jpg": {
+      "year": 2025,
+      "size": 2069037,
+      "messageId": 533,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:48.587Z"
+    },
+    "kelas3 (396).jpg": {
+      "year": 2025,
+      "size": 2103345,
+      "messageId": 534,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:53.584Z"
+    },
+    "kelas3 (397).jpg": {
+      "year": 2025,
+      "size": 1850659,
+      "messageId": 535,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:11:58.290Z"
+    },
+    "kelas3 (398).jpg": {
+      "year": 2025,
+      "size": 1845629,
+      "messageId": 536,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:03.805Z"
+    },
+    "kelas3 (399).jpg": {
+      "year": 2025,
+      "size": 1856268,
+      "messageId": 537,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:10.475Z"
+    },
+    "kelas3 (400).jpg": {
+      "year": 2025,
+      "size": 2035643,
+      "messageId": 538,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:15.674Z"
+    },
+    "kelas3 (401).jpg": {
+      "year": 2025,
+      "size": 1734405,
+      "messageId": 539,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:20.693Z"
+    },
+    "kelas3 (402).jpg": {
+      "year": 2025,
+      "size": 296592,
+      "messageId": 540,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:23.170Z"
+    },
+    "kelas3 (403).jpg": {
+      "year": 2025,
+      "size": 153725,
+      "messageId": 541,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:25.834Z"
+    },
+    "kelas3 (404).jpg": {
+      "year": 2025,
+      "size": 154008,
+      "messageId": 542,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:31.905Z"
+    },
+    "kelas3 (405).jpg": {
+      "year": 2025,
+      "size": 207886,
+      "messageId": 543,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:34.566Z"
+    },
+    "kelas3 (406).jpeg": {
+      "year": 2025,
+      "size": 137825,
+      "messageId": 544,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:36.914Z"
+    },
+    "kelas3 (407).jpeg": {
+      "year": 2025,
+      "size": 571345,
+      "messageId": 545,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:39.921Z"
+    },
+    "kelas3 (408).jpeg": {
+      "year": 2025,
+      "size": 1159566,
+      "messageId": 546,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:43.640Z"
+    },
+    "kelas3 (409).jpeg": {
+      "year": 2025,
+      "size": 152456,
+      "messageId": 547,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:45.781Z"
+    },
+    "kelas3 (410).jpeg": {
+      "year": 2025,
+      "size": 783524,
+      "messageId": 548,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:48.901Z"
+    },
+    "kelas3 (411).jpeg": {
+      "year": 2025,
+      "size": 147699,
+      "messageId": 549,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:51.054Z"
+    },
+    "kelas3 (412).jpeg": {
+      "year": 2025,
+      "size": 137316,
+      "messageId": 550,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:53.295Z"
+    },
+    "kelas3 (413).jpeg": {
+      "year": 2025,
+      "size": 95732,
+      "messageId": 551,
+      "chatId": "-1004325211710",
+      "uploadedAt": "2026-10-20T18:12:59.817Z"
+    }
+  }
+}
