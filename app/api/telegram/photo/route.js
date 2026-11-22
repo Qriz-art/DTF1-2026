@@ -100,21 +100,19 @@ export async function GET(request) {
         if (imageResponse.ok) {
           const telegramType =
             imageResponse.headers.get("content-type") || "";
-          const fileType =
-            imageTypes[path.extname(filePath).toLowerCase()];
+          // Telegram mengirim file sebagai application/octet-stream dan
+          // file_path-nya tanpa ekstensi, jadi MIME diambil dari nama foto.
           const contentType = telegramType.startsWith("image/")
             ? telegramType
-            : fileType;
+            : imageTypes[path.extname(name).toLowerCase()] || "image/jpeg";
 
-          if (contentType) {
-            return new Response(await imageResponse.arrayBuffer(), {
-              headers: {
-                "Content-Type": contentType,
-                "Cache-Control": "public, max-age=86400",
-                "X-Content-Type-Options": "nosniff",
-              },
-            });
-          }
+          return new Response(await imageResponse.arrayBuffer(), {
+            headers: {
+              "Content-Type": contentType,
+              "Cache-Control": "public, max-age=86400",
+              "X-Content-Type-Options": "nosniff",
+            },
+          });
         }
       }
     } catch (error) {
